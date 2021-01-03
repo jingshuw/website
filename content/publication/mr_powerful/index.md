@@ -33,8 +33,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-- name: 'Arxiv'
-  url: 'https://arxiv.org/abs/1804.07371'
+- name: Arxiv
+  url: https://arxiv.org/abs/1804.07371
 url_code: ''
 url_slides: ''
 url_video: ''
