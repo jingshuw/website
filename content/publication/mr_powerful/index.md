@@ -31,10 +31,10 @@ tags:
 - Source Themes
 featured: false
 
-# links:
+links:
 # - name: ""
 #   url: ""
-- name: Arxiv
+- name: Preprint
   url: https://arxiv.org/abs/1804.07371
 url_code: ''
 url_slides: ''
