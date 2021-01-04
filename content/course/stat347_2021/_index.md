@@ -24,7 +24,7 @@ menu:
 
 ## Instructor
 
-admin
+Jingshu Wang \url{jingshuw@uchicago.edu}
 
 ## Teaching Assistants
 
@@ -37,5 +37,9 @@ This applied statistics course is a successor of STAT 343 and covers the foundat
 
 - Foundations of Linear and Generalized Linear Models by Alan Agresti (required) 
 - Generalized Linear Models by P. McCullagh and J.A. Nelder (optional)
+
+
+## Class schudule and office hours
+Lectures will be recorded and the videos will be posted on Canvas every week.
 
 
