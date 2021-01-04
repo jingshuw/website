@@ -8,6 +8,8 @@ abstract: ""
 featured: false
 
 publication: "*ArXiv*"
+
+links:
 - name: Preprint
   url: https://arxiv.org/abs/1610.03330
 url_code: 'https://github.com/jingshuw/adaFilter'
