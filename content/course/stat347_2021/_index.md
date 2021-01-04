@@ -22,15 +22,6 @@ menu:
 
 ---
 
-## Instructor
-
-{{% mention "admin" %}}
-email = "jingshuw@uchicago.edu"
-
-
-
-## Teaching Assistants
-
 
 ## Description
 
