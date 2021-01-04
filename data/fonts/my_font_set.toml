@@ -5,7 +5,7 @@ name = "EB Garamond"
 google_fonts = "family=EB+Garamond"
 
 # Font families
-heading_font = "Montserrat"
+heading_font = "EB Garamond"
 body_font = "EB Garamond"
 nav_font = "Roboto"
 mono_font = "Roboto Mono"
