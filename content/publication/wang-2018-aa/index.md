@@ -10,10 +10,9 @@ publication: "*Proceedings of the National Academy of Sciences*"
 links:
 - name: Paper
   url: "http://www.pnas.org/content/115/28/E6437.abstract"
-- name: code
-  url: 'https://github.com/jingshuw/descend'
 - name: Preprint 
   url: 'https://www.biorxiv.org/content/10.1101/227033v2'
+url_code: 'https://github.com/jingshuw/descend'
 
 ---
 
