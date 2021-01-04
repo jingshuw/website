@@ -12,13 +12,11 @@ publication: "*Nature Methods*"
 links:
 - name: Paper
   url: "https://doi.org/10.1038/s41592-019-0537-1"
-- name: Code
-  url: https://github.com/jingshuw/SAVERX
 - name: Website
   url: https://singlecellgateway.wharton.upenn.edu/
 - name: Preprint
   url: https://www.biorxiv.org/content/10.1101/457879v3
-
+url_code: https://github.com/jingshuw/SAVERX
 
 ---
 
