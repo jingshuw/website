@@ -24,7 +24,7 @@ menu:
 
 ## Instructor
 
-Jingshu Wang \url{jingshuw@uchicago.edu}
+Jingshu Wang [jingshuw@uchicago.edu]
 
 ## Teaching Assistants
 

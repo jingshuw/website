@@ -13,9 +13,6 @@ menu:
 weight: 1
 ---
 
-Content...
-
-abc
-bbd
+Coming soon ...
 
 
