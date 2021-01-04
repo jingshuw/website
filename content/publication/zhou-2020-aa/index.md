@@ -11,6 +11,8 @@ publication: "*Nature Communications*"
 links:
 - name: Paper
   url: "https://doi.org/10.1038/s41467-020-14391-0"
+- name: Preprint
+  url: https://www.biorxiv.org/content/10.1101/671180v2
 url_code: "https://github.com/zhouzilu/cTPnet"
 
 ---

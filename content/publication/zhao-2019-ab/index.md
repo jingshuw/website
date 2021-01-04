@@ -6,7 +6,7 @@ authors:
 - admin
 - Dylan S. Small 
 date: "2019-10-01T00:00:00Z"
-doi: "10.1093/ije/dyz142"
+# doi: "10.1093/ije/dyz142"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -18,7 +18,7 @@ doi: "10.1093/ije/dyz142"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Journal of Epidemiology"
+publication: "*International Journal of Epidemiology*"
 publication_short: ""
 
 abstract: We develop an empirical partially Bayes statistical analysis approach where instruments are weighted according to their strength; thus weak instruments bring less variation to the estimator. The estimator is highly efficient with many weak genetic instruments and is robust to balanced and/or sparse pleiotropy. 
@@ -34,6 +34,8 @@ featured: false
 links:
 # - name: ""
 #   url: ""
+- name: Paper
+  url: https://academic.oup.com/ije/article-abstract/48/5/1478/5531250?redirectedFrom=fulltext
 - name: Preprint
   url: https://arxiv.org/abs/1804.07371
 url_code: ''
