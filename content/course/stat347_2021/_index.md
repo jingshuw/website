@@ -26,7 +26,6 @@ menu:
 
 {{% mention "admin" %}} [jingshuw@uchicago.edu]
 
-{{< cite page="/people" view="4" >}}
 
 ## Teaching Assistants
 
