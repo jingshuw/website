@@ -24,7 +24,9 @@ menu:
 
 ## Instructor
 
-{{% mention "admin" %}} [jingshuw@uchicago.edu]
+{{% mention "admin" %}}
+email = "jingshuw@uchicago.edu"
+
 
 
 ## Teaching Assistants
