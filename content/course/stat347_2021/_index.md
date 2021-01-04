@@ -1,7 +1,8 @@
 ---
-linktitle: STAT34700 Generalized Linear Models
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+linktitle: STAT34700 Generalized Linear Models (Winter 2021)
 weight: 1
+
+
 
 # Page metadata.
 title: Overview
