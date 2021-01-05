@@ -62,7 +62,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Principal Investigator
 ---
 
 I am currently an assistant professor at the Department of Statistics, the University of Chicago.
