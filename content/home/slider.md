@@ -12,15 +12,14 @@ active: true
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 800px
+height: 500px
 
 
 item:
   - title: Hello
     content: 'I am center aligned 😄'
     # Choose `center`, `left`, or `right` alignment.
-    align: center
-    size: contain 
+    align: center 
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
 #    overlay_color: '#666'  # An HTML color value.
@@ -38,8 +37,8 @@ item:
     align: center
 #    overlay_color: '#555'
     overlay_img: grapple.jpg
-    size: contain
-    overlay_filter: 0.5
+    overlay_size: contain
+    overlay_filter: 0
   - title: Right
     content: 'I am right aligned 😄'
     align: right
