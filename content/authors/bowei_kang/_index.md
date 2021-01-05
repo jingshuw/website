@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lin Gui
+title: Bowei Kang
 
 # Is this the primary user of the site?
 superuser: false
