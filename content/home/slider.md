@@ -24,7 +24,7 @@ item:
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     overlay_color: '#666'  # An HTML color value.
     overlay_img: uchicago_bannar.jpeg  # Image path relative to your `static/media/` folder
-    overlay_filter: 0.5  # Darken the image. Value in range 0-1.
+    overlay_filter: 0  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
@@ -38,7 +38,7 @@ item:
     cta_url: 'https://jingshuw.org/publication/du-2020-aa/'
     cta_icon_pack: fas
     cta_icon: newspaper
-    overlay_filter: 0.5
+    overlay_filter: 0.3
   - title: ''
     content: 'Causal Inference for Heritable Phenotypic Risk Factors Using Heterogeneous Genetic Instruments'
     align: center
@@ -49,7 +49,7 @@ item:
     cta_url: 'https://jingshuw.org/publication/wang-2020-aa/'
     cta_icon_pack: fas
     cta_icon: newspaper
-    overlay_filter: 0.5
+    overlay_filter: 0.3
   - title: ''
     content: 'Data denoising with transfer learning in single-cell transcriptomics'
     align: center
@@ -60,6 +60,6 @@ item:
     cta_url: 'https://jingshuw.org/publication/wang-2019-ab/'
     cta_icon_pack: fas
     cta_icon: newspaper
-    overlay_filter: 0.5
+    overlay_filter: 0.3
 
 ---
