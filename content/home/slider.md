@@ -37,7 +37,7 @@ item:
     align: center
 #    overlay_color: '#555'
     overlay_img: grapple.jpg
-    overlay_size: contain
+    image_size: contain
     overlay_filter: 0
   - title: Right
     content: 'I am right aligned 😄'
