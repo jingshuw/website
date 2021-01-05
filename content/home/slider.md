@@ -16,8 +16,8 @@ height: 800px
 
 
 item:
-  - title: Hello
-    content: 'I am center aligned 😄'
+  - title: ''
+    content: ''
     # Choose `center`, `left`, or `right` alignment.
     align: center 
     # Overlay a color or image (optional).
@@ -28,16 +28,17 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: View paper
-    cta_url: 'https://jingshuw.org/publication/wang-2020-aa/'
-    cta_icon_pack: fas
-    cta_icon: newpaper
   - title: ''
-    content: ''
+    content: 'Causal Inference for Heritable Phenotypic Risk Factors Using Heterogeneous Genetic Instruments'
     align: center
 #    overlay_color: '#555'
     overlay_img: grapple.png
     overlay_filter: 0
+    cta_label: View paper
+    cta_url: 'https://jingshuw.org/publication/wang-2020-aa/'
+    cta_icon_pack: fas
+    cta_icon: newspaper
+    overlay_filter: 0.5
   - title: Right
     content: 'I am right aligned 😄'
     align: right
