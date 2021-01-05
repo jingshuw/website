@@ -20,9 +20,10 @@ item:
     content: 'I am center aligned 😄'
     # Choose `center`, `left`, or `right` alignment.
     align: center
+    size: contain 
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
-    overlay_color: '#666'  # An HTML color value.
+#    overlay_color: '#666'  # An HTML color value.
     overlay_img: jones_lab1.jpg  # Image path relative to your `static/media/` folder
     overlay_filter: 0  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
@@ -35,8 +36,9 @@ item:
   - title: Left
     content: 'I am left aligned 😄'
     align: center
-    overlay_color: '#555'
+#    overlay_color: '#555'
     overlay_img: grapple.jpg
+    size: contain
     overlay_filter: 0.5
   - title: Right
     content: 'I am right aligned 😄'
