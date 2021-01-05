@@ -28,10 +28,10 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-#    cta_label: Download my app
-#    cta_url: 'https://example.org'
-#    cta_icon_pack: fas
-#    cta_icon: graduation-cap
+    cta_label: View paper
+    cta_url: 'https://jingshuw.org/publication/wang-2020-aa/'
+    cta_icon_pack: fas
+    cta_icon: newpaper
   - title: ''
     content: ''
     align: center
