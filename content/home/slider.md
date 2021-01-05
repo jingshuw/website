@@ -36,9 +36,9 @@ item:
     content: 'I am left aligned 😄'
     align: center
 #    overlay_color: '#555'
-    overlay_img: grapple.jpg
+    overlay_img: grapple.png
     image_size: cover
-    overlay_filter: 0.5
+    overlay_filter: 0.2
   - title: Right
     content: 'I am right aligned 😄'
     align: right
