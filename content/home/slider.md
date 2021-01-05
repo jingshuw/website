@@ -1,3 +1,4 @@
+---
 widget: slider
 headless: true  # This file represents a page section.
 
@@ -6,7 +7,8 @@ headless: true  # This file represents a page section.
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
 interval: false
-weight: 20
+weight: 10
+active: true
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
