@@ -50,4 +50,16 @@ item:
     cta_icon_pack: fas
     cta_icon: newspaper
     overlay_filter: 0.5
+  - title: ''
+    content: 'Data denoising with transfer learning in single-cell transcriptomics'
+    align: center
+    overlay_color: '#555'
+    overlay_img: saverx.png
+    overlay_filter: 0
+    cta_label: View paper
+    cta_url: 'https://jingshuw.org/publication/wang-2019-ab/'
+    cta_icon_pack: fas
+    cta_icon: newspaper
+    overlay_filter: 0.5
+
 ---
