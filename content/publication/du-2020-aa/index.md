@@ -17,6 +17,9 @@ links:
   url: https://www.biorxiv.org/content/10.1101/2020.12.26.424452v1
 url_code: 'https://github.com/jaydu1/VITAE'
 
-
+image:
+  caption: 'VITAE provides better trajectory inference than an alternative Seurat integration + Slingshot approach'
+  focal_point: ""
+  preview_only: false
 ---
 
