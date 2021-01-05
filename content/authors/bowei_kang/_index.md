@@ -6,7 +6,7 @@ title: Lin Gui
 superuser: false
 
 # Role/position
-role: Ph.D. student in statistics
+role: Master student in statistics (2019-2020)
 
 # Organizations/Affiliations
 organizations:
@@ -20,10 +20,10 @@ organizations:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:glin6@statistics.uchicago.edu'
+#social:
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:glin6@statistics.uchicago.edu'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/aoragsusa
@@ -40,15 +40,15 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "glin6@statistics.uchicago.edu"
+#email: "glin6@statistics.uchicago.edu"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Alumni
 ---
 
 
