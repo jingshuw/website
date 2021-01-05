@@ -32,13 +32,12 @@ item:
 #    cta_url: 'https://example.org'
 #    cta_icon_pack: fas
 #    cta_icon: graduation-cap
-  - title: Left
-    content: 'I am left aligned 😄'
+  - title: ''
+    content: ''
     align: center
 #    overlay_color: '#555'
     overlay_img: grapple.png
-    image_size: cover
-    overlay_filter: 0.2
+    overlay_filter: 0
   - title: Right
     content: 'I am right aligned 😄'
     align: right
