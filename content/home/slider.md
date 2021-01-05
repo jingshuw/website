@@ -12,7 +12,7 @@ active: true
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: 500in
+height: 500px
 
 
 item:
