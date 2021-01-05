@@ -22,7 +22,7 @@ item:
     align: center 
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
-#    overlay_color: '#666'  # An HTML color value.
+    overlay_color: '#666'  # An HTML color value.
     overlay_img: jones_lab1.jpg  # Image path relative to your `static/media/` folder
     overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
@@ -31,8 +31,8 @@ item:
   - title: ''
     content: 'Causal Inference for Heritable Phenotypic Risk Factors Using Heterogeneous Genetic Instruments'
     align: center
-#    overlay_color: '#555'
-    overlay_img: grapple.png
+    overlay_color: '#555'
+    overlay_img: model_new.png
     overlay_filter: 0
     cta_label: View paper
     cta_url: 'https://jingshuw.org/publication/wang-2020-aa/'
