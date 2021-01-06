@@ -39,8 +39,8 @@ This course will make a balance between practical real data analysis with exampl
 
 ## Textbook
 
-- `**Foundations of Linear and Generalized Linear Models**` by Alan Agresti (required) 
-- `**Extending the Linear Model with R**` [second edition] by Julian J. Faraway (suggested)
+- [**Foundations of Linear and Generalized Linear Models**](http://users.stat.ufl.edu/~aa/glm/glm.html) by *Alan Agresti* (required) 
+- [**Extending the Linear Model with R (second edition)**](https://julianfaraway.github.io/faraway/ELM/) by *Julian J. Faraway* (suggested)
 
 
 
