@@ -13,13 +13,13 @@ menu:
 
 ## Instructor
 
-{{% mention "admin" %}} [mailto](mailto:jingshuw@uchicago.edu)
+{{% mention "admin" %}} [jingshuw@uchicago.edu](mailto:jingshuw@uchicago.edu)
 
 
 
 ## Teaching Assistants
 
-- Omar Ghattas [mailto](mailto:ghattas@statistics.uchicago.edu)
-- Zehao Niu [mailto](mailto:niuzehao@statistics.uchicago.edu)
+- Omar Ghattas [ghattas@statistics.uchicago.edu](mailto:ghattas@statistics.uchicago.edu)
+- Zehao Niu [niuzehao@statistics.uchicago.edu](mailto:niuzehao@statistics.uchicago.edu)
 
 
