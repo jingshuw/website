@@ -20,11 +20,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-#    - name: Deep Learning
-#      tag: Deep Learning
-#    - name: Single cell
-#      tag: scrna
-#    - 
+    - name: Deep Learning
+      tag: Deep Learning
+    - name: Single-cell RNA sequencing
+      tag: 'Single-cell RNA sequencing'
+    - name: Mendelian Randomization
+      tag: 'Mendelian Randomization'
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
