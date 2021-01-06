@@ -13,8 +13,8 @@ menu:
 # weight: 1
 ---
 
-Week | Date | Topic | Lecture note | R notebook | HW Due
+Week | Date | Topic | Lecture | Tutorial | Due
 ---|---|---|---|---|---
-2021-01-12 | Intro to GLM | [lecture 1] | |
+1 | 2021-01-12 | Introduction to GLM | [lecture 1] | |
 
 
