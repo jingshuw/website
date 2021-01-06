@@ -1,5 +1,5 @@
 ---
-linktitle: Lecture Notes
+linktitle: Staffs
 toc: false
 type: docs
 date: "2019-05-05T00:00:00Z"
@@ -13,19 +13,13 @@ menu:
 
 ## Instructor
 
-{{% mention "admin" %}}
-
-jingshuw@uchicago.edu
+{{% mention "admin" %}} [mailto](mailto:jingshuw@uchicago.edu)
 
 
 
 ## Teaching Assistants
 
-Omar Ghattas 
+- Omar Ghattas [mailto](mailto:ghattas@statistics.uchicago.edu)
+- Zehao Niu [mailto](mailto:niuzehao@statistics.uchicago.edu)
 
-ghattas@statistics.uchicago.edu
-
-
-
-Zehao Niu 
 
