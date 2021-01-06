@@ -26,7 +26,7 @@ menu:
 
 ## Description
 
-This applied statistics course is a successor of STAT 34300 Applied Linear Statistical Methods and covers the foundations of generalized linear models (GLM). We aim to cover the following topics:
+This applied statistics course is a successor of STAT 34300 Applied Linear Statistical Methods and covers the foundations of `generalized linear models (GLM)`. We aim to cover the following topics:
 
 * **GLM model estimation, computation and inference**
 * **Specific GLM models for binary, multinomial and count data**
@@ -41,6 +41,15 @@ This course will make a balance between practical real data analysis with exampl
 
 - [**Foundations of Linear and Generalized Linear Models**](http://users.stat.ufl.edu/~aa/glm/glm.html) by *Alan Agresti* (required) 
 - [**Extending the Linear Model with R (second edition)**](https://julianfaraway.github.io/faraway/ELM/) by *Julian J. Faraway* (suggested)
+
+## Grading
+
+* **Homework assignments: 20&#37**
+* **Midterm: 35&#37**
+* **Final exam: 40&#37**
+
+
+
 
 
 
