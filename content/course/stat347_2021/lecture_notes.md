@@ -13,6 +13,8 @@ menu:
 # weight: 1
 ---
 
-Coming soon ...
+Week | Date | Topic | Lecture note | R notebook | HW Due
+---|---|---|---|---|---
+2021-01-12 | Intro to GLM | [lecture 1] | |
 
 

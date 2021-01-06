@@ -46,9 +46,10 @@ This course will make a balance between practical real data analysis with exampl
 
 - **Homework assignments: 20&#37**
   - There will be 5 assignments in total.
-  - Late homework will not be accepted for grading (medical emergencies excepted with proof).  - Homework will be submitted through Canvas and is due at 12pm the due date.
+  - Late homework will not be accepted for grading (medical emergencies excepted with proof).
+  - Homework will be submitted through Canvas and is due at 12pm the due date.
 - **Midterm: 35&#37**
-= **Final exam: 40&#37**
+- **Final exam: 40&#37**
 
 
 
