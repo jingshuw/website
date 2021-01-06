@@ -15,9 +15,6 @@ header:
 ---
 
 
-summary: [Course website](https://jingshuw.weebly.com/stat347.html) 
+[Course website](https://jingshuw.weebly.com/stat347.html) 
 
-| Command           | Description                    |
-| ------------------| ------------------------------ |
-| `hugo`            | Build your website.            |
-| `hugo serve -w`   | View your website.             |
+
