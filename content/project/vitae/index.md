@@ -2,6 +2,8 @@
 title: VITAE
 summary: A Python package to jointly perform trajectory inference for multiple single-cell RNA sequencing datasets. [Paper](https://jingshuw.org/publication/du-2020-aa/).
 
+date: "2021-01-01T00:00:00Z"
+
 tags:
 - Deep Learning
 - Single-cell RNA sequencing
