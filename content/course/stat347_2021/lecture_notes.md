@@ -13,6 +13,6 @@ menu:
 
 Week | Date | Topic | Lecture | Tutorial | Due
 ---|---|---|---|---|---
-1 | 2021-01-12 | Introduction to GLM | [lecture 1] | |
+1 | 2021-01-12 | Introduction to GLM XXXXXXXXX  XXXXX | [lecture 1] | Example 1 | HW1 
 
 
