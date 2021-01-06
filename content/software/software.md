@@ -28,6 +28,8 @@ content:
       tag: 'Multiple Testing'
     - name: Deep Learning
       tag: Deep Learning
+    - name: Factor Analysis
+      tag: Factor Analysis
 
 
 design:

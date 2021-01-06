@@ -13,7 +13,7 @@ links:
   url: "https://projecteuclid.org:443/euclid.aos/1594972837"
 - name: Preprint
   url: "https://arxiv.org/abs/1801.09652"
-url_code: "https://cran.r-project.org/web/packages/mr.raps/index.html"
+url_code: "https://github.com/qingyuanzhao/mr.raps"
 
 ---
 
