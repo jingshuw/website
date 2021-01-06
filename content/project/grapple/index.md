@@ -1,16 +1,13 @@
 ---
 title: GRAPPLE
-summary: A R package for Mendelian Randomization (MR), which features the detection of mutliple pleiotropic pathways, the direction of causation and multivariate MR. 
+summary: An R package for Mendelian Randomization (MR), which features the detection of mutliple pleiotropic pathways, the direction of causation and multivariate MR. [Paper](https://jingshuw.org/publication/wang-2020-aa/)
 
 tags:
 - Mendelian Randomization
 
+date: "2020-11-01T00:00:00Z"
+
 # Optional external URL for project (replaces project detail page).
-links:
-- icon: paper
-  icon_pack: fab
-  name: newspaper
-  url: https://jingshuw.org/publication/du-2020-aa/
 
 external_link: https://github.com/jingshuw/grapple
 
