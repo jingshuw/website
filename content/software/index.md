@@ -1,5 +1,5 @@
 ---
 # Files in this folder represent a Widget Page
-title: "Software"
+title: Software
 type: widget_page
 ---
