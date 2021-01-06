@@ -26,7 +26,7 @@ menu:
 
 ## Description
 
-This applied statistics course is a successor of `STAT 34300 Applied Linear Statistical Methods` and covers the foundations of generalized linear models (GLM). We aim to cover the following topics:
+This applied statistics course is a successor of STAT 34300 Applied Linear Statistical Methods and covers the foundations of generalized linear models (GLM). We aim to cover the following topics:
 
 * **GLM model estimation, computation and inference**
 * **Specific GLM models for binary, multinomial and count data**
@@ -39,8 +39,8 @@ This course will make a balance between practical real data analysis with exampl
 
 ## Textbook
 
-- [*Foundations of Linear and Generalized Linear Models*] by Alan Agresti (required) 
-- [*Extending the Linear Model with R*] (second edition) by Julian J. Faraway (suggested)
+- `**Foundations of Linear and Generalized Linear Models**` by Alan Agresti (required) 
+- `**Extending the Linear Model with R**` [second edition] by Julian J. Faraway (suggested)
 
 
 
