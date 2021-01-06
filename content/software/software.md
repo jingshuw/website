@@ -1,12 +1,12 @@
 ---
 widget: portfolio
-headless: true  # This file represents a page section.
+headless: false  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 
 content:
   # Page type to display. E.g. project.
-  page_type: Software
+  page_type: project
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below)
   filter_default: 0
