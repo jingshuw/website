@@ -1,6 +1,6 @@
 ---
 linktitle: Lecture Notes
-toc: true
+toc: false
 type: docs
 date: "2019-05-05T00:00:00Z"
 draft: false
@@ -13,6 +13,6 @@ menu:
 
 Week | Date | Topic | Lecture | Tutorial | Due
 ---|---|---|---|---|---
-1 | 2021-01-12 | Introduction to GLM XXXXXXXXX  XXXXX | [lecture 1] | Example 1 | HW1 
+1 | 2021-01-12 | Introduction to GLM | [lecture 1] | Example 1 | -- 
 
 
