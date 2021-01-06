@@ -1,5 +1,5 @@
 ---
-title: easBcv
+title: esaBcv
 summary: An R package to estimate the number of factors in factor analysis using bi-cross-validation. [Paper](https://jingshuw.org/publication/owen-2016-aa/)
 
 tags:
