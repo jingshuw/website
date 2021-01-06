@@ -1,10 +1,14 @@
 ---
-title: Courses
+linktitle: STAT34700
 view: 4
 
 header:
   caption: ""
   image: ""
+
+external_link: https://github.com/jingshuw/descend
+
+
 
 ---
 
