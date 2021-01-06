@@ -1,11 +1,18 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: VITAE
+summary: A Python package to jointly perform trajectory inference for multiple single-cell RNA sequencing datasets
+
 tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
+- Deep Learning
+- Single-cell RNA sequencing
 
 # Optional external URL for project (replaces project detail page).
+links:
+- icon: paper
+  icon_pack: fab
+  name: newspaper
+  url: https://jingshuw.org/publication/du-2020-aa/
+
 external_link: https://github.com/jaydu1/VITAE
 
 image:
