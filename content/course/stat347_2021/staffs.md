@@ -13,7 +13,9 @@ menu:
 
 ## Instructor
 
-{{% mention "admin" %}} [jingshuw@uchicago.edu](mailto:jingshuw@uchicago.edu)
+{{% mention "admin" %}} 
+
+[jingshuw@uchicago.edu](mailto:jingshuw@uchicago.edu)
 
 
 
