@@ -13,6 +13,6 @@ menu:
 
 Week | Date | Topic | Lecture | Tutorial | Due
 ---|---|---|---|---|---
-1 | 2021-01-12 | Introduction to GLM | [lecture 1] | Example 1 | -- 
+1 | 2021-01-12 | Introduction to GLM |  {{% staticref "materials/stat347_2021/lecture1.pdf" "newtab" %}}Lecture 1{{% /staticref %}}| Example 1 | -- 
 
 
