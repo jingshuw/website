@@ -18,6 +18,7 @@ Week | Date | Topic | Lecture | R examples | Due
 2 | 2021-01-19 | Hypothesis testing and deviance analysis | {{% staticref "materials/stat347_2021/lecture3.pdf" "newtab" %}}Lecture 3{{% /staticref %}}| -- | --
 2 | 2021-01-20 | -- | -- | -- | HW1 due at 11:59pm
 2 | 2021-01-21 | Computation, building a GLM model | {{% staticref "materials/stat347_2021/lecture4.pdf" "newtab" %}}Lecture 4{{% /staticref %}}| {{% staticref "materials/stat347_2021/Example2.html" "newtab" %}}Data example 2{{% /staticref %}} | --  
+3 | 2021-01-26 | Hypothesis testing and deviance analysis | {{% staticref "materials/stat347_2021/lecture5.pdf" "newtab" %}}Lecture 5{{% /staticref %}}| -- | --
 
 
 
