@@ -21,8 +21,8 @@ Week | Date | Topic | Lecture | R examples | Due
 3 | 2021-01-26 | Binary GLM: links and applications | {{% staticref "materials/stat347_2021/lecture5.pdf" "newtab" %}}Lecture 5{{% /staticref %}}| -- | --
 3 | 2021-01-28 | Binary GLM: deviance, computation and examples | {{% staticref "materials/stat347_2021/lecture6.pdf" "newtab" %}}Lecture 6{{% /staticref %}}| {{% staticref "materials/stat347_2021/Example3.html" "newtab" %}}Data example 3{{% /staticref %}} | --
 4 | 2021-02-02 | Multinomial GLM: nominal response | {{% staticref "materials/stat347_2021/lecture7.pdf" "newtab" %}}Lecture 7{{% /staticref %}}| -- | --
-4 | 2021-02-3 | -- | -- | -- | HW2 due at 11:59pm 
-3 | 2021-01-28 | Multinomial GLM: ordinal response and examples | {{% staticref "materials/stat347_2021/lecture8.pdf" "newtab" %}}Lecture 8{{% /staticref %}}| Coming soon | --
+4 | 2021-02-03 | -- | -- | -- | HW2 due at 11:59pm 
+4 | 2021-02-04 | Multinomial GLM: ordinal response and examples | {{% staticref "materials/stat347_2021/lecture8.pdf" "newtab" %}}Lecture 8{{% /staticref %}}| Coming soon | --
 
 
 
