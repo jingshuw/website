@@ -23,6 +23,8 @@ Week | Date | Topic | Lecture | R examples | Due
 4 | 2021-02-02 | Multinomial GLM: nominal response | {{% staticref "materials/stat347_2021/lecture7.pdf" "newtab" %}}Lecture 7{{% /staticref %}}| -- | --
 4 | 2021-02-03 | -- | -- | -- | HW2 due at 11:59pm 
 4 | 2021-02-04 | Multinomial GLM: ordinal response and examples | {{% staticref "materials/stat347_2021/lecture8.pdf" "newtab" %}}Lecture 8{{% /staticref %}}| {{% staticref "materials/stat347_2021/Example4.html" "newtab" %}}Data example 4{{% /staticref %}} | --
+5 | 2021-02-09 | GLM for counts: log-lienar model and contigency tables | {{% staticref "materials/stat347_2021/lecture9.pdf" "newtab" %}}Lecture 9{{% /staticref %}}| {{% staticref "materials/stat347_2021/Example5.html" "newtab" %}}Data example 5{{% /staticref %}} | --    
+6 | 2021-02-16 | -- | -- | -- | Midterm exam
 
 
 
