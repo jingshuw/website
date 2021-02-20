@@ -29,7 +29,7 @@ menu:
 This applied statistics course is a successor of STAT 34300 Applied Linear Statistical Methods and covers the foundations of `generalized linear models (GLM)`. We aim to cover the following topics:
 
 - [X] **GLM model estimation, computation and inference**
-- [ ] **Specific GLM models for binary, multinomial and count data**
+- [X] **Specific GLM models for binary, multinomial and count data**
 - [ ] **Linear and generalized linear mixed effect models**
 - [ ] **Bayesian approach of GLM**
 - [ ] **Survival analysis**
