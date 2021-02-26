@@ -28,7 +28,8 @@ Week | Date | Topic | Lecture | R examples | Due
 6 | 2021-02-16 | Midterm exam | -- | -- | --
 6 | 2021-02-18 | Quasi-likelihood methods | {{% staticref "materials/stat347_2021/lecture11.pdf" "newtab" %}}Lecture 11{{% /staticref %}}| -- | -- 
 6 | 2021-02-18 | -- | -- | -- | HW3 due at 11:59pm
-7 | 2021-02-23 | Linear mixed effect models | {{% staticref "materials/stat347_2021/lecture12.pdf" "newtab" %}}Lecture 12{{% /staticref %}}| -- | --                                                                                                                                  
+7 | 2021-02-23 | Linear mixed effect models | {{% staticref "materials/stat347_2021/lecture12.pdf" "newtab" %}}Lecture 12{{% /staticref %}}| -- | --    
+7 | 2021-02-23 | Generalized Linear mixed effect models, examples of LMM and GLMM | {{% staticref "materials/stat347_2021/lecture13.pdf" "newtab" %}}Lecture 13{{% /staticref %}}| Coming soon | --                                                                                                                              
 8 | 2021-03-02 | -- | -- | -- | HW4 due at 11:59pm
 
 
