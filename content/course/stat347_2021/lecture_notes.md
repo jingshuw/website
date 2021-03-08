@@ -29,8 +29,11 @@ Week | Date | Topic | Lecture | R examples | Due
 6 | 2021-02-18 | Quasi-likelihood methods | {{% staticref "materials/stat347_2021/lecture11.pdf" "newtab" %}}Lecture 11{{% /staticref %}}| -- | -- 
 6 | 2021-02-18 | -- | -- | -- | HW3 due at 11:59pm
 7 | 2021-02-23 | Linear mixed effect models | {{% staticref "materials/stat347_2021/lecture12.pdf" "newtab" %}}Lecture 12{{% /staticref %}}| -- | --    
-7 | 2021-02-25 | Generalized Linear mixed effect models, examples of LMM and GLMM | {{% staticref "materials/stat347_2021/lecture13.pdf" "newtab" %}}Lecture 13{{% /staticref %}}| {{% staticref "materials/stat347_2021/Example7.html" "newtab" %}}Data example 7{{% /staticref %}} | --                                                                                                                              
+7 | 2021-02-25 | Generalized Linear mixed effect models, examples of LMM and GLMM | {{% staticref "materials/stat347_2021/lecture13.pdf" "newtab" %}}Lecture 13{{% /staticref %}}| {{% staticref "materials/stat347_2021/Example7.html" "newtab" %}}Data example 7{{% /staticref %}} | --
 8 | 2021-03-04 | -- | -- | -- | HW4 due at 11:59pm
+8 | 2021-03-04 | Survival analysis: concepts and Kaplan-Meier estimator | {{% staticref "materials/stat347_2021/lecture14.pdf" "newtab" %}}Lecture 14{{% /staticref %}}| -- | --  
+9 | 2021-03-09 | Survival analysis: log-rank test and proportional hazard regression mdeol | {{% staticref "materials/stat347_2021/lecture15.pdf" "newtab" %}}Lecture 15{{% /staticref %}}| Coming soon | --  
+9 | 2021-03-14 | -- | -- | -- | HW5 due at 11:59pm
 
 
 
