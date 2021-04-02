@@ -25,5 +25,5 @@ During the lab sessions, the TAs will give a 10-15 minutes overview of the lab a
 
 Lab | Subjects (Click on the subjects below to view content)
 ---|---
-1| {{% staticref "materials/stat220/Lab2.html" "newtab" %}}Exploring Numerical Data{{% /staticref %}}
+2| {{% staticref "materials/stat220/Lab2.html" "newtab" %}}Exploring Numerical Data{{% /staticref %}}
 
