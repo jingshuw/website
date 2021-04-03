@@ -28,4 +28,6 @@ Lab | Subjects (Click on the subjects below to view content)
 1| {{% staticref "materials/stat220/Lab1.html" "newtab" %}}Introduction to R and RStudio{{% /staticref %}}
 2| {{% staticref "materials/stat220/Lab2.html" "newtab" %}}Exploring Numerical Data{{% /staticref %}}
 3| {{% staticref "materials/stat220/Lab3.html" "newtab" %}}Exploring Categorical Data{{% /staticref %}} 
+4| {{% staticref "materials/stat220/Lab4.html" "newtab" %}}Law of Large Numbers & Normal Distribution{{% /staticref %}}
+5| {{% staticref "materials/stat220/Lab5.html" "newtab" %}}Normal Distributions{{% /staticref %}}
 
