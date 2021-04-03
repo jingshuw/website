@@ -25,7 +25,7 @@ During the lab sessions, the TAs will give a 10-15 minutes overview of the lab a
 
 Lab | Time | Subjects (Click on the subjects below to view content)
 ---|---|---
-1| Week 0 | {{% staticref "materials/stat220/Lab1.html" "newtab" %}}Introduction to R and RStudio{{% /staticref %}}
+1| Week 0 & 1 | {{% staticref "materials/stat220/Lab1.html" "newtab" %}}Introduction to R and RStudio{{% /staticref %}}
 2| Week 1 | {{% staticref "materials/stat220/Lab2.html" "newtab" %}}Exploring Numerical Data{{% /staticref %}}
 3| Week 2 | {{% staticref "materials/stat220/Lab3.html" "newtab" %}}Exploring Categorical Data{{% /staticref %}} 
 4| Week 3 | {{% staticref "materials/stat220/Lab4.html" "newtab" %}}Law of Large Numbers{{% /staticref %}}
