@@ -30,4 +30,8 @@ Lab | Time | Subjects (Click on the subjects below to view content)
 3| Week 2 | {{% staticref "materials/stat220/Lab3.html" "newtab" %}}Exploring Categorical Data{{% /staticref %}} 
 4| Week 3 | {{% staticref "materials/stat220/Lab4.html" "newtab" %}}Law of Large Numbers{{% /staticref %}}
 5| Week 4 | {{% staticref "materials/stat220/Lab5.html" "newtab" %}}Normal Distributions{{% /staticref %}}
+6| Week 6 | {{% staticref "materials/stat220/Lab6.html" "newtab" %}}Foundations of Statistical Inference: Sampling Distributions{{% /staticref %}}
+7| Week 7 | {{% staticref "materials/stat220/Lab7.html" "newtab" %}}Confidence Intervals{{% /staticref %}}
+8| Week 8 | {{% staticref "materials/stat220/Lab8.html" "newtab" %}}Inference for Numerical Data{{% /staticref %}}
+10| Week 9 | {{% staticref "materials/stat220/Lab10.html" "newtab" %}}Introduction to linear regression{{% /staticref %}}
 
