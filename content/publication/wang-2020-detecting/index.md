@@ -27,7 +27,8 @@ url_code: 'https://github.com/jingshuw/adaFilter'
 
 image:
   caption: 'AdaFilter explicitly guarantee replicability of scientific findings from multiple studies / individuals'
-  focal_point: ""
+  placement: 2
+  focal_point: "Smart"
   preview_only: false
 ---
 
