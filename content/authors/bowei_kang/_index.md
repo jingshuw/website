@@ -6,7 +6,7 @@ title: Bowei Kang
 superuser: false
 
 # Role/position
-role: Master student in statistics (2019-2020)
+role: Master student (2019-2020) Now Ph.D. in biostatistics at UChicago
 
 # Organizations/Affiliations
 organizations:

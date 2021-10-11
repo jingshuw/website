@@ -6,7 +6,7 @@ title: Jinhong Du
 superuser: false
 
 # Role/position
-role: Master student in statistics
+role: Master student in statistics (2019-2021)
 
 # Organizations/Affiliations
 organizations:
