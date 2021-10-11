@@ -1,6 +1,6 @@
 ---
 title: "Detecting Multiple Replicating Signals using Adaptive Filtering Procedures"
-date: 2021-06-06
+date: 2021-10-01
 publishDate: 2021-01-03T23:16:49.131668Z
 authors: [admin, "Lin Gui", "Weijie J. Su", "Chiara Sabatti", "Art B. Owen"]
 publication_types: ["2"]
