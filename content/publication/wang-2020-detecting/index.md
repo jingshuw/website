@@ -12,6 +12,8 @@ publication: "*Annals of Statistics* (to appear)"
 links:
 - name: Preprint
   url: https://arxiv.org/abs/1610.03330
+- name: Paper
+  url: https://www.e-publications.org/ims/submission/AOS/user/submissionFile/46403?confirm=43dba4b9
 url_code: 'https://github.com/jingshuw/adaFilter'
 ---
 
