@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Lin Gui
+title: Dongyue Xie
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. student (Joint with Victor Veich)
+role: Ph.D. student (Joint with Matthew Stephens)
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:glin6@statistics.uchicago.edu'
+  link: 'mailto:dyxie@uchicago.edu'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/aoragsusa
@@ -40,7 +40,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "glin6@statistics.uchicago.edu"
+email: "dyxie@uchicago.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
