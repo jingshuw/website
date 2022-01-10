@@ -16,6 +16,10 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 
+menu:
+  stat41530_2022:
+#    parent: Example Toipic
+    weight: 1
 ---
 
 
