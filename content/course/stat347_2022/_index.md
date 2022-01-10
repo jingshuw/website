@@ -44,7 +44,7 @@ This course will make a balance between practical real data analysis with exampl
 ## Grading
 
 - **Homework assignments: 20&#37**
-  - There will be 5 assignments in total.
+  - There will be 4 assignments in total.
   - Late homework will not be accepted for grading (medical emergencies excepted with proof).
   - Homework will be submitted through Gradescope (for now) and is due at 2:00pm the due date.
 - **Midterm: 40&#37**
