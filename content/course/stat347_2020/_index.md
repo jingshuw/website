@@ -3,7 +3,7 @@ linktitle: STAT34700 Generalized Linear Models (Winter 2020)
 view: 4
 
 
-weight: 2
+weight: 3
 
 
 header:

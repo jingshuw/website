@@ -7,7 +7,7 @@ draft: false
 menu:
   stat347_2021:
 #    parent: Example Toipic
-    weight: 2
+    weight: 0
 
 ---
 
