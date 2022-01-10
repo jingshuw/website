@@ -3,10 +3,10 @@ linktitle:
 weight: 2
 
 # Page metadata.
-title: STAT 34700 Generalized Linear Models
+#title: STAT 34700 Generalized Linear Models
 date: "2021-01-10T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
-draft: false  # Is this a draft? true/false
+draft: true  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
 
