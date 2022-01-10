@@ -1,5 +1,5 @@
 ---
-linktitle: STAT34700 Generalized Linear Models (Winter 2022)
+linktitle: STAT34700 Generalized Linear Models
 weight: 1
 
 
