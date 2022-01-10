@@ -1,5 +1,6 @@
 ---
-linktitle: STAT34700 Generalized Linear Models (Winter 2020)
+linktitle:
+#linktitle: STAT34700 Generalized Linear Models (Winter 2020)
 view: 4
 
 

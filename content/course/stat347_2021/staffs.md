@@ -23,6 +23,7 @@ menu:
 
 ## Teaching Assistants
 
+- Omar Ghattas [ghattas@statistics.uchicago.edu](mailto:ghattas@statistics.uchicago.edu)
+- Zehao Niu [niuzehao@statistics.uchicago.edu](mailto:niuzehao@statistics.uchicago.edu)
 - Joonsuk Kang [joonsukkang@uchicago.edu](mailto:joonsukkang@uchicago.edu)
-- Nathan Gill [gilln@uchicago.edu](mailto:gilln@uchicago.edu)
-- Zhan Lin [zhanlin@uchicago.edu](mailto:zhanlin@uchicago.edu)
+
