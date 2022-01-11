@@ -34,7 +34,7 @@ We will follow the following book for the first 5 weeks:
 
 
 ## Course Materials
-Week | Date | Topic | Slides | Reading Materials 
+Week | Date | Topic | Slides | Extra reading materials 
 ---|---|---|---|---
 1| 2022-01-11 | Potential outcome framework: definition and randomized experiments | -- | --
 
