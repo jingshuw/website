@@ -37,7 +37,7 @@ We will follow the following book for the first 5 weeks:
 Week | Date | Topic | Slides | Extra reading materials 
 ---|---|---|---|---
 1| 2022-01-11 | Potential outcome framework: definition and randomized experiments |  {{% staticref "materials/stat41530_2022/Lecture1.pdf" "newtab" %}}Lecture 1{{% /staticref %}} | --
-
+1| 2022-01-13 | Potential outcome framework: observational studies |  {{% staticref "materials/stat41530_2022/Lecture2.pdf" "newtab" %}}Lecture 2{{% /staticref %}} | --  
 
 
 
