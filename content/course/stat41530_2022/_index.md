@@ -38,7 +38,7 @@ Week | Date | Topic | Slides | Extra reading materials
 ---|---|---|---|---
 1| 2022-01-11 | Potential outcome framework: definition and randomized experiments |  {{% staticref "materials/stat41530_2022/Lecture1.pdf" "newtab" %}}Lecture 1{{% /staticref %}} | --
 1| 2022-01-13 | Potential outcome framework: observational studies |  {{% staticref "materials/stat41530_2022/Lecture2.pdf" "newtab" %}}Lecture 2{{% /staticref %}} | --  
-1| 2022-01-13 | DAG: Markov assumption, d-seperation and connection with potential outcome framework |  {{% staticref "materials/stat41530_2022/Lecture3.pdf" "newtab" %}}Lecture 3{{% /staticref %}} | [Pearl's slides](https://ftp.cs.ucla.edu/pub/stat_ser/uai12-mohan-pearl.pdf)   
+1| 2022-01-18 | DAG: Markov assumption, d-seperation and connection with potential outcome framework |  {{% staticref "materials/stat41530_2022/Lecture3.pdf" "newtab" %}}Lecture 3{{% /staticref %}} | [Pearl's slides](https://ftp.cs.ucla.edu/pub/stat_ser/uai12-mohan-pearl.pdf)   
 
 
 
