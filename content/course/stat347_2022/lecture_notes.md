@@ -18,3 +18,6 @@ Week | Date | Topic | Lecture | R examples | Due
 2 | 2022-01-18 | Hypothesis testing and deviance analysis | {{% staticref "materials/stat347_2022/lecture3.pdf" "newtab" %}}Lecture 3{{% /staticref %}}| -- | --
 2 | 2022-01-20 | -- | -- | -- | HW1 due at 2:00pm
 2 | 2022-01-20 | Computation, building a GLM model | {{% staticref "materials/stat347_2022/lecture4.pdf" "newtab" %}}Lecture 4{{% /staticref %}}| {{% staticref "materials/stat347_2022/Example2.html" "newtab" %}}Data example 2{{% /staticref %}} | --
+3 | 2022-01-25 | Binary GLM: links and applications | {{% staticref "materials/stat347_2022/lecture5.pdf" "newtab" %}}Lecture 5{{% /staticref %}}| -- | --
+3 | 2022-01-27 | Binary GLM: deviance, computation and examples | {{% staticref "materials/stat347_2022/lecture6.pdf" "newtab" %}}Lecture 6{{% /staticref %}}| {{% staticref "materials/stat347_2022/Example3.html" "newtab" %}}Data example 3{{% /staticref %}} | --
+4 | 2022-02-02 | -- | -- | -- | HW2 due at 11:59pm
