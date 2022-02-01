@@ -42,3 +42,4 @@ Week | Date | Topic | Slides | Extra reading materials
 2| 2022-01-20 | DAG: do-operator, backdoor and frontdoor criteria |  {{% staticref "materials/stat41530_2022/Lecture4.pdf" "newtab" %}}Lecture 4{{% /staticref %}} | [Pearl's slides](https://ftp.cs.ucla.edu/pub/stat_ser/uai12-mohan-pearl.pdf)   
 3| 2022-01-25 | DAG: selection bias. Review |  {{% staticref "materials/stat41530_2022/Lecture5.pdf" "newtab" %}}Lecture 5{{% /staticref %}} | --
 3| 2022-01-27 | Estimation and statistical inference |  {{% staticref "materials/stat41530_2022/Lecture6.pdf" "newtab" %}}Lecture 6{{% /staticref %}} | [Dr. Fan Li's slides](https://www2.stat.duke.edu/~fl35/CausalInferenceClass.html)
+4| 2022-02-1 | Instrumental Variables |  {{% staticref "materials/stat41530_2022/Lecture7.pdf" "newtab" %}}Lecture 7{{% /staticref %}} | -- 
