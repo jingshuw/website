@@ -23,3 +23,4 @@ Week | Date | Topic | Lecture | R examples | Due
 4 | 2022-02-01 | Multinomial GLM: nominal response | {{% staticref "materials/stat347_2022/lecture7.pdf" "newtab" %}}Lecture 7{{% /staticref %}}| -- | --
 4 | 2022-02-02 | -- | -- | -- | HW2 due at 11:59pm
 4 | 2022-02-03 | Multinomial GLM: ordinal response and examples | {{% staticref "materials/stat347_2022/lecture8.pdf" "newtab" %}}Lecture 8{{% /staticref %}}| {{% staticref "materials/stat347_2022/Example4.html" "newtab" %}}Data example 4{{% /staticref %}} | --
+6 | 2021-02-15 | Midterm exam | -- | -- | --
