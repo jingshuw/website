@@ -23,7 +23,7 @@ Week | Date | Topic | Lecture | R examples | Due
 4 | 2022-02-01 | Multinomial GLM: nominal response | {{% staticref "materials/stat347_2022/lecture7.pdf" "newtab" %}}Lecture 7{{% /staticref %}}| -- | --
 4 | 2022-02-02 | -- | -- | -- | HW2 due at 11:59pm
 4 | 2022-02-03 | Multinomial GLM: ordinal response and examples | {{% staticref "materials/stat347_2022/lecture8.pdf" "newtab" %}}Lecture 8{{% /staticref %}}| {{% staticref "materials/stat347_2022/Example4.html" "newtab" %}}Data example 4{{% /staticref %}} | --
-5 | 2021-02-08 | GLM for counts: log-linear model and contigency tables | {{% staticref "materials/stat347_2022/lecture9.pdf" "newtab" %}}Lecture 9{{% /staticref %}}| {{% staticref "materials/stat347_2022/Example5.html" "newtab" %}}Data example 5{{% /staticref %}} | --
+5 | 2022-02-08 | GLM for counts: log-linear model and contigency tables | {{% staticref "materials/stat347_2022/lecture9.pdf" "newtab" %}}Lecture 9{{% /staticref %}}| {{% staticref "materials/stat347_2022/Example5.html" "newtab" %}}Data example 5{{% /staticref %}} | --
 5 | 2022-02-10 | GLM for counts: over-dispersion and zero-inflation  | {{% staticref "materials/stat347_2022/lecture10.pdf" "newtab" %}}Lecture 10{{% /staticref %}}| {{% staticref "materials/stat347_2022/Example6.html" "newtab" %}}Data example 6{{% /staticref %}} | --
-6 | 2021-02-15 | Midterm exam | -- | -- | --
+6 | 2022-02-15 | Midterm exam | -- | -- | --
 6 | 2022-02-16 | -- | -- | -- | HW3 due at 11:59pm
