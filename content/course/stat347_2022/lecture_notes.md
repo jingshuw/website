@@ -28,3 +28,5 @@ Week | Date | Topic | Lecture | R examples | Due
 6 | 2022-02-15 | Midterm exam | -- | -- | --
 6 | 2022-02-17 | Quasi-likelihood methods | {{% staticref "materials/stat347_2022/lecture11.pdf" "newtab" %}}Lecture 11{{% /staticref %}}| -- | --
 7 | 2022-02-23 | -- | -- | -- | HW3 due at 11:59pm
+7 | 2022-02-22 | Linear mixed effect models | {{% staticref "materials/stat347_2022/lecture12.pdf" "newtab" %}}Lecture 12{{% /staticref %}}| -- | --
+7 | 2022-02-24 | Generalized Linear mixed effect models, examples of LMM and GLMM | {{% staticref "materials/stat347_2022/lecture13.pdf" "newtab" %}}Lecture 13{{% /staticref %}}| {{% staticref "materials/stat347_2022/Example7.html" "newtab" %}}Data example 7{{% /staticref %}} | --
