@@ -17,7 +17,5 @@ links:
   url: https://arxiv.org/abs/2202.06420
 url_code: 'https://github.com/DongyueXie/MEAD'
 
-  focal_point: ""
-  preview_only: false
 ---
 
