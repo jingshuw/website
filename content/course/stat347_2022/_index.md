@@ -30,7 +30,7 @@ This applied statistics course is a successor of STAT 34300 Applied Linear Stati
 
 - [X] **GLM model estimation, computation and inference**
 - [X] **Specific GLM models for binary, multinomial and count data**
-- [ ] **Linear and generalized linear mixed effect models**
+- [X] **Linear and generalized linear mixed effect models**
 - [ ] **Survival analysis**
 
 
