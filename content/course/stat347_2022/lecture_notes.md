@@ -34,5 +34,5 @@ Week | Date | Topic | Lecture | R examples | Due
 8 | 2022-03-03 | Quasi-likelihood examples | -- | {{% staticref "materials/stat347_2022/Example9.html" "newtab" %}}Data example 9{{% /staticref %}} | --
 9 | 2021-03-08 | Survival analysis: concepts and Kaplan-Meier estimator | {{% staticref "materials/stat347_2022/lecture14.pdf" "newtab" %}}Lecture 14{{% /staticref %}}| -- | --  
 9 | 2022-03-09 | -- | -- | -- | HW4 due at 11:59pm
-9 | 2021-03-10 | Survival analysis: log-rank test and proportional hazard regression mdeol | {{% staticref "materials/stat347_2022/lecture15.pdf" "newtab" %}}Lecture 15{{% /staticref %}}| {{% staticref "materials/stat347_2021/Example10.html" "newtab" %}}Data example 8{{% /staticref %}} | --
+9 | 2021-03-10 | Survival analysis: log-rank test and proportional hazard regression mdeol | {{% staticref "materials/stat347_2022/lecture15.pdf" "newtab" %}}Lecture 15{{% /staticref %}}| {{% staticref "materials/stat347_2021/Example10.html" "newtab" %}}Data example 10{{% /staticref %}} | --
 
