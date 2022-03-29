@@ -30,7 +30,7 @@ menu:
 In many applications of statistics, a large proportion of the questions of interest are about causality rather than questions of description or association. Would booster shots reduce the chance of getting infected by the new variant of COVID-19? How does a new tax policy affect the economic activity? Can a universal health insurance program improve people’s health? In this course, we will introduce some basic concepts and methods in causal inference and discuss examples from various disciplines. The course plans to cover the potential outcome framework, randomize experiments, randomization and model-based inference, matching, sensitivity analysis, and instrumental variables. Examples include the evaluation of job training programs, educational voucher schemes, clinical trials and observational data of medical treatments, smoking, the influenza vaccination study, and more.
 
 Textbook:
-- - [**Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction**] by
+- - [**Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction**](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB) by
 *Imbens, Guido W. and Rubin, Donald B.* (2015). 
 
 
