@@ -6,7 +6,7 @@ weight: 3
 
 
 # Page metadata.
-title: STAT 24630 Causal Inference Methods and Case Studies 
+#title: STAT 24630 Causal Inference Methods and Case Studies 
 date: "2022-01-10T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
