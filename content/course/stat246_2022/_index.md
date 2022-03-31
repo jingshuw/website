@@ -39,4 +39,5 @@ Textbook:
 Week | Date | Topic | Slides | Extra reading materials | Due
 ---|---|---|---|---|---
 1| 2022-03-29 | Introduction with four examples |  {{% staticref "materials/stat246_2022/Lecture1.pdf" "newtab" %}}Lecture 1{{% /staticref %}} | Papers listed at the end of slides|---
+1| 2022-03-31 | Potential outcome framework concepts |  {{% staticref "materials/stat246_2022/Lecture2.pdf" "newtab" %}}Lecture 2{{% /staticref %}} | Papers listed at the end of slides|---
 2| 2022-04-10 |---|---|---|HW1 due at 11:59pm
