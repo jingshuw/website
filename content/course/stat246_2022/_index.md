@@ -36,10 +36,11 @@ Textbook:
 
 
 ## Course Materials
-Week | Date | Topic | Slides | Extra reading materials | Due
+Week | Date | Topic | Slides | Extra materials | Due
 ---|---|---|---|---|---
 1| 2022-03-29 | Introduction with four examples |  {{% staticref "materials/stat246_2022/Lecture1.pdf" "newtab" %}}Lecture 1{{% /staticref %}} | Papers listed at the end of slides|---
 1| 2022-03-31 | Potential outcome framework concepts |  {{% staticref "materials/stat246_2022/Lecture2.pdf" "newtab" %}}Lecture 2{{% /staticref %}} | Papers listed at the end of slides|---
 2| 2022-04-05 | Randomized experiment and Fisher's exact p-value |  {{% staticref "materials/stat246_2022/Lecture3.pdf" "newtab" %}}Lecture 3{{% /staticref %}} | ---|---
-2| 2022-04-07 | Case study, Neyman's repeated sampling approach |  {{% staticref "materials/stat246_2022/Lecture4.pdf" "newtab" %}}Lecture 4 (first half){{% /staticref %}} | ---|---
-3| 2022-04-11 |---|---|---|HW1 due at 11:59pm
+2| 2022-04-07 | Case study with Fisher's exact p-value |  {{% staticref "materials/stat246_2022/Lecture4.pdf" "newtab" %}}Lecture 4{{% /staticref %}} | ---|---
+3| 2022-04-12 | Neyman's repeated sampling approach |  {{% staticref "materials/stat246_2022/Lecture5.pdf" "newtab" %}}Lecture 5{{% /staticref %}} | {{% staticref "materials/stat246_2022/R_example1.nb.html" "newtab" %}}R Example to compute Fisher's exact p-value{{% /staticref %}}|---
+3| 2022-04-13 |---|---|---|HW1 due at 11:59pm
