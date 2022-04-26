@@ -48,3 +48,4 @@ Week | Date | Topic | Slides | Extra materials | Due
 4| 2022-04-19 | Statified randomized experiments |  {{% staticref "materials/stat246_2022/Lecture7.pdf" "newtab" %}}Lecture 7{{% /staticref %}} | {{% staticref "materials/stat246_2022/R_example2.nb.html" "newtab" %}}R Example for regression{{% /staticref %}} |--- 
 4| 2022-04-21 | Pairwise randomized experiments |  {{% staticref "materials/stat246_2022/Lecture8.pdf" "newtab" %}}Lecture 8{{% /staticref %}} | {{% staticref "materials/stat246_2022/R_example3.nb.html" "newtab" %}}R Example for analyzing pairwise experiment{{% /staticref %}} |--- 
 5| 2022-04-25 |---|---|---|HW2 due at 11:59pm
+4| 2022-04-26 | Two case studies, non-compliance in randomized experiments |  {{% staticref "materials/stat246_2022/Lecture9.pdf" "newtab" %}}Lecture 9{{% /staticref %}} | {{% staticref "materials/stat246_2022/R_example4.nb.html" "newtab" %}}R Example for case study{{% /staticref %}} |--- 
