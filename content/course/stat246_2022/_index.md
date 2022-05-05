@@ -50,5 +50,6 @@ Week | Date | Topic | Slides | Extra materials | Due
 5| 2022-04-25 |---|---|---|HW2 due at 11:59pm
 5| 2022-04-26 | Two case studies, non-compliance in randomized experiments |  {{% staticref "materials/stat246_2022/Lecture9.pdf" "newtab" %}}Lecture 9{{% /staticref %}} | {{% staticref "materials/stat246_2022/R_example4.nb.html" "newtab" %}}R Example for case study{{% /staticref %}}, {{% staticref "materials/stat246_2022/HOMEFOOD.tab" "newtab" %}}HOMEFOOD.tab{{% /staticref %}} |--- 
 5| 2022-04-28 | Non-compliance in randomized experiments |  {{% staticref "materials/stat246_2022/Lecture10.pdf" "newtab" %}}Lecture 10{{% /staticref %}}|---|--- 
-5| 2022-05-03 | Unconfoundedness, estimation of propensity score |  {{% staticref "materials/stat246_2022/Lecture11.pdf" "newtab" %}}Lecture 11{{% /staticref %}}|---|---
+6| 2022-05-03 | Unconfoundedness, conditional randomized experiments |  {{% staticref "materials/stat246_2022/Lecture11.pdf" "newtab" %}}Lecture 11{{% /staticref %}}|---|---
+6| 2022-05-05 | Observational studies, propensity score estimation |  {{% staticref "materials/stat246_2022/Lecture12.pdf" "newtab" %}}Lecture 12{{% /staticref %}}|---|---
 6| 2022-05-08 |---|---|---|HW3 due at 11:59pm
