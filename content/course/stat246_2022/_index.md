@@ -53,4 +53,6 @@ Week | Date | Topic | Slides | Extra materials | Due
 6| 2022-05-03 | Unconfoundedness, conditional randomized experiments |  {{% staticref "materials/stat246_2022/Lecture11.pdf" "newtab" %}}Lecture 11{{% /staticref %}}|---|---
 6| 2022-05-05 | Observational studies, propensity score estimation |  {{% staticref "materials/stat246_2022/Lecture12.pdf" "newtab" %}}Lecture 12{{% /staticref %}}|---|---
 6| 2022-05-08 |---|---|---|HW3 due at 11:59pm
-6| 2022-05-10 | Matching methods |  {{% staticref "materials/stat246_2022/Lecture13.pdf" "newtab" %}}Lecture 13{{% /staticref %}}|---|---
+7| 2022-05-10 | Matching methods |  {{% staticref "materials/stat246_2022/Lecture13.pdf" "newtab" %}}Lecture 13{{% /staticref %}}|---|---
+7| 2022-05-12 | Matching case study, IPW, doubly robust estimator |  {{% staticref "materials/stat246_2022/Lecture14.pdf" "newtab" %}}Lecture 14{{% /staticref %}}|{{% staticref "materials/stat246_2022/R_example5.nb.html" "newtab" %}}R Example for matching{{% /staticref %}}|---
+8| 2022-05-22 |---|---|---|HW4 due at 11:59pm
