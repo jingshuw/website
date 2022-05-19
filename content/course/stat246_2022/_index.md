@@ -58,4 +58,4 @@ Week | Date | Topic | Slides | Extra materials | Due
 8| 2022-05-17 | IPW, trimming and subclassification |  {{% staticref "materials/stat246_2022/Lecture15.pdf" "newtab" %}}Lecture 15{{% /staticref %}}|{{% staticref "materials/stat246_2022/R_example6.nb.html" "newtab" %}}R Example for weighting{{% /staticref %}}|---
 8| 2022-05-19 | Assess unconfoundedness, sensitivity analysis |  {{% staticref "materials/stat246_2022/Lecture16.pdf" "newtab" %}}Lecture 16{{% /staticref %}}|{{% staticref "materials/stat246_2022/R_example7.nb.html" "newtab" %}}R Example for subclassification{{% /staticref %}}|---
 8| 2022-05-22 |---|---|---|HW4 due at 11:59pm
-7| 2022-05-27 |---|---|---|Final project due at 11:59pm (release on 2022/5/20)
+9| 2022-05-27 |---|---|---|Final project due at 11:59pm (release on 2022/5/20)
