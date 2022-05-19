@@ -55,6 +55,7 @@ Week | Date | Topic | Slides | Extra materials | Due
 6| 2022-05-08 |---|---|---|HW3 due at 11:59pm
 7| 2022-05-10 | Matching methods |  {{% staticref "materials/stat246_2022/Lecture13.pdf" "newtab" %}}Lecture 13{{% /staticref %}}|---|---
 7| 2022-05-12 | Matching case study, IPW, doubly robust estimator |  {{% staticref "materials/stat246_2022/Lecture14.pdf" "newtab" %}}Lecture 14{{% /staticref %}}|{{% staticref "materials/stat246_2022/R_example5.nb.html" "newtab" %}}R Example for matching{{% /staticref %}}|---
-8| 2022-05-17 | IPW, trimming and subclassification |  {{% staticref "materials/stat246_2022/Lecture15.pdf" "newtab" %}}Lecture 15{{% /staticref %}}|{{% staticref "materials/stat246_2022/R_example6.nb.html" "newtab" %}}R Example for weighting{{% /staticref %}},{{% staticref "materials/stat246_2022/R_example7.nb.html" "newtab" %}}R Example for subclassification{{% /staticref %}}|---
+8| 2022-05-17 | IPW, trimming and subclassification |  {{% staticref "materials/stat246_2022/Lecture15.pdf" "newtab" %}}Lecture 15{{% /staticref %}}|{{% staticref "materials/stat246_2022/R_example6.nb.html" "newtab" %}}R Example for weighting{{% /staticref %}}|---
+8| 2022-05-19 | Assess unconfoundedness, sensitivity analysis |  {{% staticref "materials/stat246_2022/Lecture16.pdf" "newtab" %}}Lecture 16{{% /staticref %}}|{{% staticref "materials/stat246_2022/R_example7.nb.html" "newtab" %}}R Example for subclassification{{% /staticref %}}|---
 8| 2022-05-22 |---|---|---|HW4 due at 11:59pm
 7| 2022-05-27 |---|---|---|Final project due at 11:59pm (release on 2022/5/20)
