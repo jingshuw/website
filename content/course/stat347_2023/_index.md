@@ -5,7 +5,7 @@ weight: 1
 
 # Page metadata.
 title: STAT 34700 Generalized Linear Models 
-date: "2022-01-10T00:00:00Z"
+date: "2023-01-01T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
@@ -15,7 +15,7 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  stat347_2022:
+  stat347_2023:
     name: Overview
     weight: 1
 
