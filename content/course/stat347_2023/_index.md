@@ -1,7 +1,6 @@
 ---
-linktitle: 
-weight: 5
-
+linktitle: STAT34700 Generalized Linear Models
+weight: 1
 
 
 # Page metadata.
