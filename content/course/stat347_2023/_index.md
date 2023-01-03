@@ -15,7 +15,7 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  stat347_2023:
+  stat347_2022:
     name: Overview
     weight: 1
 
@@ -32,12 +32,11 @@ This applied statistics course is a successor of STAT 34300 Applied Linear Stati
 - [ ] **Linear and generalized linear mixed effect models**
 
 
-
 This course will make a balance between practical real data analysis with examples and a deeper understanding of the models with mathematical derivations.
 
 ## Textbook
 
-- [**Foundations of Linear and Generalized Linear Models**](http://users.stat.ufl.edu/~aa/glm/glm.html) by *Alan Agresti* (required)
+- [**Foundations of Linear and Generalized Linear Models**](http://users.stat.ufl.edu/~aa/glm/glm.html) by *Alan Agresti* (required) 
 - [**Extending the Linear Model with R (second edition)**](https://julianfaraway.github.io/faraway/ELM/) by *Julian J. Faraway* (suggested)
 
 ## Grading
@@ -48,8 +47,6 @@ This course will make a balance between practical real data analysis with exampl
   - Homework will be submitted through Gradescope and is due at 11:59pm the due date.
 - **Midterm: 40&#37**
 - **Final exam: 40&#37**
-
-
 
 
 
