@@ -15,6 +15,7 @@ type: docs  # Do not modify.
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
+
 menu:
   stat347_2023:
     name: Overview
