@@ -24,3 +24,4 @@ Week | Date | Topic | Lecture slides | Lecture notes | R examples | Due
 4 | 2023-01-25 | -- | -- | -- | -- | HW2 due at 11:59pm
 4 | 2023-01-26 | Multinomial GLM: ordinal response |  {{% staticref "materials/stat347_2023/lecture8_slides.pdf" "newtab" %}}Lecture 8{{% /staticref %}}| {{% staticref "materials/stat347_2023/lecture8_notes.pdf" "newtab" %}}Lecture 8{{% /staticref %}}| {{% staticref "materials/stat347_2023/Example4_2.html" "newtab" %}}Data example 4, part II{{% /staticref %}} | --
 5 | 2023-01-31 | GLM for counts: log-linear model and contingency tables |  {{% staticref "materials/stat347_2023/lecture9_slides.pdf" "newtab" %}}Lecture 9{{% /staticref %}}| {{% staticref "materials/stat347_2023/lecture9_notes.pdf" "newtab" %}}Lecture 9{{% /staticref %}}| {{% staticref "materials/stat347_2023/Example5.html" "newtab" %}}Data example 5{{% /staticref %}} | --
+6 | 2023-02-09 | -- | -- | -- | -- | HW3 due at 11:59pm
