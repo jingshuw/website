@@ -29,3 +29,4 @@ Week | Date | Topic | Lecture slides | Lecture notes | R examples | Due
 6 | 2023-02-09 | -- | -- | -- | -- | HW3 due at 11:59pm
 6 | 2023-02-09 | Beta-binomial GLM |  {{% staticref "materials/stat347_2023/lecture11_slides.pdf" "newtab" %}}Lecture 11{{% /staticref %}}| {{% staticref "materials/stat347_2023/lecture11_notes.pdf" "newtab" %}}Lecture 11{{% /staticref %}}| -- | --
 7 | 2023-02-14 | Quasi-likelihood, Sandwich estimator |  {{% staticref "materials/stat347_2023/lecture12_slides.pdf" "newtab" %}}Lecture 12{{% /staticref %}}| {{% staticref "materials/stat347_2023/lecture12_notes.pdf" "newtab" %}}Lecture 12{{% /staticref %}}| {{% staticref "materials/stat347_2023/Example7.html" "newtab" %}}Data example 7{{% /staticref %}} | --
+8 | 2023-02-25 | -- | -- | -- | -- | HW4 due at 11:59pm
