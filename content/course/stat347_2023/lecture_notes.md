@@ -32,4 +32,4 @@ Week | Date | Topic | Lecture slides | Lecture notes | R examples | Due
 7 | 2023-02-16 | Linear mixed effect models (LMM) |  {{% staticref "materials/stat347_2023/lecture13_slides.pdf" "newtab" %}}Lecture 13{{% /staticref %}}| {{% staticref "materials/stat347_2023/lecture13_notes.pdf" "newtab" %}}Lecture 13{{% /staticref %}}| -- | --
 8 | 2023-02-21 | Linear mixed effect models examples | -- | {{% staticref "materials/stat347_2023/lecture14_notes.pdf" "newtab" %}}Lecture 14{{% /staticref %}} | {{% staticref "materials/stat347_2023/Example8.html" "newtab" %}}Data example 8{{% /staticref %}} | --
 8 | 2023-02-23 | Generalized linear mixed effect models examples |  {{% staticref "materials/stat347_2023/lecture15_slides.pdf" "newtab" %}}Lecture 15{{% /staticref %}} | {{% staticref "materials/stat347_2023/lecture15_notes.pdf" "newtab" %}}Lecture 15{{% /staticref %}} | {{% staticref "materials/stat347_2023/Example9.html" "newtab" %}}Data example 9{{% /staticref %}} | --
-8 | 2023-02-25 | -- | -- | -- | -- | HW4 due at 11:59pm
+9 | 2023-02-27 | -- | -- | -- | -- | HW4 due at 11:59pm
