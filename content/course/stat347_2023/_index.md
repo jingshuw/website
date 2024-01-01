@@ -4,7 +4,7 @@ weight: 6
 
 
 # Page metadata.
-title: STAT 34700 Generalized Linear Models 
+#title: STAT 34700 Generalized Linear Models 
 date: "2023-01-01T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
