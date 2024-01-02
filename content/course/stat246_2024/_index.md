@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 
 menu:
-  stat24630_2022:
+  stat24630_2024:
 #    parent: Example Toipic
     weight: 1
 ---
