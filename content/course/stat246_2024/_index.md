@@ -5,7 +5,7 @@ weight: 2
 
 
 # Page metadata.
-title: STAT 24630 Causal Inference Methods and Case Studies 
+title: Causal Inference Methods and Case Studies 
 date: "2024-01-1T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,10 +17,12 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 
 menu:
-  stat24630_2024:
-#    parent: Example Toipic
+  stat246_2024:
+    name: Overview
     weight: 1
+
 ---
+
 
 
 
@@ -38,11 +40,13 @@ In many applications of statistics, a large proportion of the questions of inter
 *Ding, Peng* (2023). (suggested reading)
 
 
-## Course Materials
 
-Week | Date | Topic | Slides | Extra materials | Due
----|---|---|---|---|---
-1| 2024-01-04 | General introduction with four examples|  {{% staticref "materials/stat246_2024/Lecture1.pdf" "newtab" %}}Lecture 1{{% /staticref %}} | Papers listed at the end of slides|---
-2| 2024-01-09 | Potential outcome framework concepts |  {{% staticref "materials/stat246_2024/Lecture2.pdf" "newtab" %}}Lecture 2{{% /staticref %}} | Papers listed at the end of slides|---
-2| 2024-01-14 |---|---|---|HW1 due at 11:59pm
+## Grading
+
+- **Homework assignments: 20&#37**
+  - There will be 4 assignments in total.
+  - Late homework will not be accepted for grading (medical emergencies excepted with proof).
+  - Homework will be submitted through Gradescope and is due at 11:59pm the due date.
+- **2 Quizzes: 20&#37**
+- **Final project: 40&#37**
 
