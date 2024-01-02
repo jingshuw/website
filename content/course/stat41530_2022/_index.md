@@ -1,6 +1,6 @@
 ---
 linktitle: STAT41530 Topics in Causal Inference
-weight: 2
+weight: 3
 
 
 
