@@ -28,7 +28,7 @@ menu:
 
 ## Description
 
-In many applications of statistics, a large proportion of the questions of interest are about causality rather than questions of description or association. Would booster shots reduce the chance of getting infected by the new variant of COVID-19? How does a new tax policy affect the economic activity? Can a universal health insurance program improve people’s health? In this class, we will introduce some basic concepts and methods in causal inference and discuss examples from various disciplines. The course plans to cover the potential outcome framework, randomize experiments, observational studies, sensitivity analysis and instrumental variables. Examples include the California alphabet lottery, the evaluation of job training programs, clinical trials, educational experiments and more.
+In many applications of statistics, a large proportion of the questions of interest are about causality rather than questions of description or association. Would booster shots reduce the chance of getting infected by the new variant of COVID-19? How does a new tax policy affect the economic activity? Can a universal health insurance program improve people’s health? In this class, we will introduce some basic concepts and methods in causal inference and focus on computation, applications and case studies related to causal inference. For causal inference methodology, the course plans to cover the potential outcome framework, randomize experiments, observational studies, sensitivity analysis and instrumental variables. For examples and case studies, we will include the California alphabet lottery, the evaluation of job training programs, clinical trials, educational experiments and many more.
 
 ## Textbook:
 
