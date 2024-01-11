@@ -6,7 +6,7 @@ weight: 2
 
 
 # Page metadata.
-title: Causal Inference Methods and Case Studies 
+#title: Causal Inference Methods and Case Studies 
 date: "2024-01-1T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
