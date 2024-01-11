@@ -1,5 +1,6 @@
 ---
-linktitle: STAT 24630 Causal Inference Methods and Case Studies
+linktitle: 
+# STAT 24630 Causal Inference Methods and Case Studies
 weight: 2
 
 
