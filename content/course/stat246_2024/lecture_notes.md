@@ -20,5 +20,5 @@ Week | Date | Topic | Slides | Extra materials | Due
 2| 2024-01-11 | Randomized experiment and Fisher's exact p-value |  {{% staticref "materials/stat246_2024/Lecture3.pdf" "newtab" %}}Lecture 3{{% /staticref %}} | ---|---
 2| 2024-01-14 |---|---|---|HW1 due at 11:59pm
 3| 2024-01-16 | Case study with Fisher's exact p-value |  {{% staticref "materials/stat246_2024/Lecture4.pdf" "newtab" %}}Lecture 4{{% /staticref %}} |{{% staticref "materials/stat246_2024/R_example1.nb.html" "newtab" %}}R Example to compute Fisher's exact p-value{{% /staticref %}}|---
-3| 2024-01-18 | Neyman’s repeated sampling approach |  {{% staticref "materials/stat246_2024/Lecture4.pdf" "newtab" %}}Lecture 5{{% /staticref %}} |---|---
+3| 2024-01-18 | Neyman’s repeated sampling approach |  {{% staticref "materials/stat246_2024/Lecture5.pdf" "newtab" %}}Lecture 5{{% /staticref %}} |---|---
 4| 2024-01-28 |---|---|---|HW2 due at 11:59pm
