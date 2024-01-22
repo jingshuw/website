@@ -19,4 +19,6 @@ Week | Date | Topic | Lecture | R examples | Due
 2 | 2024-01-12 | -- | -- | -- | -- | HW1 due at 11:59pm
 3 | 2024-01-16 | Deviance Analysis |  {{% staticref "materials/stat347_2024/lecture4_slides.pdf" "newtab" %}}Lecture 4{{% /staticref %}}| {{% staticref "materials/stat347_2024/Example2.html" "newtab" %}}Data example 2{{% /staticref %}} | --
 3 | 2024-01-18 | GLM computation, Binary models |  {{% staticref "materials/stat347_2024/lecture5_slides.pdf" "newtab" %}}Lecture 5{{% /staticref %}}| {{% staticref "materials/stat347_2024/Example3_1.html" "newtab" %}}Data example 3, part I{{% /staticref %}} | --
+4 | 2024-01-23 | Binary model applications, inference and computation |  {{% staticref "materials/stat347_2024/lecture6_slides.pdf" "newtab" %}}Lecture 6{{% /staticref %}}| {{% staticref "materials/stat347_2024/Example3_2.html" "newtab" %}}Data example 3, part II{{% /staticref %}} | --
+4 | 2024-01-25 | Multinomial GLM: nominal response |  {{% staticref "materials/stat347_2024/lecture7_slides.pdf" "newtab" %}}Lecture 7{{% /staticref %}}| {{% staticref "materials/stat347_2024/Example4_1.html" "newtab" %}}Data example 4, part I{{% /staticref %}} | --
 4 | 2024-01-26 | -- | -- | -- | -- | HW2 due at 11:59pm
