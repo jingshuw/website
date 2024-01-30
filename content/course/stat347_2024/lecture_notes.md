@@ -22,3 +22,6 @@ Week | Date | Topic | Lecture | R examples | Due
 4 | 2024-01-23 | Binary model applications, inference and computation |  {{% staticref "materials/stat347_2024/lecture6_slides.pdf" "newtab" %}}Lecture 6{{% /staticref %}}| {{% staticref "materials/stat347_2024/Example3_2.html" "newtab" %}}Data example 3, part II{{% /staticref %}} | --
 4 | 2024-01-25 | Multinomial GLM: nominal response |  {{% staticref "materials/stat347_2024/lecture7_slides.pdf" "newtab" %}}Lecture 7{{% /staticref %}}| {{% staticref "materials/stat347_2024/Example4_1.html" "newtab" %}}Data example 4, part I{{% /staticref %}} | --
 4 | 2024-01-26 | -- | -- | -- | -- | HW2 due at 11:59pm
+5 | 2024-01-30 | Ordinal response models |  {{% staticref "materials/stat347_2024/lecture8_slides.pdf" "newtab" %}}Lecture 8{{% /staticref %}}| {{% staticref "materials/stat347_2024/Example4_2.html" "newtab" %}}Data example 4, part II{{% /staticref %}} | --
+5 | 2024-02-01 | Loglinear regression, contingency tables |  {{% staticref "materials/stat347_2024/lecture9_slides.pdf" "newtab" %}}Lecture 9{{% /staticref %}}| -- | --
+6 | 2024-02-09 | -- | -- | -- | -- | HW3 due at 11:59pm
