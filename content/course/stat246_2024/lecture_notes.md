@@ -25,6 +25,6 @@ Week | Date | Topic | Slides | Extra materials | Due
 4| 2024-01-25 | Stratified randomized experiments |  {{% staticref "materials/stat246_2024/Lecture7.pdf" "newtab" %}}Lecture 7{{% /staticref %}} |---|---
 4| 2024-01-26 |---|---|---|Quiz1 due on Canvas
 4| 2024-01-28 |---|---|---|HW2 due at 11:59pm
-5| 2024-01-30 | post-stratification, pairwise randomized experiment |  {{% staticref "materials/stat246_2024/Lecture8.pdf" "newtab" %}}Lecture 8{{% /staticref %}} |{{% staticref "materials/stat246_2024/R_example3.nb.html" "newtab" %}}R Example for pairwise randomized experiment{{% /staticref %}}|---
-5| 2024-02-01 | Two case studies |  {{% staticref "materials/stat246_2024/Lecture9.pdf" "newtab" %}}Lecture 7{{% /staticref %}} |{{% staticref "materials/stat246_2024/R_example4.nb.html" "newtab" %} Case study with R{{% /staticref %}}|---
+#5| 2024-01-30 | post-stratification, pairwise randomized experiment |  {{% staticref "materials/stat246_2024/Lecture8.pdf" "newtab" %}}Lecture 8{{% /staticref %}} |{{% staticref "materials/stat246_2024/R_example3.nb.html" "newtab" %}}R Example for pairwise randomized experiment{{% /staticref %}}|---
+#5| 2024-02-01 | Two case studies |  {{% staticref "materials/stat246_2024/Lecture9.pdf" "newtab" %}}Lecture 7{{% /staticref %}} |{{% staticref "materials/stat246_2024/R_example4.nb.html" "newtab" %} Case study with R{{% /staticref %}}|---
 6| 2024-02-11 |---|---|---|HW3 due at 11:59pm
