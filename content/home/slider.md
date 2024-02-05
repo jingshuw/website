@@ -12,7 +12,7 @@ active: true
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-#height: 
+height: '300px; background-position:center; background-repeat: no-repeat; background-size: cover'
 
 
 item:
@@ -33,6 +33,7 @@ item:
     align: center
     overlay_color: '#555'
     overlay_img: vitae.png
+    overlay_filter: 0
     cta_label: View paper
     cta_url: 'https://jingshuw.org/publication/du-2020-aa/'
     cta_icon_pack: fas
@@ -43,6 +44,7 @@ item:
     align: center
     overlay_color: '#555'
     overlay_img: heavy_tail.png
+    overlay_filter: 0
     cta_label: View paper
     cta_url: 'https://jingshuw.org/publication/wang-2020-aa/'
     cta_icon_pack: fas
