@@ -46,7 +46,7 @@ item:
     overlay_img: heavy_tail.png
     overlay_filter: 0
     cta_label: View paper
-    cta_url: 'https://jingshuw.org/publication/lin-2023-aa/'
+    cta_url: 'https://jingshuw.org/publication/gui-2023-aa/'
     cta_icon_pack: fas
     cta_icon: newspaper
     overlay_filter: 0.3
