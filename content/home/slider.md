@@ -12,7 +12,7 @@ active: true
 
 # Minimum slide height.
 # Specify a height to ensure a consistent height for each slide.
-height: '300px; background-position:center; background-repeat: no-repeat; background-size: cover'
+height: '400px; background-position:center; background-repeat: no-repeat; background-size: cover'
 
 
 item:
