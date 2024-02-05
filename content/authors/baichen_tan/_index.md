@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Ethan Lewis
+title: Baichen Tan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Former undergraduate and master student (2021-2022)
+role: Undergraduate student
 
 # Organizations/Affiliations
 organizations:
