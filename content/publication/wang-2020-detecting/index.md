@@ -2,7 +2,7 @@
 title: "Detecting Multiple Replicating Signals using Adaptive Filtering Procedures"
 date: 2022-10-01
 publishDate: 2022-01-03T23:16:49.131668Z
-authors: [admin, "Lin Gui", "Weijie J. Su", "Chiara Sabatti", "Art B. Owen"]
+authors: [admin, lin_gui, "Weijie J. Su", "Chiara Sabatti", "Art B. Owen"]
 publication_types: ["2"]
 abstract: "Replicability is a fundamental quality of scientific discoveries: we are
 interested in those signals that are detectable in different laboratories, different populations, across time etc. Unlike meta-analysis which accounts for experimental variability but does not guarantee replicability, testing a partial
