@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Yi-Lin Liu
+title: Shuhong Liu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Former master student (2020 - 2022)
+role: Former undergraduate student (2020)
 
 # Organizations/Affiliations
 organizations:

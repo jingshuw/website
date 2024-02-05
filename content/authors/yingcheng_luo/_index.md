@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Yi-Lin Liu
+title: Yingcheng Luo
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Former master student (2020 - 2022)
+role: Former master student (2020-2022)
 
 # Organizations/Affiliations
 organizations:

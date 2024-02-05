@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Yi-Lin Liu
+title: Ethan Lewis
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Former master student (2020 - 2022)
+role: Former undergraduate and master student (2021-2023)
 
 # Organizations/Affiliations
 organizations:
