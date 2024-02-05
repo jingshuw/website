@@ -6,7 +6,7 @@ title: Bowei Kang
 superuser: false
 
 # Role/position
-role: Former master student
+role: Former master student (2019 - 2020)
 
 # Organizations/Affiliations
 organizations:
