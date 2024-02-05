@@ -29,13 +29,24 @@ item:
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
   - title: ''
-    content: 'Model-based Trajectory Inference for Single-Cell RNA Sequencing Using Deep Learning with a Mixture Prior'
+    content: 'Joint trajectory inference for single-cell genomics using deep learning with a mixture prior'
     align: center
     overlay_color: '#555'
     overlay_img: vitae.png
     overlay_filter: 0
     cta_label: View paper
     cta_url: 'https://jingshuw.org/publication/du-2020-aa/'
+    cta_icon_pack: fas
+    cta_icon: newspaper
+    overlay_filter: 0.3
+  - title: ''
+    content: 'Aggregating dependent signals with heavy-tailed combination tests'
+    align: center
+    overlay_color: '#555'
+    overlay_img: heavy_tail.png
+    overlay_filter: 0
+    cta_label: View paper
+    cta_url: 'https://jingshuw.org/publication/wang-2020-aa/'
     cta_icon_pack: fas
     cta_icon: newspaper
     overlay_filter: 0.3

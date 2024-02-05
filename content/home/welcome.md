@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-Our main research interest is in developing statistical methods for cutting-edge bio-technologies and genetic problems. We currently work on problems in single-cell RNA sequencing, Mendelian Randomization and structural variation in the 3D genome. We also develop new statistical methods and theory for factor models and multiple hypotheses testing, with their applications in statistical genetics.
+Our main research interest is in developing statistical methods and machine learning tools for cutting-edge bio-technologies and genetic problems. We currently work on various problems related to single-cell multi-omics and Mendelian Randomization. We also develop new statistical methods and theory for multiple p-values combination to increasing replicability and/or power, causal inference and factor models, with their applications in statistical genetics.

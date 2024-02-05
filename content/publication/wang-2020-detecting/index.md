@@ -16,13 +16,13 @@ existing methods. We illustrate the application of AdaFilter with three examples
 sequencing of T cells in lung cancer tumors and GWAS for metabolomics."
 featured: false
 
-publication: "*Annals of Statistics* (to appear)"
+publication: "*The Annals of Statistics*"
 
 links:
-- name: Preprint
-  url: https://arxiv.org/abs/1610.03330
 - name: Paper
   url: https://www.e-publications.org/ims/submission/AOS/user/submissionFile/46403?confirm=43dba4b9
+- name: Preprint
+  url: https://arxiv.org/abs/1610.03330
 url_code: 'https://github.com/jingshuw/adaFilter'
 
 image:
