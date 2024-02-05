@@ -6,7 +6,7 @@ title: Lin Gui
 superuser: false
 
 # Role/position
-role: Ph.D. student (Joint with Victor Veich)
+role: Ph.D. student 
 
 # Organizations/Affiliations
 organizations:
