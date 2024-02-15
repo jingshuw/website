@@ -27,4 +27,5 @@ Week | Date | Topic | Lecture | R examples | Due
 6 | 2024-02-06 | Negative binomial GLM, zero-inflation, Beta-binomial GLM |  {{% staticref "materials/stat347_2024/lecture10_slides.pdf" "newtab" %}}Lecture 10{{% /staticref %}}| {{% staticref "materials/stat347_2024/Example6.html" "newtab" %}}Data example 6{{% /staticref %}} | --
 6 | 2024-02-08 | Quasi-likelihood, Estimating equations and the Sandwich estimator |  {{% staticref "materials/stat347_2024/lecture11_slides.pdf" "newtab" %}}Lecture 11{{% /staticref %}}| {{% staticref "materials/stat347_2024/Example7.html" "newtab" %}}Data example 7{{% /staticref %}} | --
 7 | 2024-02-13 | -- | -- | -- | -- | Midterm
-7 | 2024-02-15 | -- | -- | -- | -- | HW3 due at 11:59pm
+7 | 2024-02-15 | Review of linear mixed effect models |  {{% staticref "materials/stat347_2024/lecture12_slides.pdf" "newtab" %}}Lecture 12{{% /staticref %}}| {{% staticref "materials/stat347_2024/Example8.html" "newtab" %}}Data example 8{{% /staticref %}} | HW3 due at 11:59pm
+

@@ -30,3 +30,5 @@ Week | Date | Topic | Slides | Extra materials | Due
 6| 2024-02-06 | Non-compliance and instrumental variables |  {{% staticref "materials/stat246_2024/Lecture10.pdf" "newtab" %}}Lecture 10{{% /staticref %}} |---|---
 6| 2024-02-08 | Conditional randomized experiment |  {{% staticref "materials/stat246_2024/Lecture11.pdf" "newtab" %}}Lecture 11{{% /staticref %}} |---|---
 7| 2024-02-12 |---|---|---|HW3 due at 11:59pm
+7| 2024-02-13 | Propensity score estimation, trimming, Propensity score stratification |  {{% staticref "materials/stat246_2024/Lecture12.pdf" "newtab" %}}Lecture 12{{% /staticref %}} |{{% staticref "materials/stat246_2024/R_example5_1.nb.html" "newtab" %}} Example 1{{% /staticref %}} {{% staticref "materials/stat246_2024/R_example5_2.nb.html" "newtab" %}} Example 2{{% /staticref %}} |---
+7| 2024-02-15 | Matching |  {{% staticref "materials/stat246_2024/Lecture13.pdf" "newtab" %}}Lecture 13{{% /staticref %}} |{{% staticref "materials/stat246_2024/R_example6.nb.html" "newtab" %}} Matching example{{% /staticref %}} |---
