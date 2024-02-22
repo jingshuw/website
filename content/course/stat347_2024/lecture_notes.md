@@ -29,5 +29,6 @@ Week | Date | Topic | Lecture | R examples | Due
 7 | 2024-02-13 | -- | -- | -- | -- | Midterm
 7 | 2024-02-15 | Review of linear mixed effect models |  {{% staticref "materials/stat347_2024/lecture12_slides.pdf" "newtab" %}}Lecture 12{{% /staticref %}}| {{% staticref "materials/stat347_2024/Example8.html" "newtab" %}}Data example 8{{% /staticref %}} | HW3 due at 11:59pm
 8 | 2024-02-20 | Generalized linear mixed effect models |  {{% staticref "materials/stat347_2024/lecture13_slides.pdf" "newtab" %}}Lecture 13{{% /staticref %}}| {{% staticref "materials/stat347_2024/Example9.html" "newtab" %}}Data example 9{{% /staticref %}} | --
+9 | 2024-02-20 | Survival analysis: basic concepts, Kaplan-Meyer estimator, log-rank test |  {{% staticref "materials/stat347_2024/lecture14_slides.pdf" "newtab" %}}Lecture 14{{% /staticref %}}| {{% staticref "materials/stat347_2024/Example10.html" "newtab" %}}Data example 10{{% /staticref %}} | --
 9 | 2024-02-26 | -- | -- | -- | -- | HW4 due at 11:59pm
 
