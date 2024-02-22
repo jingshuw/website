@@ -33,5 +33,6 @@ Week | Date | Topic | Slides | Extra materials | Due
 7| 2024-02-13 | Propensity score estimation, trimming, Propensity score stratification |  {{% staticref "materials/stat246_2024/Lecture12.pdf" "newtab" %}}Lecture 12{{% /staticref %}} |{{% staticref "materials/stat246_2024/R_example5_1.nb.html" "newtab" %}} Example 1{{% /staticref %}} {{% staticref "materials/stat246_2024/R_example5_2.nb.html" "newtab" %}} Example 2{{% /staticref %}} |---
 7| 2024-02-15 | Matching |  {{% staticref "materials/stat246_2024/Lecture13.pdf" "newtab" %}}Lecture 13{{% /staticref %}} |{{% staticref "materials/stat246_2024/R_example6.nb.html" "newtab" %}} Matching example{{% /staticref %}} |---
 8| 2024-02-20 | Inverse probability weighting (IPW) |  {{% staticref "materials/stat246_2024/Lecture14.pdf" "newtab" %}}Lecture 14{{% /staticref %}} |{{% staticref "materials/stat246_2024/R_example7.nb.html" "newtab" %}} IPW example{{% /staticref %}} |---
+8| 2024-02-22 | Doubly robust estimator |  {{% staticref "materials/stat246_2024/Lecture15.pdf" "newtab" %}}Lecture 15{{% /staticref %}} |--- |---
 8| 2024-02-23 |---|---|---|Quiz2 due on Canvas
 8| 2024-02-25 |---|---|---|HW4 due at 11:59pm
