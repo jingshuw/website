@@ -36,3 +36,4 @@ Week | Date | Topic | Slides | Extra materials | Due
 8| 2024-02-22 | Doubly robust estimator |  {{% staticref "materials/stat246_2024/Lecture15.pdf" "newtab" %}}Lecture 15{{% /staticref %}} |--- |---
 8| 2024-02-23 |---|---|---|Quiz2 due on Canvas
 8| 2024-02-25 |---|---|---|HW4 due at 11:59pm
+9| 2024-02-27 | Assess unconfoundedness, sensitivity analysis |  {{% staticref "materials/stat246_2024/Lecture16.pdf" "newtab" %}}Lecture 16{{% /staticref %}} |--- |---
