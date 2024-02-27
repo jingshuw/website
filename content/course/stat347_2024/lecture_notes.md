@@ -31,4 +31,5 @@ Week | Date | Topic | Lecture | R examples | Due
 8 | 2024-02-20 | Generalized linear mixed effect models |  {{% staticref "materials/stat347_2024/lecture13_slides.pdf" "newtab" %}}Lecture 13{{% /staticref %}}| {{% staticref "materials/stat347_2024/Example9.html" "newtab" %}}Data example 9{{% /staticref %}} | --
 9 | 2024-02-22 | Survival analysis: basic concepts, Kaplan-Meier estimator, log-rank test |  {{% staticref "materials/stat347_2024/lecture14_slides.pdf" "newtab" %}}Lecture 14{{% /staticref %}}| {{% staticref "materials/stat347_2024/Example10.html" "newtab" %}}Data example 10{{% /staticref %}} | --
 9 | 2024-02-26 | -- | -- | -- | -- | HW4 due at 11:59pm
+9 | 2024-02-27 | Survival analysis: proportional hazard regression model |  {{% staticref "materials/stat347_2024/lecture15_slides.pdf" "newtab" %}}Lecture 15{{% /staticref %}}| -- | --
 
