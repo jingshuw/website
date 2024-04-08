@@ -35,7 +35,7 @@ Week | Date | Topic | Slides
 2| 2024-03-25 | scRNA-seq count matrix QC, noise and signal distributions |  {{% staticref "materials/stat35510_2024/Lecture2.pdf" "newtab" %}}Lecture 2{{% /staticref %}} 
 2| 2024-03-27 | scRNA-seq count matrix QC, noise and signal distributions |  {{% staticref "materials/stat35510_2024/Lecture2.pdf" "newtab" %}}Lecture 2{{% /staticref %}} 
 3| 2024-04-01 | Dimension reduction, highly variable gene selection and visualization |  {{% staticref "materials/stat35510_2024/Lecture3.pdf" "newtab" %}}Lecture 3{{% /staticref %}} 
-3| 2024-04-03 | Clustering, cell type annotation |  {{% staticref "materials/stat35510_2024/Lecture4.pdf" "newtab" %}}Lecture 4{{% /staticref %}} 
+3| 2024-04-03 | Clustering, cell type annotation |  {{% staticref "materials/stat35510_2024/Lecture5.pdf" "newtab" %}}Lecture 4{{% /staticref %}} 
 4| 2024-04-08 | scRNA-seq denoising, trajectory analysis |  {{% staticref "materials/stat35510_2024/Lecture4.pdf" "newtab" %}}Lecture 5{{% /staticref %}}
 
 
