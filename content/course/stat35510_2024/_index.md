@@ -38,7 +38,8 @@ Week | Date | Topic | Slides
 3| 2024-04-03 | Clustering, cell type annotation |  {{% staticref "materials/stat35510_2024/Lecture4.pdf" "newtab" %}}Lecture 4{{% /staticref %}} 
 4| 2024-04-08 | scRNA-seq denoising, trajectory analysis |  {{% staticref "materials/stat35510_2024/Lecture5.pdf" "newtab" %}}Lecture 5{{% /staticref %}}
 4| 2024-04-10 | trajectory analysis (continued), RNA velocity |  {{% staticref "materials/stat35510_2024/Lecture6.pdf" "newtab" %}}Lecture 6{{% /staticref %}}
-
+5| 2024-04-15 & 2024-04-17 | RNA velocity (continued), “Post-estimation” inference in scRNA-seq
+ |  {{% staticref "materials/stat35510_2024/Lecture7.pdf" "newtab" %}}Lecture 7{{% /staticref %}}
 
 
 
