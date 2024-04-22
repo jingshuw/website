@@ -40,6 +40,8 @@ Week | Date | Topic | Slides
 4| 2024-04-10 | trajectory analysis (continued), RNA velocity |  {{% staticref "materials/stat35510_2024/Lecture6.pdf" "newtab" %}}Lecture 6{{% /staticref %}}
 5| 2024-04-15 & 2024-04-17 | RNA velocity (continued), “Post-estimation” inference in scRNA-seq
  |  {{% staticref "materials/stat35510_2024/Lecture7.pdf" "newtab" %}}Lecture 7{{% /staticref %}}
+6| 2024-04-22 | scRNA-seq data integration and batch correction
+ |  {{% staticref "materials/stat35510_2024/Lecture8.pdf" "newtab" %}}Lecture 8{{% /staticref %}}
 
 
 
