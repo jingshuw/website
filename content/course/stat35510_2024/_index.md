@@ -41,7 +41,8 @@ Week | Date | Topic | Slides
 5| 2024-04-15 & 17 | RNA velocity (continued), “Post-estimation” inference |  {{% staticref "materials/stat35510_2024/Lecture7.pdf" "newtab" %}}Lecture 7{{% /staticref %}}
 6| 2024-04-22 | scRNA-seq data integration and batch correction |  {{% staticref "materials/stat35510_2024/Lecture8.pdf" "newtab" %}}Lecture 8{{% /staticref %}}
 6| 2024-04-24 | Reference mapping and automatic cell label transfer |  {{% staticref "materials/stat35510_2024/Lecture9.pdf" "newtab" %}}Lecture 9{{% /staticref %}}
-6| 2024-04-29 | scATAC-seq: technology, preprocessing and standard pipeline |  {{% staticref "materials/stat35510_2024/Lecture10.pdf" "newtab" %}}Lecture 10{{% /staticref %}}
+7| 2024-04-29 | scATAC-seq: technology, preprocessing and standard pipeline |  {{% staticref "materials/stat35510_2024/Lecture10.pdf" "newtab" %}}Lecture 10{{% /staticref %}}
+8| 2024-05-06 | Multi-omics data integration |  {{% staticref "materials/stat35510_2024/Lecture11.pdf" "newtab" %}}Lecture 11{{% /staticref %}}
 
 
 
