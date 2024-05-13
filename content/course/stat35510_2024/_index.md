@@ -43,6 +43,7 @@ Week | Date | Topic | Slides
 6| 2024-04-24 | Reference mapping and automatic cell label transfer |  {{% staticref "materials/stat35510_2024/Lecture9.pdf" "newtab" %}}Lecture 9{{% /staticref %}}
 7| 2024-04-29 | scATAC-seq: technology, preprocessing and standard pipeline |  {{% staticref "materials/stat35510_2024/Lecture10.pdf" "newtab" %}}Lecture 10{{% /staticref %}}
 8| 2024-05-06 | Multi-omics data integration |  {{% staticref "materials/stat35510_2024/Lecture11.pdf" "newtab" %}}Lecture 11{{% /staticref %}}
+8| 2024-05-08 | Spatial transcriptomics technology and spatial domain detection |  {{% staticref "materials/stat35510_2024/Lecture12.pdf" "newtab" %}}Lecture 12{{% /staticref %}}
 
 
 
