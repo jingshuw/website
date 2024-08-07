@@ -15,6 +15,7 @@ links:
 #   url: ""
 - name: Paper
   url: https://www.pnas.org/content/118/10/e2018866118
+url_code: https://github.com/kangbw702/Progenitor-cell-diversity
 
 #image:
 #  caption: 'VITAE provides better trajectory inference than an alternative Seurat integration + Slingshot approach'
