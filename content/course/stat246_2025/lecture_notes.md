@@ -2,10 +2,10 @@
 linktitle: Lecture Notes
 toc: false
 type: docs
-date: "2023-12-26T00:00:00Z"
+date: "2024-9-26T00:00:00Z"
 draft: false
 menu:
-  stat246_2024:
+  stat246_2025:
 #    parent: Example Toipic
     weight: 2
 
