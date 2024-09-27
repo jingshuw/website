@@ -5,7 +5,7 @@ type: docs
 date: "2023-12-26T00:00:00Z"
 draft: false
 menu:
-  stat246_2025:
+  stat246_2024:
 #    parent: Example Toipic
     weight: 2
 
