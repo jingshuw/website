@@ -1,0 +1,152 @@
+---
+title: "R Example 7: Inverse propensity score weighting"
+output: html_notebook
+---
+
+
+
+We still use the lalonde data from the MatchIt package and use the propensity score model that we found out in R example 5
+
+```{r}
+library("MatchIt")
+data("lalonde")
+
+model <- glm(treat ~ re74 + race + married + I(re74^2) + re74:race, data = lalonde, family = "binomial")
+eps <- predict(model, type = "response")
+
+lalonde
+```
+
+## Check weights and covariates balancing before trimming
+
+Then we perform a first check of the weights by drawing the histogram or boxplot of the weights. At this moment, the figures are not very informative as there are units with extremely large weights.
+```{r}
+## Calculate the raw weights (before normalization)
+## Weights to estimate ATE
+n.treated <- sum(lalonde$treat == 1)
+n.control <- sum(lalonde$treat == 0)
+weights <- ifelse(lalonde$treat == 1, 1/eps, 1/(1 - eps))
+
+## Check the weights histogram
+library(ggplot2)
+temp.data <- data.frame(weights = weights, treated = as.factor(lalonde$treat))
+ggplot(temp.data, aes(x = weights, fill = treated, color = treated)) + 
+  geom_histogram(alpha = 0.5, position = "identity") + 
+  xlab("Weights") 
+
+## We can also draw boxplots
+ggplot(temp.data, aes(x = treated, y = weights, color = treated)) + 
+  geom_boxplot() 
+```
+
+- Check covariate balancing.
+If we do not perform any trimming and just look at the full data, we can check covariate balancing from the love plot or summary data of the standardized mean difference. Here, we need to write our own function to draw the love plot. 
+```{r}
+## Need to change race (categorical) into indicators (numerical)
+lalonde$black <- lalonde$race == "black"
+lalonde$hispan <- lalonde$race == "hispan"
+lalonde$white <- lalonde$race == "white"
+
+## Draw love plot
+love.plot = function(cov, treat,  ## cov is the matrix of covariates and treat is a vector of treatment assignment
+                     weights = rep(1, length(treat)),
+                     plot = F) 
+{
+    
+    ## mean with normalized weights \sum w_i x_i / (\sum w_i)
+  treat.means <- colSums(cov[treat == 1,] * weights[treat == 1])/sum(weights[treat == 1])
+  treat.var <- colSums(t(t(cov[treat == 1,]) - treat.means)^2 *
+                          weights[treat == 1])/sum(weights[treat == 1])
+  
+  control.means <- colSums(cov[treat == 0,] * weights[treat == 0])/sum(weights[treat == 0])
+  control.var <- colSums(t(t(cov[treat == 0,]) - control.means)^2 *
+                          weights[treat == 0])/sum(weights[treat == 0])
+  
+  ## the standardized mean differences for every covariate
+  smd <- (treat.means - control.means)/sqrt((treat.var + control.var)/2)
+  names(smd) <- colnames(cov)
+  
+  if (plot == T) {
+    plot.data <- data.frame(smd = smd, covariates = names(smd))
+    range <- max(abs(smd))
+    ggplot(plot.data) + geom_point(aes(x = as.numeric(smd), y = covariates)) +
+      geom_vline(xintercept = 0) + xlim(-range, range) +
+      labs(x = 'Standardized Difference in Means')
+  }
+  return(smd)
+}
+
+colnames(lalonde)
+raw.smd <- love.plot(lalonde[, c(2:3, 5:9, 10:12)], lalonde$treat)
+weighted.smd <- love.plot(lalonde[, c(2:3, 5:9, 10:12)], lalonde$treat, weights = weights)
+
+
+plot.data <- data.frame(smd = c(raw.smd, weighted.smd), 
+                        covariates = c(names(raw.smd), names(weighted.smd)),
+                        category = c(rep("Original", length(raw.smd)), rep("IPW", length(weighted.smd))))
+range <- max(abs(plot.data$smd))
+
+ggplot(plot.data) + geom_point(aes(x = as.numeric(smd), y = covariates, color = category)) +
+      geom_vline(xintercept = c(-0.1, -0.05, 0, 0.05, 0.1),
+                 linetype = c("solid", "dashed", "solid", "dashed", "solid")) + 
+      xlim(-range, range) +
+      labs(x = 'Standardized Difference in Means')
+```
+
+## Check weights and covariates balancing after trimming
+
+Now we perform trimming and check covariate balancing again
+```{r}
+## Histogram of estimated propensity score
+temp.data <- data.frame(eps = eps, treated = as.factor(lalonde$treat))
+ggplot(temp.data, aes(x = eps, fill = treated, color = treated)) + 
+  geom_histogram(alpha = 0.5, position = "identity") + xlim(c(0, 1)) +
+  ggtitle("Histogram of eps before trimming")
+
+rm.idx <- which(eps < 0.1 | eps > 0.9)
+## remove control units
+length(rm.idx)
+
+## Check the histogram of eps again
+ggplot(temp.data[-rm.idx, ], aes(x = eps, fill = treated, color = treated)) + 
+  geom_histogram(alpha = 0.5, position = "identity") + xlim(c(0, 1)) +
+  ggtitle("Histogram of eps after trimming")
+
+
+temp.data <- data.frame(weights = weights, treated = as.factor(lalonde$treat))
+## We can also draw boxplots
+ggplot(temp.data[-rm.idx, ], aes(x = treated, y = weights, color = treated)) + 
+  geom_boxplot() 
+```
+
+Check covariate balancing after trimming. Covariate balancing is much better.
+```{r}
+raw.smd <- love.plot(lalonde[-rm.idx, c(2:3, 5:9, 10:12)], lalonde$treat[-rm.idx])
+weighted.smd <- love.plot(lalonde[-rm.idx, c(2:3, 5:9, 10:12)], lalonde$treat[-rm.idx], 
+                          weights = weights[-rm.idx])
+plot.data <- data.frame(smd = c(raw.smd, weighted.smd), 
+                        covariates = c(names(raw.smd), names(weighted.smd)),
+                        category = c(rep("Original", length(raw.smd)), rep("IPW", length(weighted.smd))))
+range <- max(abs(plot.data$smd))
+ggplot(plot.data) + geom_point(aes(x = as.numeric(smd), y = covariates, color = category)) +
+      geom_vline(xintercept = c(-0.1, -0.05, 0, 0.05, 0.1),
+                 linetype = c("solid", "dashed", "solid", "dashed", "solid")) + 
+      xlim(-range, range) +
+      labs(x = 'Standardized Difference in Means')
+```
+
+## Estimate causal effect by weighted least square regression and estimate the variance by Sandwich estimator
+
+```{r}
+lm.result <- lm(re78 ~ treat, weights = weights[-rm.idx], data = lalonde[-rm.idx, ])
+summary(lm.result)
+
+library(sandwich)
+tau_hat <- lm.result$coefficients[2]
+SE <- sqrt(diag(vcovHC(lm.result, type = "HC2")))[2]
+
+## get the 95% CI
+result <- c(tau_hat, SE, c(tau_hat- 1.96 * SE, tau_hat + 1.96 * SE))
+names(result) <- c("est", "sd", "CI_lower", "CI_upper")
+result
+```
