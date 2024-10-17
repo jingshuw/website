@@ -20,4 +20,5 @@ Week | Date | Topic | Slides | Extra materials | Due
 2| 2024-10-08 | Randomized experiment and Fisher's exact p-value |  {{% staticref "materials/stat246_2025/Lecture3.pdf" "newtab" %}}Lecture 3{{% /staticref %}} | ---|---
 2| 2024-10-10 | Fisher’s exact test: R example and case study |  {{% staticref "materials/stat246_2025/Lecture4.pdf" "newtab" %}}Lecture 4{{% /staticref %}} |{{% staticref "materials/stat246_2025/R_example1.html" "newtab" %}}R Example to compute Fisher's exact p-value{{% /staticref %}}|---
 2| 2024-10-13 |---|---|---|HW1 due at 11:59pm
-3| 2024-10-15 | Neyman’s repeated sampling approach for completely randomized experiments |  {{% staticref "materials/stat246_2025/Lecture5.pdf" "newtab" %}}Lecture 5{{% /staticref %}} |---|---
+3| 2024-10-14 | Neyman’s repeated sampling approach for completely randomized experiments |  {{% staticref "materials/stat246_2025/Lecture5.pdf" "newtab" %}}Lecture 5{{% /staticref %}} |---|---
+3| 2024-10-16 | Regression for complete randomized experiment |  {{% staticref "materials/stat246_2025/Lecture6.pdf" "newtab" %}}Lecture 6{{% /staticref %}} |{{% staticref "materials/stat246_2025/R_example2.nb.html" "newtab" %}}R Example for regression analysis{{% /staticref %}}|---
