@@ -23,6 +23,6 @@ Week | Date | Topic | Slides | Extra materials | Due
 3| 2024-10-15 | Neyman’s repeated sampling approach for completely randomized experiments |  {{% staticref "materials/stat246_2025/Lecture5.pdf" "newtab" %}}Lecture 5{{% /staticref %}} |---|---
 3| 2024-10-17 | Regression for completely randomized experiment |  {{% staticref "materials/stat246_2025/Lecture6.pdf" "newtab" %}}Lecture 6{{% /staticref %}} |{{% staticref "materials/stat246_2025/R_example2.html" "newtab" %}}R Example for regression analysis{{% /staticref %}}|---
 4| 2024-10-22 | Stratified randomized experiments |  {{% staticref "materials/stat246_2025/Lecture7.pdf" "newtab" %}}Lecture 7{{% /staticref %}} |{{% staticref "materials/stat246_2025/R_example4.html" "newtab" %}}case study on HOMEFOOD randomized trial{{% /staticref %}}|---
-4| 2024-10-24 | Pairwise randomized experiments |  {{% staticref "materials/stat246_2025/Lecture8.pdf" "newtab" %}}Lecture 7{{% /staticref %}} |{{% staticref "materials/stat246_2025/R_example3.html" "newtab" %}}R example{{% /staticref %}}|---
+4| 2024-10-24 | Pairwise randomized experiments |  {{% staticref "materials/stat246_2025/Lecture8.pdf" "newtab" %}}Lecture 7{{% /staticref %}} |{{% staticref "materials/stat246_2025/R_example3.nb.html" "newtab" %}}R example{{% /staticref %}}|---
 4| 2024-10-25 |---|---|---|Quiz1 due
 4| 2024-10-27 |---|---|---|HW2 due at 11:59pm
