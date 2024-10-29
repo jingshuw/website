@@ -26,3 +26,4 @@ Week | Date | Topic | Slides | Extra materials | Due
 4| 2024-10-24 | Pairwise randomized experiments |  {{% staticref "materials/stat246_2025/Lecture8.pdf" "newtab" %}}Lecture 8{{% /staticref %}} |{{% staticref "materials/stat246_2025/R_example3.nb.html" "newtab" %}}R example{{% /staticref %}}|---
 4| 2024-10-25 |---|---|---|Quiz1 due
 4| 2024-10-27 |---|---|---|HW2 due at 11:59pm
+5| 2024-10-29 | Non-compliance and instrumental variables, part I |  {{% staticref "materials/stat246_2025/Lecture9.pdf" "newtab" %}}Lecture 9{{% /staticref %}} |---|---
