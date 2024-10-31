@@ -27,3 +27,5 @@ Week | Date | Topic | Slides | Extra materials | Due
 4| 2024-10-25 |---|---|---|Quiz1 due
 4| 2024-10-27 |---|---|---|HW2 due at 11:59pm
 5| 2024-10-29 | Non-compliance and instrumental variables, part I |  {{% staticref "materials/stat246_2025/Lecture9.pdf" "newtab" %}}Lecture 9{{% /staticref %}} |---|---
+5| 2024-10-31 | Non-compliance and instrumental variables, part II |  {{% staticref "materials/stat246_2025/Lecture10.pdf" "newtab" %}}Lecture 10{{% /staticref %}} |{{% staticref "materials/stat246_2025/R_example5.html" "newtab" %}}R example on Job Search Intervention Study{{% /staticref %}}|---
+6| 2024-11-10 |---|---|---|HW3 due at 11:59pm
