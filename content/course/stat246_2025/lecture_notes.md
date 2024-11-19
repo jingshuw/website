@@ -32,3 +32,6 @@ Week | Date | Topic | Slides | Extra materials | Due
 6| 2024-11-07 | Propensity score estimation, trimming, stratification |  {{% staticref "materials/stat246_2025/Lecture12.pdf" "newtab" %}}Lecture 12{{% /staticref %}} |{{% staticref "materials/stat246_2025/R_example6.html" "newtab" %}}R example{{% /staticref %}}|---
 6| 2024-11-10 |---|---|---|HW3 due at 11:59pm
 7| 2024-11-12 | Matching methods |  {{% staticref "materials/stat246_2025/Lecture13.pdf" "newtab" %}}Lecture 13{{% /staticref %}} |{{% staticref "materials/stat246_2025/R_example7.nb.html" "newtab" %}}Lalonde stratification{{% /staticref %}} {{% staticref "materials/stat246_2025/R_example8.nb.html" "newtab" %}}Lalonde matching{{% /staticref %}}|---
+8| 2024-11-19 | Inverse probability weighting |  {{% staticref "materials/stat246_2025/Lecture14.pdf" "newtab" %}}Lecture 14{{% /staticref %}} |{{% staticref "materials/stat246_2025/R_example9.nb.html" "newtab" %}}Lalonde IPW{{% /staticref %}}|---
+8| 2024-11-22 |---|---|---|Quiz2 due
+8| 2024-11-24 |---|---|---|HW4 due at 11:59pm
