@@ -1,10 +1,10 @@
 ---
-linktitle: STAT35510 Statistical Algorithms for Single-Cell Omics and Related Techniques
-weight: 1
+linktitle: 
+weight: 8
 
 
 # Page metadata.
-title: STAT 35510 Statistical Algorithms for Single-Cell Omics and Related Techniques
+#title: STAT 35510 Statistical Algorithms for Single-Cell Omics and Related Techniques
 date: "2024-03-16T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
