@@ -31,7 +31,7 @@ Single-cell sequencing is a revolutionary technique that allows the analysis of 
 ## Course Materials
 Week | Date | Topic | Slides 
 ---|---|---|---
-1| 2025-01-06 | Introduction: basic biology, single-cell omics, scRNA-seq technique |  {{% staticref "materials/stat35510_2025/Lecture1.pdf" "newtab" %}}Lecture 1{{% /staticref %}} 
-1| 2024-01-08 | scRNA-seq technique and count matrix QC |  {{% staticref "materials/stat35510_2025/Lecture2.pdf" "newtab" %}}Lecture 2{{% /staticref %}} 
+1| 2025-01-07 | Introduction: basic biology, single-cell omics, scRNA-seq technique |  {{% staticref "materials/stat35510_2025/Lecture1.pdf" "newtab" %}}Lecture 1{{% /staticref %}} 
+1| 2024-01-09 | scRNA-seq technique and count matrix QC |  {{% staticref "materials/stat35510_2025/Lecture2.pdf" "newtab" %}}Lecture 2{{% /staticref %}} 
 
 
