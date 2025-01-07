@@ -13,6 +13,6 @@ menu:
 
 Week | Date | Topic | Lecture | R examples | Due
 ---|---|---|---|---|---|---
-1 | 2025-01-06 | Introduction to GLM |  {{% staticref "materials/stat347_2025/lecture1_slides.pdf" "newtab" %}}Lecture 1{{% /staticref %}}| {{% staticref "materials/stat347_2025/Example1.html" "newtab" %}}Data example 1{{% /staticref %}} | -- 
-2 | 2025-01-08 | GLM concepts and estimation | {{% staticref "materials/stat347_2025/lecture2_slides.pdf" "newtab" %}}Lecture 2{{% /staticref %}}| -- | --    
+1 | 2025-01-07 | Introduction to GLM |  {{% staticref "materials/stat347_2025/lecture1_slides.pdf" "newtab" %}}Lecture 1{{% /staticref %}}| {{% staticref "materials/stat347_2025/Example1.html" "newtab" %}}Data example 1{{% /staticref %}} | -- 
+2 | 2025-01-09 | GLM concepts and estimation | {{% staticref "materials/stat347_2025/lecture2_slides.pdf" "newtab" %}}Lecture 2{{% /staticref %}}| -- | --    
 2 | 2025-01-17 | -- | -- | -- | -- | HW1 due at 11:59pm
