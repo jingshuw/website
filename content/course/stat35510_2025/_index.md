@@ -32,7 +32,9 @@ Single-cell sequencing is a revolutionary technique that allows the analysis of 
 Week | Date | Topic | Slides 
 ---|---|---|---
 1| 2025-01-07 | Introduction: basic biology, single-cell omics, scRNA-seq technique |  {{% staticref "materials/stat35510_2025/Lecture1.pdf" "newtab" %}}Lecture 1{{% /staticref %}} 
-1| 2024-01-09 | scRNA-seq technique and count matrix QC |  {{% staticref "materials/stat35510_2025/Lecture2.pdf" "newtab" %}}Lecture 2{{% /staticref %}} 
-2| 2024-01-14 | scRNA-seq noise and signal distributions |  {{% staticref "materials/stat35510_2025/Lecture3.pdf" "newtab" %}}Lecture 3{{% /staticref %}} 
-2| 2024-01-16 | scRNA-seq analysis workflow, normalization, visualization |  {{% staticref "materials/stat35510_2025/Lecture4.pdf" "newtab" %}}Lecture 4{{% /staticref %}} 
+1| 2025-01-09 | scRNA-seq technique and count matrix QC |  {{% staticref "materials/stat35510_2025/Lecture2.pdf" "newtab" %}}Lecture 2{{% /staticref %}} 
+2| 2025-01-14 | scRNA-seq noise and signal distributions |  {{% staticref "materials/stat35510_2025/Lecture3.pdf" "newtab" %}}Lecture 3{{% /staticref %}} 
+2| 2025-01-16 | scRNA-seq analysis workflow, normalization, visualization |  {{% staticref "materials/stat35510_2025/Lecture4.pdf" "newtab" %}}Lecture 4{{% /staticref %}} 
+3| 2025-01-21 | scRNA-seq clustering and cell type annotation |  {{% staticref "materials/stat35510_2025/Lecture5.pdf" "newtab" %}}Lecture 5{{% /staticref %}} 
+2| 2025-01-23 | scRNA-seq denoising |  {{% staticref "materials/stat35510_2025/Lecture6.pdf" "newtab" %}}Lecture 6{{% /staticref %}} 
 
