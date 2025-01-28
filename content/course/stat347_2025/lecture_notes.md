@@ -18,4 +18,6 @@ Week | Date | Topic | Lecture | R examples | Due
 2 | 2025-01-14 | Statistical Inference for GLM  | {{% staticref "materials/stat347_2025/lecture3_slides.pdf" "newtab" %}}Lecture 3{{% /staticref %}}| -- | -- 
 2 | 2025-01-16 | Deviance analysis and model diagnosis | {{% staticref "materials/stat347_2025/lecture4_slides.pdf" "newtab" %}}Lecture 4{{% /staticref %}}| -- | -- 
 2 | 2025-01-17 | -- | -- | -- | -- | HW1 due at 11:59pm
-2 | 2025-01-23 | Computational for GLM and data examples | {{% staticref "materials/stat347_2025/lecture5_slides.pdf" "newtab" %}}Lecture 5{{% /staticref %}}|  {{% staticref "materials/stat347_2025/Example1.html" "newtab" %}}Data example 2{{% /staticref %}} | -- 
+3 | 2025-01-23 | Computational for GLM and data examples | {{% staticref "materials/stat347_2025/lecture5_slides.pdf" "newtab" %}}Lecture 5{{% /staticref %}}|  {{% staticref "materials/stat347_2025/Example2.html" "newtab" %}}Data example 2{{% /staticref %}} | -- 
+4 | 2025-01-28 | GLM for binary data: introduction | {{% staticref "materials/stat347_2025/lecture6_slides.pdf" "newtab" %}}Lecture 6{{% /staticref %}}|  {{% staticref "materials/stat347_2025/Example3_1.html" "newtab" %}}Data example 3 I{{% /staticref %}} | -- 
+4 | 2025-01-31 | -- | -- | -- | -- | HW2 due at 11:59pm
