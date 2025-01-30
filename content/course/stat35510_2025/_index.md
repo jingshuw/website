@@ -36,5 +36,6 @@ Week | Date | Topic | Slides
 2| 2025-01-14 | scRNA-seq noise and signal distributions |  {{% staticref "materials/stat35510_2025/Lecture3.pdf" "newtab" %}}Lecture 3{{% /staticref %}} 
 2| 2025-01-16 | scRNA-seq analysis workflow, normalization, visualization |  {{% staticref "materials/stat35510_2025/Lecture4.pdf" "newtab" %}}Lecture 4{{% /staticref %}} 
 3| 2025-01-21 | scRNA-seq clustering and cell type annotation |  {{% staticref "materials/stat35510_2025/Lecture5.pdf" "newtab" %}}Lecture 5{{% /staticref %}} 
-2| 2025-01-23 | scRNA-seq denoising |  {{% staticref "materials/stat35510_2025/Lecture6.pdf" "newtab" %}}Lecture 6{{% /staticref %}} 
+3| 2025-01-23 | scRNA-seq denoising |  {{% staticref "materials/stat35510_2025/Lecture6.pdf" "newtab" %}}Lecture 6{{% /staticref %}} 
+4| 2025-01-30 | scRNA-seq trajectory analysis |  {{% staticref "materials/stat35510_2025/Lecture6.pdf" "newtab" %}}Lecture 7{{% /staticref %}} 
 
