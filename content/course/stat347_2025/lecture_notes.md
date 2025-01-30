@@ -6,7 +6,7 @@ date: "2025-01-04T00:00:00Z"
 draft: false
 menu:
   stat347_2025:
-#    parent: Example Toipic
+#    parent: Example Topic
     weight: 2
 
 ---
