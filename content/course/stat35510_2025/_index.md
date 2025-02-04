@@ -38,4 +38,6 @@ Week | Date | Topic | Slides
 3| 2025-01-21 | scRNA-seq clustering and cell type annotation |  {{% staticref "materials/stat35510_2025/Lecture5.pdf" "newtab" %}}Lecture 5{{% /staticref %}} 
 3| 2025-01-23 | scRNA-seq denoising |  {{% staticref "materials/stat35510_2025/Lecture6.pdf" "newtab" %}}Lecture 6{{% /staticref %}} 
 4| 2025-01-30 | scRNA-seq trajectory analysis |  {{% staticref "materials/stat35510_2025/Lecture7.pdf" "newtab" %}}Lecture 7{{% /staticref %}} 
+5| 2025-02-04 | RNA velocity |  {{% staticref "materials/stat35510_2025/Lecture8.pdf" "newtab" %}}Lecture 8{{% /staticref %}} 
+5| 2025-02-06 | Data integration and batch correction |  {{% staticref "materials/stat35510_2025/Lecture9.pdf" "newtab" %}}Lecture 9{{% /staticref %}}
 
