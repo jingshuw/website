@@ -41,5 +41,6 @@ Week | Date | Topic | Slides
 5| 2025-02-04 | RNA velocity |  {{% staticref "materials/stat35510_2025/Lecture8.pdf" "newtab" %}}Lecture 8{{% /staticref %}} 
 5| 2025-02-06 | Data integration and batch correction |  {{% staticref "materials/stat35510_2025/Lecture9.pdf" "newtab" %}}Lecture 9{{% /staticref %}}
 6| 2025-02-13 | Reference mapping and transfer learning |  {{% staticref "materials/stat35510_2025/Lecture10.pdf" "newtab" %}}Lecture 10{{% /staticref %}}
+7| 2025-02-18 | scATAC-seq technology, preprocessing and dimension reduction |  {{% staticref "materials/stat35510_2025/Lecture11.pdf" "newtab" %}}Lecture 11{{% /staticref %}}
 
 
