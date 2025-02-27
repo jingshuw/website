@@ -43,5 +43,6 @@ Week | Date | Topic | Slides
 6| 2025-02-13 | Reference mapping and transfer learning |  {{% staticref "materials/stat35510_2025/Lecture10.pdf" "newtab" %}}Lecture 10{{% /staticref %}}
 7| 2025-02-18 | scATAC-seq technology, preprocessing and dimension reduction |  {{% staticref "materials/stat35510_2025/Lecture11.pdf" "newtab" %}}Lecture 11{{% /staticref %}}
 8| 2025-02-25 | Single-cell multi-omics integration |  {{% staticref "materials/stat35510_2025/Lecture12.pdf" "newtab" %}}Lecture 12{{% /staticref %}}
+8| 2025-02-27 | Spatial transcriptomics and spatial domain detection |  {{% staticref "materials/stat35510_2025/Lecture13.pdf" "newtab" %}}Lecture 13{{% /staticref %}}
 
 
