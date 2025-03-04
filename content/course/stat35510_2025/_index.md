@@ -44,5 +44,6 @@ Week | Date | Topic | Slides
 7| 2025-02-18 | scATAC-seq technology, preprocessing and dimension reduction |  {{% staticref "materials/stat35510_2025/Lecture11.pdf" "newtab" %}}Lecture 11{{% /staticref %}}
 8| 2025-02-25 | Single-cell multi-omics integration |  {{% staticref "materials/stat35510_2025/Lecture12.pdf" "newtab" %}}Lecture 12{{% /staticref %}}
 8| 2025-02-27 | Spatial transcriptomics and spatial domain detection |  {{% staticref "materials/stat35510_2025/Lecture13.pdf" "newtab" %}}Lecture 13{{% /staticref %}}
+9| 2025-03-04 | Identify SVG, cell type deconvolution, imputation for spatial transcriptomics |  {{% staticref "materials/stat35510_2025/Lecture14.pdf" "newtab" %}}Lecture 14{{% /staticref %}}
 
 
