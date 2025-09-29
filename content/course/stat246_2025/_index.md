@@ -1,11 +1,12 @@
 ---
-linktitle: STAT 24630 Causal Inference Methods and Case Studies
+linktitle: 
+# STAT 24630 Causal Inference Methods and Case Studies
 weight: 1
 
 
 
 # Page metadata.
-title: STAT24630 Causal Inference Methods and Case Studies 
+# title: STAT24630 Causal Inference Methods and Case Studies 
 date: "2024-10-1T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
