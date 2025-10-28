@@ -25,3 +25,5 @@ Week | Date | Topic | Slides | Extra materials | Due
 4| 2025-10-23 | Stratified randomized experiments |  {{% staticref "materials/stat246_2026/Lecture7.pdf" "newtab" %}}Lecture 7{{% /staticref %}} |{{% staticref "materials/stat246_2026/R_example4.html" "newtab" %}}case study on HOMEFOOD randomized trial{{% /staticref %}}|---
 4| 2025-10-24 |---|---|---|Quiz1 due
 5| 2025-10-27 |---|---|---|HW2 due at 11:59pm
+5| 2026-10-28 | Pairwise randomized experiments |  {{% staticref "materials/stat246_2026/Lecture8.pdf" "newtab" %}}Lecture 8{{% /staticref %}} |{{% staticref "materials/stat246_2026/R_example3.nb.html" "newtab" %}}R example{{% /staticref %}}|---
+5| 2024-10-30 | Non-compliance and instrumental variables, part I |  {{% staticref "materials/stat246_2026/Lecture9.pdf" "newtab" %}}Lecture 9{{% /staticref %}} |---|---
