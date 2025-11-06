@@ -28,5 +28,6 @@ Week | Date | Topic | Slides | Extra materials | Due
 5| 2025-10-28 | Pairwise randomized experiments |  {{% staticref "materials/stat246_2026/Lecture8.pdf" "newtab" %}}Lecture 8{{% /staticref %}} |{{% staticref "materials/stat246_2026/R_example3.nb.html" "newtab" %}}R example{{% /staticref %}}|---
 5| 2025-10-30 | Non-compliance and instrumental variables, part I |  {{% staticref "materials/stat246_2026/Lecture9.pdf" "newtab" %}}Lecture 9{{% /staticref %}} |---|---
 6| 2025-11-04 | Non-compliance and instrumental variables, part II |  {{% staticref "materials/stat246_2026/Lecture10.pdf" "newtab" %}}Lecture 10{{% /staticref %}} |{{% staticref "materials/stat246_2026/R_example5.html" "newtab" %}}R example on Job Search Intervention Study{{% /staticref %}}|---
+6| 2025-11-06 | Conditional randomized experiments, unconfoundedness |  {{% staticref "materials/stat246_2026/Lecture11.pdf" "newtab" %}}Lecture 11{{% /staticref %}} |---|---
 6| 2025-11-09 |---|---|---|Project Dataset selection due at 11:59pm
 7| 2025-11-10 |---|---|---|HW3 due at 11:59pm
