@@ -31,3 +31,4 @@ Week | Date | Topic | Slides | Extra materials | Due
 6| 2025-11-06 | Conditional randomized experiments, unconfoundedness |  {{% staticref "materials/stat246_2026/Lecture11.pdf" "newtab" %}}Lecture 11{{% /staticref %}} |---|---
 6| 2025-11-09 |---|---|---|Project Dataset selection due at 11:59pm
 7| 2025-11-10 |---|---|---|HW3 due at 11:59pm
+7| 2025-11-11 | Propensity score estimation, trimming, stratification |  {{% staticref "materials/stat246_2026/Lecture12.pdf" "newtab" %}}Lecture 12{{% /staticref %}} |{{% staticref "materials/stat246_2026/R_example6.html" "newtab" %}}Simple stratification{{% /staticref %}}, {{% staticref "materials/stat246_2026/R_example7.nb.html" "newtab" %}}Lalonde stratification{{% /staticref %}}|---
