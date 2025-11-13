@@ -32,3 +32,6 @@ Week | Date | Topic | Slides | Extra materials | Due
 6| 2025-11-09 |---|---|---|Project Dataset selection due at 11:59pm
 7| 2025-11-10 |---|---|---|HW3 due at 11:59pm
 7| 2025-11-11 | Propensity score estimation, trimming, stratification |  {{% staticref "materials/stat246_2026/Lecture12.pdf" "newtab" %}}Lecture 12{{% /staticref %}} |{{% staticref "materials/stat246_2026/R_example6.html" "newtab" %}}Simple stratification{{% /staticref %}}, {{% staticref "materials/stat246_2026/R_example7.nb.html" "newtab" %}}Lalonde stratification{{% /staticref %}}|---
+7| 2025-11-13 | Matching methods |  {{% staticref "materials/stat246_2026/Lecture13.pdf" "newtab" %}}Lecture 13{{% /staticref %}} |{{% staticref "materials/stat246_2025/R_example8.nb.html" "newtab" %}}Lalonde matching{{% /staticref %}}|---
+8| 2025-11-21 |---|---|---|Quiz2 due
+8| 2025-11-23 |---|---|---|HW4 due at 11:59pm
