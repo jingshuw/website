@@ -2,14 +2,14 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-active: false
+active: true          # turn it on
 weight: 30
 
-title: Latest News
-subtitle:
+title: "News"
+subtitle: ""
 
 content:
-  count: 2
+  count: 5            # show up to 5 items
   filters:
     author: ""
     category: ""
@@ -18,8 +18,8 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: post
+  page_type: post     # pulls from content/post/
 design:
-  view: 3
+  view: 3             # cards list; you can tweak later
   columns: "1"
 ---
