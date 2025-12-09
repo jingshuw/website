@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zixuan Wu
+title: Qiyuan Liu
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,7 +23,7 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:zixuanwu@uchicago.edu'
+  link: 'mailto:qiyuanliu@uchicago.edu'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/aoragsusa
@@ -40,7 +40,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "zixuanwu@uchicago.edu"
+email: "qiyuanliu@uchicago.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
