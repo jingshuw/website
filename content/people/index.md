@@ -1,4 +1,8 @@
 ---
-# Files in this folder represent a Widget Page
-type: widget_page
+title: "People"
+type: "widget_page"
+# Ensures widgets appear in the order listed below
+sections:
+  - people
+  - alumni
 ---
