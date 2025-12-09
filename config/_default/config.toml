@@ -78,6 +78,11 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   author = "authors"
   publication_type = "publication_types"
 
+[params.article]
+  show_date = true
+  show_date_updated = false
+  show_reading_time = true    # optional; set to false if you don't like "1 min read"
+
 # Related content.
 [related]
   threshold = 80.0
