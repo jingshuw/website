@@ -24,6 +24,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:glin6@statistics.uchicago.edu'
+- icon: globe
+  icon_pack: fas
+  link: 'https://gl-ybnbxb.github.io/'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/aoragsusa
