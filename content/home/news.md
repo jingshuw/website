@@ -20,6 +20,6 @@ content:
   order: desc
   page_type: post     # pulls from content/post/
 design:
-  view: 3             # cards list; you can tweak later
+  view: 2             # cards list; you can tweak later
   columns: "1"
 ---

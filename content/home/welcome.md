@@ -21,7 +21,7 @@ We develop statistical methods and machine learning tools for modern biotechnolo
 
 Current research directions include:
 
-- <i class="fas fa-dna"></i> Single-cell multi-omics  
-- <i class="fas fa-project-diagram"></i> Mendelian randomization and causal inference for heritable risk factors  
-- <i class="fas fa-chart-line"></i> Large-scale inference and multiple testing, including p-value combination methods  
-- <i class="fas fa-brain"></i> Latent-structure and factor models
+- 🧬 Single-cell multi-omics  
+- 🎯 Mendelian randomization and causal inference for heritable risk factors  
+- 📊 Large-scale inference and multiple testing, including p-value combination methods  
+- 🧠 Latent-structure and factor models
