@@ -20,9 +20,6 @@ content:
   - Researchers
   - PhD Students
   - Master and Undergraduate Students
-  - Administration
-  - Visitors
-  - Alumni
 design:
   show_interests: false
   show_role: true

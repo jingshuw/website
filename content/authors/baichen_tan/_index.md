@@ -6,7 +6,7 @@ title: Baichen Tan
 superuser: false
 
 # Role/position
-role: Undergraduate student
+role: Former undergraduate student (2024)
 
 # Organizations/Affiliations
 organizations:
@@ -47,8 +47,8 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Master and Undergraduate Students
+#user_groups:
+#- Alumni
 ---
 
 
