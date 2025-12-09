@@ -1,0 +1,7 @@
+{{/* Override Wowchemy: always show the post date, never "Last updated" */}}
+
+{{- $page := . -}}
+
+<span class="article-date">
+  {{- $page.Date | time.Format (site.Params.locale.date_format | default "Jan 2, 2006") -}}
+</span>
