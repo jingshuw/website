@@ -1,6 +1,7 @@
 ---
 title: "New Commentary on the PDS Metric"
-date: 2025-11-21
+date: 2025-11-25
+lastmod: 2025-11-25
 summary: "We posted a short commentary on Arxiv discussing the behavior and scaling properties of the PDS metric used in the Virtual Cell Challenge and other recent papers."
 tags:
   - Preprint

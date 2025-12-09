@@ -1,6 +1,7 @@
 ---
 title: "Lin Gui wins 2025 IMS Hannan Graduate Student Travel Award"
 date: 2025-05-15
+lastmod: 2025-05-15
 summary: "Congratulations to Lin Gui for being selected for the IMS Hannan Graduate Student Travel Award 2025."
 tags:
   - Award

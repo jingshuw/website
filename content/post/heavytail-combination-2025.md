@@ -1,6 +1,7 @@
 ---
 title: "Preprint: Validity and Power of Heavy-Tailed Combination Tests under Asymptotic Dependence"
 date: 2025-08-07
+lastmod: 2025-08-07
 summary: "New theoretical results on heavy-tailed p-value combination tests under general dependence structures."
 tags:
   - Preprint

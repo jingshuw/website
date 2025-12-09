@@ -1,6 +1,7 @@
 ---
 title: "FLOW-MR Published in Nature Communications"
 date: 2025-07-28
+lastmod: 2025-07-28
 summary: "Our work on causal mediation analysis for time-varying heritable risk factors using Mendelian Randomization is now published in Nature Communications."
 tags:
   - Publication
