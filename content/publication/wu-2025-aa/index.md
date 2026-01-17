@@ -1,19 +1,19 @@
 ---
-title: "Interpretation of two-sample Mendelian randomization for binary exposures and outcome"
-date: 2024-06-11
-publishDate: 2024-06-11T23:16:49.132009Z
-authors: [zixuan_wu, Yunqi Yang, Aabesh Bhattacharyya, and Stephens, Matthewadmin]
+title: "Improving estimation efficiencies for family-based GWAS by integrating large external data"
+date: 2025-12-29
+publishDate: 2025-12-29T23:16:49.132009Z
+authors: [zixuan_wu, “Yunqi Yang”, “Aabesh Bhattacharyya”, "Matthew Stephens", admin]
 publication_types: ["3"]
-abstract: "Mendelian randomization (MR) employs genetic variations to infer causal effects of modifiable exposures on various outcomes, with two-sample MR using GWAS summary statistics from separate studies for exposure and outcome traits. However, challenges arise when either the exposure or outcome trait, or both, are binary. Conventional two-sample MR methods assume a linear and homogeneous causal effect of the exposure on the outcome, which is unrealistic for binary traits. To address this, we propose a model that treats binary traits as dichotomized continuous traits. We show that summary statistics for a binary trait, derived from either logistic or linear regressions, maintain nearly proportional relationships to those from linear regressions on the underlying continuous trait, provided the associations between the continuous trait and a single SNP are limited. The ratio is also easily calculable given the prevalence of the binary trait. Consequently, MR frameworks on the underlying continuous traits can be resolved using summary statistics from binary traits. Our analytical approximations and simulations indicate that no modifications to two-sample MR methods are needed for binary traits, only an adjustment in the interpretation of results. This novel interpretation also extends to complex MR frameworks, enhancing the applicability of MR to binary and ordered categorical traits."
+abstract: "Family-based genome-wide association studies (GWAS) can separate direct from indirect genetic effects such as genetic nurture, population stratification, and assortative mating, yet these designs often suffer from limited statistical power because large samples of genotyped trios and sibships are rare. We introduce a calibration framework that improves the efficiency of within-family GWAS by integrating three readily available summary statistics for each SNP: the within-family association, the corresponding population-based estimate from the same family sample, and an external population-based estimate from a large GWAS. The method does not require individual-level data and is compatible with generalized linear models used for both continuous and binary traits. Theoretical results show that calibration can reduce variance by up to fifty percent in trio designs and up to twenty-five percent in sibling designs, equivalent to doubling the effective sample size for trios. Simulations confirm the accuracy and unbiasedness of the calibrated estimator, and applications to UK Biobank family data demonstrate substantial precision gains and improved downstream Mendelian Randomization inference. Analysis of published within-sibship GWAS summary statistics further illustrates that the approach can be applied directly to publicly available data. Together, these results show that calibration provides a practical and powerful way to enhance family-based genetic analyses."
 
 featured: false
-publication: "*BioRXiv*"
-# tags: ["Single cell biology; RNA sequencing"]
+publication: "*medRXiv*"
+# tags: ["Mendelian Randomization", "GWAS"]
 
 links:
 # - name: ""
 #   url: ""
 - name: Preprint
-  url: https://www.biorxiv.org/content/10.1101/2024.06.09.598150v1
-
+  url: https://www.medrxiv.org/content/10.64898/2025.12.26.25343073v1
+url_code: 'https://github.com/ZixuanWu1/CalibrationGWAS'
 ---
