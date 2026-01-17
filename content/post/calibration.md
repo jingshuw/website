@@ -11,7 +11,7 @@ tags:
   - Genetics
 ---
 
-A new preprint on medRxiv, "Improving estimation efficiencies for family-based GWAS by integrating large external data", proposes a general calibration framework to enhance statistical efficiency in within-family genome-wide association studies (GWAS) by incorporating large external GWAS summary data:
+We have posted a new preprint on medRxiv, "Improving estimation efficiencies for family-based GWAS by integrating large external data", proposes a general calibration framework to enhance statistical efficiency in within-family genome-wide association studies (GWAS) by incorporating large external GWAS summary data:
 
 👉 medRxiv preprint: https://doi.org/10.64898/2025.12.26.25343073
 

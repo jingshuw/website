@@ -10,7 +10,7 @@ tags:
   - Theory
 ---
 
-A new preprint on Arxiv, *Validity and Power of Heavy-Tailed Combination Tests under Asymptotic Dependence*, develops a unified theoretical framework for understanding the behavior of heavy-tailed p-value combination methods under broad dependence structures:
+We have posted a new preprint on Arxiv, *Validity and Power of Heavy-Tailed Combination Tests under Asymptotic Dependence*, develops a unified theoretical framework for understanding the behavior of heavy-tailed p-value combination methods under broad dependence structures:
 
 👉 [arXiv:2508.05818](https://arxiv.org/abs/2508.05818)
 
