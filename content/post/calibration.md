@@ -1,3 +1,4 @@
+---
 title: "Preprint: Improving Estimation Efficiencies for Family-Based GWAS by Integrating Large External Data"
 date: 2026-01-17
 lastmod: 2026-01-17
