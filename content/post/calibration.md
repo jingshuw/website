@@ -18,7 +18,7 @@ We have posted a new preprint on medRxiv, "Improving estimation efficiencies for
 Key highlights of our paper include:
 
 - Family-based GWAS can isolate direct genetic effects from confounders like population stratification, genetic nurture, and assortative mating but often have limited power due to smaller sample sizes.
-- The authors introduce a calibration framework that combines three types of summary statistics per SNP: (i) the within-family association; (ii) the corresponding population-based estimate from the same family sample; and (iii) an external population-based GWAS estimate. This method does not require individual-level data and is compatible with generalized linear models for both continuous and binary traits.
+- We introduce a calibration framework that combines three types of summary statistics per SNP: (i) the within-family association; (ii) the corresponding population-based estimate from the same family sample; and (iii) an external population-based GWAS estimate. This method does not require individual-level data and is compatible with generalized linear models for both continuous and binary traits.
 - Theoretical results show the calibration can reduce estimator variance by up to ~50\% in trio designs and ~25\% in sibling designs — roughly equivalent to doubling effective sample size in trios.
 - Simulations confirm unbiasedness and variance reduction, and applications to UK Biobank family data demonstrate substantial precision gains and improved downstream Mendelian Randomization inference. The approach can also be applied directly to published within-sibship summary statistics, broadening its utility.
 
