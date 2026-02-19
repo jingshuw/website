@@ -1,5 +1,5 @@
 ---
-title: "Interpretation of two-sample Mendelian randomization for binary exposures and outcome"
+title: "Validity and Interpretation of Two-Sample Mendelian Randomization with Binary Traits"
 date: 2024-06-11
 publishDate: 2024-06-11T23:16:49.132009Z
 authors: [zixuan_wu, admin]
@@ -14,6 +14,6 @@ links:
 # - name: ""
 #   url: ""
 - name: Preprint
-  url: https://www.biorxiv.org/content/10.1101/2024.06.09.598150v1
+  url: https://www.biorxiv.org/content/10.1101/2024.06.09.598150v2
 
 ---
