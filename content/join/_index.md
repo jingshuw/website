@@ -3,7 +3,7 @@ title: "Join the Group"
 type: "page"
 ---
 
-We welcome inquiries from PhD / Mater students, postdoctoral scholars, and collaborators interested in statistical genomics and computational biology. Motivated students with strong quantitative backgrounds are encouraged to reach out.
+We welcome inquiries from PhD / Master students, postdoctoral scholars, and collaborators interested in statistical genomics and computational biology. Motivated students with strong quantitative backgrounds are encouraged to reach out.
 
 ## Current Postdoctoral Opening
 
