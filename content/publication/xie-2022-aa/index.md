@@ -1,13 +1,12 @@
 ---
 title: "Statistical Inference for Cell Type Deconvolution"
 date: 2022-02-20
-publishDate: 2021-02-20T23:16:49.132009Z
+publishDate: 2026-02-25T23:16:49.132009Z
 authors: ["Dongyue Xie", lin_gui, admin]
-publication_types: ["3"]
-abstract: "Integrating heterogeneous datasets across different measurement platforms is a fundamental challenge in many scientific applications. A common example arises in deconvolution problems, such as cell type deconvolution, where one aims to estimate the composition of latent subpopulations using reference data from a different source. However, this task is complicated by systematic platform-specific scaling effects, measurement noise, and differences between data sources. For the problem of cell type deconvolution, existing methods often neglect the correlation and uncertainty in cell type proportion estimates, possibly leading to an additional concern of false positives in downstream comparisons across multiple individuals. We introduce MEAD, a statistical framework that provides both accurate estimation and valid statistical inference on the estimates. One of our key contributions is the identifiability result, which establishes the conditions under which cell type compositions are identifiable under arbitrary gene-specific scaling differences across platforms. MEAD also supports the comparison of cell type proportions across individuals after deconvolution, accounting for gene-gene correlations and biological variability. Through simulations and real-data analysis, MEAD demonstrates superior reliability for inferring cell type compositions in complex biological systems." 
-
+publication_types: ["2"]
+abstract: "Integrating heterogeneous datasets across different measurement platforms poses fundamental challenges for statistical inference. An important example is cell type deconvolution, where cell type proportions in bulk RNA-seq data are estimated using reference single-cell data from different sources, leading to platform-specific scaling effects, measurement noise, and biological heterogeneity. Existing methods often treat estimated proportions as observed in downstream analyses, potentially compromising validity when comparing multiple individuals. We introduce MEAD, a statistical framework for estimation and inference in deconvolution with externally approximated design matrices. We establish necessary and sufficient conditions for identifiability under arbitrary gene-specific cross-platform scaling differences and develop valid inferential procedures for both individual-level proportions and comparisons across individuals, accounting for gene–gene correlation and shared estimation uncertainty. Simulations and real-data analyses demonstrate competitive estimation accuracy and reliable statistical inference."
 featured: false
-publication: "*ArXiv*"
+publication: "*The Journal of the Royal Statistical Society, Series B*"
 # tags: ["Single cell biology; RNA sequencing"]
 
 links:
