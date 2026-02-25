@@ -10,6 +10,7 @@ featured: false
 publication: "*The Journal of the Royal Statistical Society, Series B*, accepted"
 # tags: ["Single cell biology; RNA sequencing"]
 
+show_year: false
 links:
 # - name: ""
 #   url: ""
