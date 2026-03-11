@@ -8,7 +8,7 @@ tags:
   - Single-cell Genomics
 ---
 
-Our paper, MEAD: A unified framework for estimating cell-type proportions from bulk RNA-seq data with single-cell references, has been accepted for publication in the Journal of the Royal Statistical Society Series B.
+Our paper, *Statistical Inference for Cell Type Deconvolution*, has been accepted for publication in the Journal of the Royal Statistical Society Series B.
 
 👉 [preprint: ArXiv: 2202.06420](https://doi.org/10.48550/arXiv.2202.06420)
 
