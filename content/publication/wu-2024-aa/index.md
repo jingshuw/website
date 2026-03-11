@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: "Understanding the causal mechanisms of diseases is crucial in clinical research. When randomized experiments are unavailable, Mendelian Randomization (MR) leverages genetic mutations to mitigate confounding. However, most MR analyses assume static risk factors, oversimplifying dynamic risk factor effects. The framework of life-course MR addresses this but struggles with limited GWAS cohort sizes and correlations across time points. We propose FLOW-MR, a computational approach estimating causal structural equations for temporally ordered traits using only GWAS summary statistics. FLOW-MR enables inference on direct, indirect, and path-wise causal effects, demonstrating superior efficiency and reliability, especially with noisy data. By incorporating a spike-and-slab prior, it mitigates challenges from extreme polygenicity and weak instruments. Applying FLOW-MR, we uncovered a childhood-specific protective effect of BMI on breast cancer and analyzed the evolving impacts of BMI, systolic blood pressure, and cholesterol on stroke risk, revealing their causal relationships."
 
 featured: false
-publication: "*Nature Communication*"
+publication: "*Nature Communications*"
 # tags: ["Mendelian Randomization"]
 
 links:
