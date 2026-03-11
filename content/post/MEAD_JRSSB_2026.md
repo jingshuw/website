@@ -1,3 +1,5 @@
+---
+title: "MEAD Paper Accepted in JRSS-B"
 date: 2026-02-25
 lastmod: 2026-02-25
 summary: "Our paper on estimating cell-type proportions from bulk RNA-seq data using single-cell references has been accepted for publication in the Journal of the Royal Statistical Society Series B."
