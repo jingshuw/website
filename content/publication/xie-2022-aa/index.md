@@ -17,7 +17,7 @@ links:
 - name: Preprint
   url: https://arxiv.org/abs/2202.06420
 - name: Paper
-  url: https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkag054/8526200?searchresult=1
+  url: https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkag054/8526200
 url_code: 'https://github.com/DongyueXie/MEAD'
 
 ---
