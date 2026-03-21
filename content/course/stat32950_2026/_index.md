@@ -1,12 +1,12 @@
 ---
-linktitle: STAT 32950 Multivariate Statistical Analysis: Applications and Techniques
+linktitle: "STAT 32950 Multivariate Statistical Analysis: Applications and Techniques"
 weight: 1
 
 
 
 # Page metadata.
-title: STAT 32950 Multivariate Statistical Analysis: Applications and Techniques
-date: "2026-30-1T00:00:00Z"
+title: "STAT 32950 Multivariate Statistical Analysis: Applications and Techniques"
+date: "2026-03-01T00:00:00Z"
 lastmod: "2026-03-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
