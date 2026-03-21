@@ -1,0 +1,22 @@
+---
+linktitle: Lecture Notes
+toc: false
+type: docs
+date: "2026-3-26T00:00:00Z"
+draft: false
+menu:
+  stat32950_2026:
+#    parent: Example Toipic
+    weight: 2
+
+---
+
+## Course Materials
+
+Week | Date | Topic | Slides | Data example | Extra materials | Due
+---|---|---|---|---|---|---
+1| 2026-03-24 | Multivariate data and covariance geometry|  {{% staticref "materials/stat32950_2026/Lecture1.pdf" "newtab" %}}Lecture 1{{% /staticref %}} | {{% staticref "materials/stat32950_2026/Lecture1_demo.nb.html" "newtab" %}}R demo: dependence measures{{% /staticref %}} | {{% staticref "materials/stat32950_2026/probReview.pdf" "newtab" %}}Probability review{{% /staticref %}} |---
+1| 2026-03-26 | Principal Component Analysis: Foundations |  {{% staticref "materials/stat32950_2026/Lecture2.pdf" "newtab" %}}Lecture 2{{% /staticref %}} | ---|---|---
+2| 2026-03-31 | PCA in practice |  {{% staticref "materials/stat32950_2026/Lecture3.pdf" "newtab" %}}Lecture 3{{% /staticref %}} | {{% staticref "materials/stat32950_2026/Lecture3_demo.nb.html" "newtab" %}}R demo: PCA{{% /staticref %}}| {{% staticref "materials/stat32950_2026/MVnormal.pdf" "newtab" %}}Multivariate normal review{{% /staticref %}}|---
+2| 2026-04-05 |---|---|---|---|HW1 due at 11:59pm
+

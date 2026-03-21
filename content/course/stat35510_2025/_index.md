@@ -1,6 +1,6 @@
 ---
 linktitle: STAT35510 Statistical Algorithms for Single-Cell Omics and Related Techniques
-weight: 2
+weight: 3
 
 
 # Page metadata.
