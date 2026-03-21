@@ -35,11 +35,11 @@ Emphasis is placed on geometric intuition, computational implementation, and pra
 
 ## Suggested reading:
 
-- **Applied multivariate statistical analysis** by *Johnson, R. and Wichern, D. * (2007). 
+- **Applied multivariate statistical analysis** by *Johnson, R. and Wichern, D.* (2007). 
 
 
 - [**An Introduction to Statistical Learning with Applications in R**](https://www.statlearning.com/) by
-*James, G., Witten, D., Hastie, T. and Tibshirani, R. * (2021).
+*James, G., Witten, D., Hastie, T. and Tibshirani, R.* (2021).
 
 
 
