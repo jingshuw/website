@@ -21,5 +21,5 @@ Week | Date | Topic | Slides | Data example | Extra materials | Due
 2| 2026-04-02 | Factor analysis |  {{% staticref "materials/stat32950_2026/Lecture4.pdf" "newtab" %}}Lecture 4{{% /staticref %}} | {{% staticref "materials/stat32950_2026/Lecture4_demo.nb.html" "newtab" %}}R demo: Factor analysis{{% /staticref %}}|---|---
 2| 2026-04-05 |---|---|---|---|HW1 due at 11:59pm
 3| 2026-04-07 | Clustering |  {{% staticref "materials/stat32950_2026/Lecture5.pdf" "newtab" %}}Lecture 5{{% /staticref %}} | {{% staticref "materials/stat32950_2026/Lecture5_demo.html" "newtab" %}}R demo: clustering on penguins{{% /staticref %}}|---|---
-3| 2026-04-07 | Mixture mdoels and EM |  {{% staticref "materials/stat32950_2026/Lecture6.pdf" "newtab" %}}Lecture 6{{% /staticref %}} | {{% staticref "materials/stat32950_2026/Lecture6_demo.nb.html" "newtab" %}}R demo: GMM on penguins{{% /staticref %}}|---|---
+3| 2026-04-09 | Mixture mdoels and EM |  {{% staticref "materials/stat32950_2026/Lecture6.pdf" "newtab" %}}Lecture 6{{% /staticref %}} | {{% staticref "materials/stat32950_2026/Lecture6_demo.nb.html" "newtab" %}}R demo: GMM on penguins{{% /staticref %}}|---|---
 
