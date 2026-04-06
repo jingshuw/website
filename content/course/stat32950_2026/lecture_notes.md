@@ -20,4 +20,5 @@ Week | Date | Topic | Slides | Data example | Extra materials | Due
 2| 2026-03-31 | PCA in practice |  {{% staticref "materials/stat32950_2026/Lecture3.pdf" "newtab" %}}Lecture 3{{% /staticref %}} | {{% staticref "materials/stat32950_2026/Lecture3_demo.nb.html" "newtab" %}}R demo: PCA{{% /staticref %}}| {{% staticref "materials/stat32950_2026/MVnormal.pdf" "newtab" %}}Multivariate normal review{{% /staticref %}}|---
 2| 2026-04-02 | Factor analysis |  {{% staticref "materials/stat32950_2026/Lecture4.pdf" "newtab" %}}Lecture 4{{% /staticref %}} | {{% staticref "materials/stat32950_2026/Lecture4_demo.nb.html" "newtab" %}}R demo: Factor analysis{{% /staticref %}}|---|---
 2| 2026-04-05 |---|---|---|---|HW1 due at 11:59pm
+3| 2026-04-07 | Clustering |  {{% staticref "materials/stat32950_2026/Lecture5.pdf" "newtab" %}}Lecture 5{{% /staticref %}} | {{% staticref "materials/stat32950_2026/Lecture5_demo.html" "newtab" %}}R demo: clustering{{% /staticref %}}|---|---
 
