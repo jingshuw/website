@@ -26,4 +26,5 @@ Week | Date | Topic | Slides | Data example | Extra materials | Due
 5| 2026-04-21 | CCA, multivariate regression, and RRR |  {{% staticref "materials/stat32950_2026/Lecture8.pdf" "newtab" %}}Lecture 8{{% /staticref %}} |{{% staticref "materials/stat32950_2026/Lecture8_demo.html" "newtab" %}}R demo: CCA and regression for stocks{{% /staticref %}}|---|---
 5| 2026-04-23 |---|---|---|---|in-class Midterm
 5| 2026-04-26 |---|---|---|---|HW2 due at 11:59pm
+6| 2026-04-28 | Classification |  {{% staticref "materials/stat32950_2026/Lecture9.pdf" "newtab" %}}Lecture 9{{% /staticref %}} |{{% staticref "materials/stat32950_2026/Lecture9_demo.html" "newtab" %}}Quick R demo: classification{{% /staticref %}}|---|---
 
