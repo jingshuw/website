@@ -27,4 +27,6 @@ Week | Date | Topic | Slides | Data example | Extra materials | Due
 5| 2026-04-23 |---|---|---|---|in-class Midterm
 5| 2026-04-26 |---|---|---|---|HW2 due at 11:59pm
 6| 2026-04-28 | Classification |  {{% staticref "materials/stat32950_2026/Lecture9.pdf" "newtab" %}}Lecture 9{{% /staticref %}} |{{% staticref "materials/stat32950_2026/Lecture9_demo.html" "newtab" %}}Quick R demo: classification{{% /staticref %}}|---|---
-
+7| 2026-05-05 | Regularization for high-dimensional linear regressions |  {{% staticref "materials/stat32950_2026/Lecture10.pdf" "newtab" %}}Lecture 10{{% /staticref %}} |{{% staticref "materials/stat32950_2026/Lecture10_demo.nb.html" "newtab" %}}R demo: Regularization with the Hitters Data{{% /staticref %}}|---|---
+7| 2026-05-10 |---|---|---|---|HW3 due at 11:59pm
+9| 2026-05-22 |---|---|---|---|Project due at 11:59pm
