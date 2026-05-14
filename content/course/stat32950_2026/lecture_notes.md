@@ -32,4 +32,5 @@ Week | Date | Topic | Slides | Data example | Extra materials | Due
 8| 2026-05-12 | Decision trees |  {{% staticref "materials/stat32950_2026/Lecture12.pdf" "newtab" %}}Lecture 12{{% /staticref %}} |---|---|---
 8| 2026-05-14 | Bagging and Random Forest |  {{% staticref "materials/stat32950_2026/Lecture13.pdf" "newtab" %}}Lecture 13{{% /staticref %}} |{{% staticref "materials/stat32950_2026/Lecture13_demo.nb.html" "newtab" %}}R demo: trees, bagging and random forests{{% /staticref %}}|---|---
 8| 2026-05-14 |---|---|---|---|HW3 due at 11:59pm
+6| 2026-05-19 | Nonlinear unsupervised learning |  {{% staticref "materials/stat32950_2026/Lecture14.pdf" "newtab" %}}Lecture 14{{% /staticref %}} |---|---|---
 9| 2026-05-22 |---|---|---|---|Project due at 11:59pm
