@@ -30,6 +30,6 @@ Week | Date | Topic | Slides | Data example | Extra materials | Due
 7| 2026-05-05 | Regularization for high-dimensional linear regressions |  {{% staticref "materials/stat32950_2026/Lecture10.pdf" "newtab" %}}Lecture 10{{% /staticref %}} |{{% staticref "materials/stat32950_2026/Lecture10_demo.nb.html" "newtab" %}}R demo: Regularization with the Hitters Data{{% /staticref %}}|---|---
 7| 2026-05-07 | parse PCA and Covariance Shrinkage |  {{% staticref "materials/stat32950_2026/Lecture11.pdf" "newtab" %}}Lecture 11{{% /staticref %}} |---|---|---
 8| 2026-05-12 | Decision trees |  {{% staticref "materials/stat32950_2026/Lecture12.pdf" "newtab" %}}Lecture 12{{% /staticref %}} |---|---|---
-8| 2026-05-14 | Bagging and Random Forest |  {{% staticref "materials/stat32950_2026/Lecture13.pdf" "newtab" %}}Lecture 13{{% /staticref %}} |{{% staticref "materials/stat32950_2026/Lecture13_demo.html" "newtab" %}}R demo: trees, bagging and random forests{{% /staticref %}}|---|---
+8| 2026-05-14 | Bagging and Random Forest |  {{% staticref "materials/stat32950_2026/Lecture13.pdf" "newtab" %}}Lecture 13{{% /staticref %}} |{{% staticref "materials/stat32950_2026/Lecture13_demo.nb.html" "newtab" %}}R demo: trees, bagging and random forests{{% /staticref %}}|---|---
 8| 2026-05-14 |---|---|---|---|HW3 due at 11:59pm
 9| 2026-05-22 |---|---|---|---|Project due at 11:59pm
