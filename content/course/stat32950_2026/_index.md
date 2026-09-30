@@ -1,6 +1,6 @@
 ---
 linktitle: "STAT 32950 Multivariate Statistical Analysis: Applications and Techniques"
-weight: 1
+weight: 2
 
 
 
