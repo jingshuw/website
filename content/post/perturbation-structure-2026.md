@@ -1,5 +1,5 @@
 ---
-title: "Preprint: Improving Estimation Efficiencies for Family-Based GWAS by Integrating Large External Data"
+title: "Preprint: Transcriptional Perturbation Effects Remain Structured Beyond the Leading Global Trend"
 date: 2026-10-11
 lastmod: 2026-10-11
 summary: "Analysis of 12 large-scale CRISPRi screens reveals shared global responses, function-specific transcriptional effects, and a common hierarchy of responsive genes."
