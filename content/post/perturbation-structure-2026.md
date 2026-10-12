@@ -14,7 +14,7 @@ tags:
 We have posted a new preprint on bioRxiv, "Transcriptional perturbation effects remain structured beyond the leading global trend", which investigates the structure of transcriptional responses to genetic perturbations across large-scale single-cell CRISPRi screens and its implications for predicting unseen perturbation effects.
 
 
-👉 medRxiv preprint: https://www.biorxiv.org/content/10.64898/2026.10.05.756839v1
+👉 bioRxiv preprint: https://www.biorxiv.org/content/10.64898/2026.10.05.756839v1
 
 Key highlights of our paper include:
 
