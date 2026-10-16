@@ -21,3 +21,4 @@ Week | Date | Topic | Slides | Extra materials | Due
 2| 2026-10-09 | Fisher randomization inference: case study |  {{% staticref "materials/stat246_2027/Lecture4.pdf" "newtab" %}}Lecture 4{{% /staticref %}} |{{% staticref "materials/stat246_2027/R_example1.html" "newtab" %}}R Example for Fisher randomization inference{{% /staticref %}}|---
 2| 2026-10-11 |---|---|---|HW1 due at 11:59pm
 3| 2026-10-14 | Neyman’s repeated sampling approach for completely randomized experiments |  {{% staticref "materials/stat246_2027/Lecture5.pdf" "newtab" %}}Lecture 5{{% /staticref %}} |---|---
+3| 2025-10-16 | Regression for completely randomized experiment |  {{% staticref "materials/stat246_2027/Lecture6.pdf" "newtab" %}}Lecture 6{{% /staticref %}} |---|---
