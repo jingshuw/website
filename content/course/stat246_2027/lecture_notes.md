@@ -26,6 +26,7 @@ Week | Date | Topic | Slides | Extra materials | Due
 4| 2025-10-23 | Stratified randomized experiments |  {{% staticref "materials/stat246_2027/Lecture7.pdf" "newtab" %}}Lecture 7{{% /staticref %}} |---|---
 4| 2026-10-23 |---|---|---|Quiz1 in class
 4| 2026-10-25 |---|---|---|HW2 due at 11:59pm
-5| 2026-10-28 | Stratified randomized experiments (continued) & Paired randomized experiment (if time permits) |  --- |{{% staticref "materials/stat246_2027/R_example3.html" "newtab" %}}case study on HOMEFOOD randomized trial{{% /staticref %}}|---
+5| 2026-10-28 | Stratified randomized experiments (continued) |  --- |{{% staticref "materials/stat246_2027/R_example3.html" "newtab" %}}case study on HOMEFOOD randomized trial{{% /staticref %}}|---
+5| 2026-10-30 | Pairwise randomized experiments |  {{% staticref "materials/stat246_2027/Lecture8.pdf" "newtab" %}}Lecture 8{{% /staticref %}} |{{% staticref "materials/stat246_2027/R_example4.html" "newtab" %}}R example for paired experiment{{% /staticref %}}|---
 6| 2026-11-08 |---|---|---|project data selection due
 7| 2026-11-10 |---|---|---|HW3 due at 11:59pm
