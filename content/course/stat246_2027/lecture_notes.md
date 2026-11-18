@@ -32,3 +32,4 @@ Week | Date | Topic | Slides | Extra materials | Due
 6| 2026-11-08 |---|---|---|project data selection due
 7| 2026-11-11 | Non-compliance and instrumental variables, part II |  {{% staticref "materials/stat246_2027/Lecture10.pdf" "newtab" %}}Lecture 10{{% /staticref %}} |{{% staticref "materials/stat246_2027/R_example5.html" "newtab" %}}R example on Job Search Intervention Study{{% /staticref %}}|---
 7| 2026-11-15 |---|---|---|HW3 due at 11:59pm
+8| 2026-11-18 | Unconfoundedness and propensity scores |  {{% staticref "materials/stat246_2027/Lecture11.pdf" "newtab" %}}Lecture 11{{% /staticref %}} |{{% staticref "materials/stat246_2027/R_example6.html" "newtab" %}}Stratification{{% /staticref %}}|---
