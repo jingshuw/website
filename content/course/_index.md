@@ -1,6 +1,6 @@
 ---
 title: Courses
-layout: docs
+layout: course-index
 
 header:
   caption: ""

@@ -3,34 +3,28 @@
   <div class="universal-wrapper">
     {{ with .Content }}<div class="article-style">{{ . }}</div>{{ end }}
 
-    <div id="publication-filters" class="form-row mb-4" role="group" aria-label="Filter publications" hidden>
-      <div class="col-auto">
-        <select id="publication-topic" class="form-control form-control-sm" aria-label="Publication topic">
-          <option value="">All topics</option>
-          {{ range .Params.publication_topics }}
-            <option value="{{ . }}">{{ . }}</option>
-          {{ end }}
-        </select>
-      </div>
-      <div class="col-auto">
-        <select id="publication-type" class="form-control form-control-sm" aria-label="Publication type">
-          <option value="">All types</option>
-          {{ $types := partial "functions/get_pub_types" . }}
-          {{ range $id, $_ := site.Taxonomies.publication_types }}
-            <option value="{{ $id }}">{{ index $types (int $id) }}</option>
-          {{ end }}
-        </select>
-      </div>
-      <div class="col-auto">
-        <select id="publication-year" class="form-control form-control-sm" aria-label="Publication year">
-          <option value="">All years</option>
-        </select>
-      </div>
+    <div id="publication-filters" role="group" aria-label="Filter publications" hidden>
+      <select id="publication-topic" class="form-control form-control-sm" aria-label="Publication topic">
+        <option value="">All topics</option>
+        {{ range .Params.publication_topics }}
+          <option value="{{ . }}">{{ . }}</option>
+        {{ end }}
+      </select>
+      <select id="publication-type" class="form-control form-control-sm" aria-label="Publication type">
+        <option value="">All types</option>
+        {{ $types := partial "functions/get_pub_types" . }}
+        {{ range $id, $_ := site.Taxonomies.publication_types }}
+          <option value="{{ $id }}">{{ index $types (int $id) }}</option>
+        {{ end }}
+      </select>
+      <select id="publication-year" class="form-control form-control-sm" aria-label="Publication year">
+        <option value="">All years</option>
+      </select>
     </div>
 
     <p id="publication-status" role="status"></p>
     <div id="publication-list">
-      {{ $views := dict "1" "li_list" "3" "li_card" "4" "li_citation" }}
+      {{ $views := dict "1" "li_list" "3" "li_card" "4" "publication_row" }}
       {{ $view := index $views (string .Params.view) | default "li_compact" }}
       {{ range .RegularPages.ByDate.Reverse }}
         <div data-topic="{{ .Params.publication_topic }}" data-year="{{ .Date.Year }}" data-types="{{ delimit (.Params.publication_types | default (slice "0")) " " }}">

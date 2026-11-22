@@ -13,7 +13,8 @@ We are recruiting a postdoctoral scholar to develop statistical and computationa
 
 Research directions of interest include combining statistical inference with AI models trained on large single-cell datasets to predict how cells respond to perturbations, integrating single-cell measurements with human genetic data to study the pathways underlying complex traits, and drawing on causal inference, machine learning, and evidence from multiple sources to design more informative perturbation experiments.
 
-### Postdoctoral Scholar in Computational Neurogenomics  
+### Postdoctoral Scholar in Computational Neurogenomics
+
 *(Joint position with Xiaochang Zhang, University of Chicago)*
 
 This joint position focuses on the computational and quantitative analysis of single-cell and long-read transcriptomic data to investigate gene regulation and RNA processing in neural development. The project combines neurogenomics with principled statistical modeling and functional genomics, with opportunities to contribute to both methodological innovation and biological discovery.

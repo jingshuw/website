@@ -1,3 +1,188 @@
-#software .card-text h4 a {
-  text-transform: none;
+$rule: #d9d7d2;
+$secondary: #525962;
+$ui-font: Roboto, "Helvetica Neue", Arial, sans-serif;
+
+.navbar .navbar-nav .nav-link.active,
+.navbar .nav-link[aria-current="page"] {
+  text-decoration: underline;
+  text-underline-offset: .3em;
+}
+
+.article-date,
+#publication-filters select,
+#software .project-toolbar {
+  font-family: $ui-font;
+}
+
+// Use the same reading column for the welcome and the five news items.
+#welcome, #news {
+  padding: 2.5rem 0;
+
+  .container { max-width: 44rem; }
+  .container > .row > [class*="col-"] {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .section-heading h1 { text-align: left; }
+}
+
+#welcome .welcome-rule {
+  width: 4rem;
+  margin: 1rem 0;
+  border: 0;
+  border-top: 2px solid $rule;
+}
+
+#news .card-simple {
+  position: relative;
+  margin: 0;
+  padding: 1rem 0 1rem 6.5rem;
+  border: 0;
+  border-top: 1px solid $rule;
+  border-radius: 0;
+  box-shadow: none;
+  background: transparent;
+
+  .article-date {
+    position: absolute;
+    top: 1.2rem;
+    left: 0;
+    color: $secondary;
+    font-size: .8rem;
+    font-variant-numeric: tabular-nums;
+  }
+  h3 { margin: 0 0 .3rem; font-size: 1.2rem; }
+  h3.mt-3 { margin-top: 0 !important; }
+  .article-style, p { margin: 0; }
+}
+
+#publication-filters:not([hidden]) {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .45rem;
+  margin: 1rem 0 1.3rem;
+
+  select { width: auto; max-width: 100%; height: auto; min-height: 2.1rem; }
+}
+
+#publication-status:empty { display: none; }
+
+.publication-row {
+  padding: 1rem 0;
+  border-top: 1px solid $rule;
+
+  h2 { margin: 0 0 .3rem; font-size: 1.25rem; line-height: 1.25; }
+  h2 a { color: inherit; }
+  h2 a:hover, h2 a:focus { text-decoration: underline; }
+  p { margin: 0; line-height: 1.4; }
+  .publication-authors, .publication-venue { font-size: .92rem; }
+  .publication-venue { color: $secondary; }
+  .publication-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .35rem;
+    margin-top: .45rem;
+    font-family: $ui-font;
+  }
+  .publication-links .btn { margin: 0; }
+}
+
+#people {
+  padding: 2.5rem 0 1.5rem;
+
+  h2 { margin: 1rem 0 .75rem; }
+  .people-widget h2.mb-4 { margin-bottom: .75rem !important; }
+  .people-person { padding-bottom: 0; margin-bottom: 1.2rem; }
+  .people-person .avatar { width: 7rem; height: 7rem; object-fit: cover; }
+  .portrait-title h2 { margin: .55rem 0 .15rem; font-size: 1.2rem; }
+  .portrait-title h3 { margin: 0; font-size: .95rem; line-height: 1.35; }
+  .network-icon { margin: .4rem 0 0; }
+}
+
+#alumni {
+  padding: 2rem 0;
+
+  table { display: table; table-layout: fixed; width: 100%; }
+  th, td { padding: .38rem .45rem; overflow-wrap: break-word; }
+  th:first-child { width: 23%; }
+  th:nth-child(2) { width: 19%; }
+  td:nth-child(2) { font-variant-numeric: tabular-nums; }
+}
+
+#software {
+  .btn-group {
+    display: inline-flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+    gap: .4rem;
+    font-family: $ui-font;
+  }
+  .btn-group > .btn {
+    flex: 0 1 auto;
+    margin: 0;
+    border-radius: .2rem;
+    white-space: normal;
+  }
+
+  // Isotope measures the outer item width when it positions filtered cards.
+  .projects-container { display: flex; flex-wrap: wrap; }
+  .isotope-item {
+    box-sizing: border-box;
+    width: 50%;
+    max-width: 50%;
+    margin: 0;
+    padding: .45rem;
+  }
+  .card {
+    margin: 0;
+    border: 1px solid $rule;
+    border-radius: .2rem;
+    box-shadow: none;
+  }
+  .card-text { padding: .9rem 1rem; }
+  .card-text h4 { margin: 0 0 .35rem; font-size: 1.25rem; }
+  .card-text h4 a { text-transform: none; }
+  .card-text p { margin-bottom: 0; }
+  .card-text a[href*="/publication/"]:last-child {
+    display: table;
+    margin-top: .6rem;
+    font: .8rem/1.5 $ui-font;
+  }
+}
+
+#current-postdoctoral-openings ~ h3 {
+  margin: 1.3rem 0 .5rem;
+  font-size: 1.3rem;
+}
+#current-postdoctoral-openings ~ h3 ~ h3 {
+  margin-top: 1.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid $rule;
+}
+#postdoctoral-scholar-in-computational-neurogenomics + p {
+  margin: -.2rem 0 .6rem;
+  font-size: .9rem;
+  color: $secondary;
+}
+
+.course-index {
+  margin: 1.5rem 0;
+  padding: 0;
+  list-style: none;
+
+  li { padding: .65rem 0; border-top: 1px solid $rule; }
+}
+
+@media (max-width: 767px) {
+  #welcome, #news, #people, #alumni { padding: 1.75rem 0; }
+  #news .card-simple {
+    padding: .85rem 0;
+    .article-date { position: static; display: block; margin-bottom: .2rem; }
+  }
+  #software .isotope-item { width: 100%; max-width: 100%; }
+  #alumni {
+    th, td { padding: .35rem .25rem; }
+    th:first-child { width: 26%; }
+    th:nth-child(2) { width: 22%; }
+  }
 }

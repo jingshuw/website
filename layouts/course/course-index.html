@@ -1,0 +1,14 @@
+{{ define "main" }}
+  {{ partial "page_header.html" . }}
+  <div class="universal-wrapper">
+    {{ with .Content }}<div class="article-style">{{ . }}</div>{{ end }}
+    <ul class="course-index">
+      {{ range .Pages.ByWeight }}
+        {{ $course := . }}
+        {{ with .Params.linktitle | default .Params.title }}
+          <li><a href="{{ $course.RelPermalink }}">{{ . }}</a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}
