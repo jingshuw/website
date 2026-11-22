@@ -1,5 +1,6 @@
 ---
 title: "Joint Trajectory Inference for Single-cell Genomics Using Deep Learning with a Mixture Prior"
+publication_topic: Single-cell genomics
 date: 2024-09-01
 publishDate: 2024-09-03T23:16:49.132009Z
 authors: [jinhong_du, tianyu_chen, ming_gao, admin]

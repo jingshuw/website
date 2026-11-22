@@ -1,5 +1,6 @@
 ---
 title: "Validity and Interpretation of Two-Sample Mendelian Randomization with Binary Traits"
+publication_topic: Mendelian Randomization
 date: 2024-06-11
 publishDate: 2024-06-11T23:16:49.132009Z
 authors: [zixuan_wu, admin]

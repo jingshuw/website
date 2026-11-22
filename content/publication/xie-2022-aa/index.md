@@ -1,5 +1,6 @@
 ---
 title: "Statistical Inference for Cell Type Deconvolution"
+publication_topic: Single-cell genomics
 date: 2026-03-17
 publishDate: 2021-03-17T23:16:49.132009Z
 authors: ["Dongyue Xie", lin_gui, admin]

@@ -1,5 +1,6 @@
 ---
 title: "Powerful genome-wide design and robust statistical inference in two-sample summary-data Mendelian randomization"
+publication_topic: Mendelian Randomization
 authors:
 - Qingyuan Zhao
 - Yang Chen

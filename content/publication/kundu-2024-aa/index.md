@@ -1,5 +1,6 @@
 ---
 title: "Sensitivity Analysis for the Test-Negative Design"
+publication_topic: General statistical methodology
 date: 2026-10-27
 publishDate: 2024-06-11T23:16:49.132009Z
 authors: ["Soumyabrata Kundu", "Peng Ding", admin, "Xinran Li"]

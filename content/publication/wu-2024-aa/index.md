@@ -1,5 +1,6 @@
 ---
 title: "Causal Mediation Analysis for Time-varying Heritable Risk Factors with Mendelian Randomization"
+publication_topic: Mendelian Randomization
 date: 2025-07-28
 publishDate: 2025-07-28T23:16:49.132009Z
 authors: [zixuan_wu, ethan_lewis, "Qingyuan Zhao", admin]

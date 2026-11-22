@@ -1,5 +1,6 @@
 ---
 title: "Detecting Multiple Replicating Signals using Adaptive Filtering Procedures"
+publication_topic: General statistical methodology
 date: 2022-10-01
 publishDate: 2022-01-03T23:16:49.131668Z
 authors: [admin, lin_gui, "Weijie J. Su", "Chiara Sabatti", "Art B. Owen"]

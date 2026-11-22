@@ -1,5 +1,6 @@
 ---
 title: "Effects of Distance Metrics and Scaling on the Perturbation Discrimination Score"
+publication_topic: Single-cell genomics
 date: 2025-11-21
 publishDate: 2025-11-21T23:16:49.132009Z
 authors: [qiyuan_liu, "Qirui Zhang", jinhong_du, "Siming Zhao", admin]

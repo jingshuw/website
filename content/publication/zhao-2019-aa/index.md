@@ -1,5 +1,6 @@
 ---
 title: "Two-Sample Instrumental Variable Analyses Using Heterogeneous Samples"
+publication_topic: Mendelian Randomization
 date: 2019-01-01
 publishDate: 2021-01-03T23:18:25.257316Z
 authors: ["Qingyuan Zhao", admin, "Wes Spiller", "Jack Bowden", "Dylan S. Small"]

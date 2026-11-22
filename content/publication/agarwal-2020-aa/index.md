@@ -1,5 +1,6 @@
 ---
 title: "Data Denoising and Post-Denoising Corrections in Single Cell RNA Sequencing"
+publication_topic: Single-cell genomics
 date: 2020-01-01
 publishDate: 2021-01-03T23:16:49.132009Z
 authors: ["Divyansh Agarwal", admin, "Nancy R. Zhang"]

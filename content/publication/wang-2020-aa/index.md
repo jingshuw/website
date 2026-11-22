@@ -1,5 +1,6 @@
 ---
 title: "Causal Inference for Heritable Phenotypic Risk Factors Using Heterogeneous Genetic Instruments"
+publication_topic: Mendelian Randomization
 date: 2021-06-22
 publishDate: 2021-06-22T23:16:49.124667Z
 authors: [admin, "Qingyuan Zhao", "Jack Bowden", "Gibran Hemani", "George Davey Smith", "Dylan S. Small", "Nancy R. Zhang"]

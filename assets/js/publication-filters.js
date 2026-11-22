@@ -1,20 +1,19 @@
 (() => {
   const filters = document.getElementById('publication-filters');
-  const search = document.getElementById('publication-search');
+  const topic = document.getElementById('publication-topic');
   const type = document.getElementById('publication-type');
   const year = document.getElementById('publication-year');
   const status = document.getElementById('publication-status');
   const papers = Array.from(document.getElementById('publication-list').children, element => ({
     element,
-    text: element.textContent.toLowerCase().replace(/\s+/g, ' '),
+    topic: element.dataset.topic,
     types: element.dataset.types.split(' '),
     year: element.dataset.year,
   }));
 
   function filterPapers() {
-    const query = search.value.trim().toLowerCase();
     const matching = papers.filter(paper =>
-      (!type.value || paper.types.includes(type.value)) && paper.text.includes(query)
+      (!topic.value || paper.topic === topic.value) && (!type.value || paper.types.includes(type.value))
     );
     // Papers are rendered newest first, so the menu follows that same order.
     const availableYears = new Set(matching.map(paper => paper.year));
@@ -29,7 +28,7 @@
     for (const paper of papers) {
       paper.element.hidden = !visible.has(paper);
     }
-    status.textContent = visible.size ? '' : 'No publications match these filters. Try another search or publication type.';
+    status.textContent = visible.size ? '' : 'No publications match this topic and publication type.';
   }
 
   // The theme links to publication types using fragments such as /publication/#2.
@@ -46,7 +45,7 @@
     filterPapers();
   });
   window.addEventListener('hashchange', readTypeFromUrl);
-  search.addEventListener('input', filterPapers);
+  topic.addEventListener('change', filterPapers);
   year.addEventListener('change', filterPapers);
   readTypeFromUrl();
   filters.hidden = false;

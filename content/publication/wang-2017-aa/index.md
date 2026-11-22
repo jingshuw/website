@@ -1,5 +1,6 @@
 ---
 title: "Confounder adjustment in multiple hypothesis testing"
+publication_topic: General statistical methodology
 date: 2017-01-01
 publishDate: 2021-01-03T23:18:25.258012Z
 authors: [admin, "Qingyuan Zhao", "Trevor Hastie", "Art B. Owen"]
@@ -13,7 +14,7 @@ links:
   url: "https://projecteuclid.org:443/euclid.aos/1509436821"
 - name: Preprint
   url: https://arxiv.org/abs/1508.04178
-url_code: https://cran.r-project.org/web/packages/cate/index.html
+url_code: https://github.com/cran/cate
 
 ---
 

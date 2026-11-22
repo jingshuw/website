@@ -1,5 +1,6 @@
 ---
 title: "A Mendelian randomization study of the role of lipoprotein subfractions in coronary artery disease"
+publication_topic: Mendelian Randomization
 date: 2021-04-01
 publishDate: 2021-04-03T23:18:25.257316Z
 authors: ["Qingyuan Zhao", admin, "Zhen Miao", "Nancy R Zhang", "Sean Hennessy", "Dylan S Small", "Daniel J Rader"]

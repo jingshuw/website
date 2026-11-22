@@ -1,5 +1,6 @@
 ---
 title: "Transcriptional perturbation effects remain structured beyond the leading global trend"
+publication_topic: Single-cell genomics
 date: 2026-10-05
 publishDate: 2026-10-05T23:16:49.132009Z
 authors: [qiyuan_liu, "Qirui Zhang", "Yilong Chen", jinhong_du, "Siming Zhao", admin]

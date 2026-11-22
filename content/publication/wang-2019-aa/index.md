@@ -1,5 +1,6 @@
 ---
 title: "Admissibility in Partial Conjunction Testing"
+publication_topic: General statistical methodology
 date: 2019-01-01
 publishDate: 2021-01-03T23:18:25.257503Z
 authors: [admin, "Art B. Owen"]

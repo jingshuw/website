@@ -1,5 +1,6 @@
 ---
 title: "Validity and Power of Heavy-Tailed Combination Tests under Asymptotic Dependence"
+publication_topic: General statistical methodology
 date: 2026-11-21
 publishDate: 2025-08-07T23:16:49.132009Z
 authors: [lin_gui, "Tiantian Mao", admin, "Ruodu Wang"]

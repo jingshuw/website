@@ -1,5 +1,6 @@
 ---
 title: "Online Single-cell RNA-seq Data Denoising with Transfer Learning"
+publication_topic: Single-cell genomics
 date: 2020-07-01
 publishDate: 2021-01-06T21:00:06.720308Z
 authors: [Bowei_Kang, "Eroma Abeysinghe", "Divyansh Agarwal", "Quanli Wang", "Sudhakar Pamidighantam", "Mo Huang", "Nancy R Zhang", admin]

@@ -1,5 +1,6 @@
 ---
 title: "Bi-Cross-Validation for Factor Analysis"
+publication_topic: General statistical methodology
 date: 2016-01-01
 publishDate: 2021-01-03T23:18:25.258240Z
 authors: ["Art B. Owen", admin]
@@ -13,7 +14,7 @@ links:
    url: "https://projecteuclid.org:443/euclid.ss/1455115917"
  - name: Preprint
    url: https://arxiv.org/abs/1503.03515
-url_code: https://cran.r-project.org/web/packages/esaBcv/
+url_code: https://github.com/cran/esaBcv
 
 ---
 

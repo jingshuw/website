@@ -11,7 +11,7 @@ date: "2016-11-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 
-external_link: https://cran.r-project.org/web/packages/esaBcv/
+external_link: https://github.com/cran/esaBcv
 
 
 image:

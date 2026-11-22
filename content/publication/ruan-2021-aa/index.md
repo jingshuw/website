@@ -1,5 +1,6 @@
 ---
 title: "Progenitor cell diversity in the developing mouse neocortex"
+publication_topic: Single-cell genomics
 date: 2021-01-01
 publishDate: 2021-03-09T23:16:49.132009Z
 authors: ["Xiangbin Ruan", Bowei_Kang, "Cai Qi", "Wenhe Lin", admin, "Xiaochang Zhang"]

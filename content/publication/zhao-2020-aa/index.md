@@ -1,5 +1,6 @@
 ---
 title: "Statistical inference in two-sample summary-data Mendelian randomization using robust adjusted profile score"
+publication_topic: Mendelian Randomization
 date: 2020-01-01
 publishDate: 2021-01-03T23:18:25.256978Z
 authors: ["Qingyuan Zhao", admin, "Gibran Hemani", "Jack Bowden", "Dylan S. Small"]

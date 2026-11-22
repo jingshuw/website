@@ -1,5 +1,6 @@
 ---
 title: "Data denoising with transfer learning in single-cell transcriptomics"
+publication_topic: Single-cell genomics
 date: 2019-01-01
 publishDate: 2021-01-03T23:16:49.132213Z
 authors: [admin, "Divyansh Agarwal", "Mo Huang", "Gang Hu", "Zilu Zhou", "Chengzhong Ye", "Nancy R. Zhang"]

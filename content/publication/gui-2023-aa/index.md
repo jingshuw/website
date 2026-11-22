@@ -1,5 +1,6 @@
 ---
 title: "Aggregating Dependent Signals with Heavy-Tailed Combination Tests"
+publication_topic: General statistical methodology
 date: 2025-06-01
 publishDate: 2025-06-01T23:16:49.132009Z
 authors: [lin_gui, "Yuchao Jiang", admin]

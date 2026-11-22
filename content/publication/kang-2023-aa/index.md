@@ -1,5 +1,6 @@
 ---
 title: "Infernape uncovers cell type-specific and spatially resolved alternative polyadenylation in the brain"
+publication_topic: Single-cell genomics
 date: 2023-10-01
 publishDate: 2023-10-09T23:16:49.132009Z
 authors: [Bowei_Kang, "Yalan Yang", "Kaining Hu", "Xiangbin Ruan", yilin_liu, "Pinky Lee", "Jasper Lee", admin, "Xiaochang Zhang"]

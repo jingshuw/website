@@ -12,7 +12,7 @@ date: "2017-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 
-external_link: https://cran.r-project.org/web/packages/cate/
+external_link: https://github.com/cran/cate
 
 image:
   caption: Photo by Toa Heftiba on Unsplash

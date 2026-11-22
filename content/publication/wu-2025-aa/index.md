@@ -1,5 +1,6 @@
 ---
 title: "Improving estimation efficiencies for family-based GWAS by integrating large external data"
+publication_topic: General statistical methodology
 date: 2025-12-29
 publishDate: 2025-12-29T23:16:49.132009Z
 authors: [zixuan_wu, "Yunqi Yang", "Aabesh Bhattacharyya", "Matthew Stephens", admin]

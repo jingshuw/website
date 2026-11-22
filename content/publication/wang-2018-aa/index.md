@@ -1,5 +1,6 @@
 ---
 title: "Gene expression distribution deconvolution in single-cell RNA sequencing"
+publication_topic: Single-cell genomics
 date: 2018-07-10
 publishDate: 2021-01-03T23:18:25.257674Z
 authors: [admin, "Mo Huang", "Eduardo Torre", "Hannah Dueck", "Sydney Shaffer", "John Murray", "Arjun Raj", "Mingyao Li", "Nancy R. Zhang"]
