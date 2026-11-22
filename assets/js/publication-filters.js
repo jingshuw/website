@@ -16,19 +16,14 @@
     const matching = papers.filter(paper =>
       (!type.value || paper.types.includes(type.value)) && paper.text.includes(query)
     );
-    const counts = new Map();
-    for (const paper of matching) {
-      counts.set(paper.year, (counts.get(paper.year) || 0) + 1);
-    }
-
     // Papers are rendered newest first, so the menu follows that same order.
+    const availableYears = new Set(matching.map(paper => paper.year));
     const selectedYear = year.value;
     year.options.length = 1;
-    year.options[0].text = `All years (${matching.length})`;
-    for (const [value, count] of counts) {
-      year.add(new Option(`${value} (${count})`, value));
+    for (const value of availableYears) {
+      year.add(new Option(value, value));
     }
-    year.value = counts.has(selectedYear) ? selectedYear : '';
+    year.value = availableYears.has(selectedYear) ? selectedYear : '';
 
     const visible = new Set(matching.filter(paper => !year.value || paper.year === year.value));
     for (const paper of papers) {
