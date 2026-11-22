@@ -1,5 +1,5 @@
 ---
-title: "María Valdez Cabrera joins the Wang and Stephens groups"
+title: "María Valdez Cabrera joins the group as a postdoctoral scholar"
 date: 2026-11-01
 summary: "Welcome to María, a new postdoctoral scholar jointly mentored by Jingshu Wang and Matthew Stephens."
 tags:

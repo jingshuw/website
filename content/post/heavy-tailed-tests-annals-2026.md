@@ -1,14 +1,14 @@
 ---
 title: "Heavy-tailed combination tests paper accepted by the Annals of Statistics"
 date: 2026-11-21
-summary: "Lin Gui, Tiantian Mao, Jingshu Wang, and Ruodu Wang show when combining dependent p-values can improve on the Bonferroni test."
+summary: "Our paper on the validity and power of heavy-tailed tests for combining dependent p-values has been accepted by the Annals of Statistics."
 tags:
   - Publication
   - Multiple Testing
 ---
 
-*The Annals of Statistics* has accepted our paper “Validity and Power of Heavy-Tailed Combination Tests under Asymptotic Dependence,” by Lin Gui, Tiantian Mao, Jingshu Wang, and Ruodu Wang.
+Our paper, *Validity and Power of Heavy-Tailed Combination Tests under Asymptotic Dependence*, has been accepted for publication in *The Annals of Statistics*.
 
-When several tests produce small p-values together, what do we gain by combining them? The paper gives conditions under which heavy-tailed combination tests control false positives and can be more powerful than Bonferroni. Congratulations to Lin and the team!
+We show when heavy-tailed combination tests control the type I error rate asymptotically and how they can gain power over the Bonferroni test when small p-values tend to occur together.
 
 [Read the paper](/publication/gui-2025-aa/)
