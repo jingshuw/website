@@ -20,14 +20,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Single-cell RNA sequencing
-      tag: 'Single-cell RNA sequencing'
+    - name: Single-cell genomics
+      tag: 'Single-cell genomics'
     - name: Mendelian Randomization
       tag: 'Mendelian Randomization'
     - name: Statistical Genetics
       tag: Statistical Genetics
-    - name: Research Code
-      tag: Research Code
     - name: Multiple Testing
       tag: 'Multiple Testing'
     - name: Deep Learning

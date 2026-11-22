@@ -51,4 +51,4 @@ user_groups:
 - PhD Students
 ---
 
-
+Qiyuan studies how gene expression changes after a genetic perturbation and how accurately models can predict those changes.

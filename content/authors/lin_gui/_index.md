@@ -53,3 +53,5 @@ highlight_name: true
 user_groups:
 - Alumni
 ---
+
+Lin’s doctoral research examined how to combine dependent p-values using heavy-tailed tests and how to identify signals that replicate across studies.

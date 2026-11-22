@@ -7,6 +7,5 @@ social:
   - icon: globe
     icon_pack: fas
     link: https://stat.uchicago.edu/people/profile/woohyun-choi/
-user_groups:
-  - PhD Students
+user_groups: []
 ---

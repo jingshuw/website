@@ -5,7 +5,7 @@ summary: >-
 
 
 tags:
-- Single-cell RNA sequencing
+- Single-cell genomics
 
 date: "2018-06-01T00:00:00Z"
 

@@ -8,7 +8,7 @@ title: "Alumni"
 ### PhD students
 
 - [Ziming Gan](/author/ziming-gan/) (2026) joined the University of Science and Technology of China as an assistant professor.
-- [Lin Gui](/author/lin-gui/) (2026) also earned a master’s degree at UChicago in 2020.
+- [Lin Gui](/author/lin-gui/) (2026)
 
 ### Master’s students
 
@@ -35,8 +35,10 @@ title: "Alumni"
 
 ### Undergraduate students
 
-- [Andrew Yang](/author/andrew-yang/) (2025–2026) entered the PhD program in Statistics at the University of Chicago.
-- [Jeremy Yang](/author/jeremy-yang/) (2025–2026) continued in the group as a master’s student.
-- Baichen Tan (2023–2024) entered the PhD program in Statistics at Columbia University.
-- Ethan Lewis (2021) continued in the group as a master’s student.
-- Shuhong Liu (2020)
+| Student | Year(s) | Next program |
+| --- | --- | --- |
+| [Andrew Yang](/author/andrew-yang/) | 2025–2026 | PhD in Statistics, University of Chicago |
+| [Jeremy Yang](/author/jeremy-yang/) | 2025–2026 | Continued in the group as a master’s student |
+| Baichen Tan | 2023–2024 | PhD in Statistics, Columbia University |
+| Ethan Lewis | 2021 | Continued in the group as a master’s student |
+| Shuhong Liu | 2020 | — |

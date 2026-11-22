@@ -51,4 +51,4 @@ user_groups:
 - PhD Students
 ---
 
-
+Zixuan develops methods for Mendelian randomization and for improving the precision of family-based genome-wide association studies.
