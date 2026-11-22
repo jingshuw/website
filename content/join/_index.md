@@ -11,7 +11,7 @@ We welcome inquiries from PhD / Master students, postdoctoral scholars, and coll
 
 We are recruiting a postdoctoral scholar to develop statistical and computational methods for single-cell genomics. We are particularly interested in how single-cell perturbation experiments can illuminate gene regulation and human disease.
 
-The scholar could combine statistical inference with AI models trained on large single-cell datasets to predict how cells respond to perturbations, integrate single-cell measurements with human genetic data to study the pathways underlying complex traits, or draw on causal inference, machine learning, and evidence from multiple sources to design more informative perturbation experiments.
+Research directions of interest include combining statistical inference with AI models trained on large single-cell datasets to predict how cells respond to perturbations, integrating single-cell measurements with human genetic data to study the pathways underlying complex traits, and drawing on causal inference, machine learning, and evidence from multiple sources to design more informative perturbation experiments.
 
 ### Postdoctoral Scholar in Computational Neurogenomics  
 *(Joint position with Xiaochang Zhang, University of Chicago)*
