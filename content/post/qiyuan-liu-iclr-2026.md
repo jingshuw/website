@@ -1,5 +1,5 @@
 ---
-title: "Qiyuan Liu presents at the ICLR 2026 Gen² Workshop"
+title: "Qiyuan Liu’s paper selected for an oral spotlight at the ICLR 2026 Gen² Workshop"
 date: 2026-04-27
 summary: "Qiyuan gave one of three oral spotlights at the Generative AI in Genomics workshop in Rio de Janeiro."
 tags:

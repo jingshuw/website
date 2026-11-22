@@ -17,9 +17,9 @@ title: "Alumni"
 | Yilong Chen | 2023–2025 | Statistics, Northwestern University |
 | KyongJu Lee | 2023–2025 | Statistics, University of Pittsburgh |
 | Jiaming Liu | 2023–2025 | Computational Biology, University of Chicago |
-| Tianyu Chen | 2021–2023 | Statistics and Data Sciences, University of Texas at Austin |
+| [Tianyu Chen](https://tianyucodings.github.io/) | 2021–2023 | Statistics and Data Sciences, University of Texas at Austin |
 | Taewan Kim | 2021–2023 | — |
-| Liangzong Ma | 2023 | Quantitative Marketing, Harvard University |
+| [Liangzong Ma](https://sites.google.com/view/liangzongma/home) | 2023 | Quantitative Marketing, Harvard University |
 | Yao Rong | 2021–2023 | — |
 | Zixuan Wu | 2023 | Statistics, University of Chicago |
 | Seung-Wan Jin | 2020–2022 | Machine Learning, Georgia Tech |
@@ -28,9 +28,9 @@ title: "Alumni"
 | Yingcheng Luo | 2020–2022 | Statistics, Tsinghua University |
 | Jack Potrykus | 2022 | — |
 | Xinxin Chen | 2021 | Biostatistics, University of North Carolina |
-| Jin-Hong Du | 2019–2021 | Statistics, Carnegie Mellon University |
-| Ming Gao | 2019–2021 | Econometrics and Statistics, University of Chicago |
-| Lin Gui | 2020 | Statistics, University of Chicago |
+| [Jin-Hong Du](https://jinhongdu-lab.github.io/) | 2019–2021 | Statistics, Carnegie Mellon University |
+| [Ming Gao](https://minggao97.github.io/) | 2019–2021 | Econometrics and Statistics, University of Chicago |
+| [Lin Gui](https://gl-ybnbxb.github.io/) | 2020 | Statistics, University of Chicago |
 | Bowei Kang | 2019–2020 | Biostatistics, University of Chicago |
 
 ### Undergraduate students

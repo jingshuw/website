@@ -1,5 +1,5 @@
 ---
-title: CATE
+title: cate
 summary: >-
   Adjust for unobserved confounders in multiple testing using a linear factor model fitted in R. [Paper](/publication/wang-2017-aa/)
 
