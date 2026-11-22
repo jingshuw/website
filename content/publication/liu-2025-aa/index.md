@@ -7,7 +7,7 @@ publication_types: ["3"]
 abstract: "The Perturbation Discrimination Score (PDS) is increasingly used to evaluate whether predicted perturbation effects remain distinguishable, including in Systema and the Virtual Cell Challenge. However, its behavior in high-dimensional gene-expression settings has not been examined in detail. We show that PDS is highly sensitive to the choice of similarity or distance measure and to the scale of predicted effects. Analysis of observed perturbation responses reveals that ℓ1 and ℓ2-based PDS behave very differently from cosine-based measures, even after norm matching. We provide geometric insight and discuss implications for future discrimination-based evaluation metrics."
 
 featured: false
-publication: "*arXiv*. Oral spotlight at the ICLR 2026 Gen² Workshop"
+publication: "*arXiv*"
 # tags: ["virtual cell", "single-cell genomics"]
 
 links:
@@ -17,7 +17,5 @@ links:
   url: https://arxiv.org/abs/2511.16954
 - name: Workshop paper
   url: https://openreview.net/pdf?id=p3Y9B90R5x
-- name: Talk recording
-  url: https://slideslive.com/39062594/effects-of-distance-metrics-and-scaling-on-the-perturbation-discrimination-score
 
 ---

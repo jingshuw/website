@@ -6,7 +6,6 @@ summary: >-
 date: "2021-01-01T00:00:00Z"
 
 tags:
-- Deep Learning
 - Single-cell genomics
 
 # Optional external URL for project (replaces project detail page).
