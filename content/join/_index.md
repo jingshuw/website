@@ -9,9 +9,9 @@ We welcome inquiries from PhD / Master students, postdoctoral scholars, and coll
 
 ### Postdoctoral Scholar in Single-Cell Genomics
 
-We are recruiting a postdoctoral scholar to develop statistical and machine learning methods for single-cell perturbation data. Human genetic studies can implicate a gene in disease while leaving open which cell types it affects and which molecular pathways are involved. We use perturbation experiments to investigate these questions.
+We are recruiting a postdoctoral scholar to develop statistical and computational methods for single-cell genomics. We are particularly interested in how single-cell perturbation experiments can illuminate gene regulation and human disease.
 
-One direction is to combine Perturb-seq measurements with single-cell atlases and gene representations learned by pretrained AI models. The postdoc could use these data to predict how different cell types respond to untested perturbations, evaluate the predictions against independent experiments, and quantify their uncertainty.
+The scholar could combine statistical inference with AI models trained on large single-cell datasets to predict how cells respond to perturbations, integrate single-cell measurements with human genetic data to study the pathways underlying complex traits, or draw on causal inference, machine learning, and evidence from multiple sources to design more informative perturbation experiments.
 
 ### Postdoctoral Scholar in Computational Neurogenomics  
 *(Joint position with Xiaochang Zhang, University of Chicago)*
