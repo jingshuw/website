@@ -1,6 +1,7 @@
 ---
 title: esaBcv
-summary: An R package to estimate the number of factors in factor analysis using bi-cross-validation. [Paper](https://jingshuw.org/publication/owen-2016-aa/)
+summary: >-
+  Estimate the number of latent factors in a data matrix using bi-cross-validation in R. [Paper](/publication/owen-2016-aa/)
 
 tags:
 - Factor Analysis

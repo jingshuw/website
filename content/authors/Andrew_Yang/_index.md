@@ -6,7 +6,7 @@ title: Andrew Yang
 superuser: false
 
 # Role/position
-role: Undergraduate student
+role: Undergraduate alum, 2025–2026
 
 # Organizations/Affiliations
 organizations:
@@ -48,7 +48,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master and Undergraduate Students
+- Alumni
 ---
 
-
+After working with the group as an undergraduate, Andrew entered the PhD program in Statistics at the University of Chicago.

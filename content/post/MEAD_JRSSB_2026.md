@@ -1,7 +1,7 @@
 ---
 title: "MEAD Paper Accepted in JRSS-B"
 date: 2026-02-25
-lastmod: 2026-02-25
+lastmod: 2026-11-21
 summary: "Our paper on estimating cell-type proportions from bulk RNA-seq data using single-cell references has been accepted for publication in the Journal of the Royal Statistical Society Series B."
 tags:
   - Publication
@@ -12,7 +12,7 @@ tags:
 
 Our paper, *Statistical Inference for Cell Type Deconvolution*, has been accepted for publication in the Journal of the Royal Statistical Society Series B.
 
-👉 [preprint: ArXiv: 2202.06420](https://doi.org/10.48550/arXiv.2202.06420)
+[Read the published article](https://doi.org/10.1093/jrsssb/qkag054) · [MEAD software](https://github.com/DongyueXie/MEAD) · [Preprint](https://arxiv.org/abs/2202.06420)
 
 MEAD is a statistical framework for estimating cell-type proportions in bulk RNA-seq samples using single-cell RNA-seq reference data. Two main methodological contributions are:
 

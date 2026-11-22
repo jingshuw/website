@@ -1,0 +1,14 @@
+---
+title: María Valdez Cabrera
+role: Postdoctoral scholar, jointly mentored by Jingshu Wang and Matthew Stephens
+organizations:
+  - name: University of Chicago
+social:
+  - icon: globe
+    icon_pack: fas
+    link: https://mariaavc.github.io/
+user_groups:
+  - Postdoctoral Scholars
+---
+
+María joined the Wang and Stephens groups on November 1, 2026. She earned her PhD in Biostatistics at the University of Washington. Her research includes statistical methods for comparing phylogenetic trees.

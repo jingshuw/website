@@ -7,7 +7,7 @@ publication_types: ["3"]
 abstract: "Prior work has described a global transcriptional response to gene perturbation, with many perturbations moving cells along a common direction. We find that perturbations contribute differently to this leading global trend and that substantial organization remains beyond it, including transferable perturbation-specific effects across datasets and a common hierarchy of responsive genes across perturbations. These patterns make simple strategies surprisingly competitive even in predicting effects beyond the leading global component."
 
 featured: false
-publication: "*bioRXiv*"
+publication: "*bioRxiv*"
 # tags: ["virtual cell", "single-cell genomics"]
 
 links:

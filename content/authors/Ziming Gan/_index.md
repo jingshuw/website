@@ -6,11 +6,11 @@ title: Ziming Gan
 superuser: false
 
 # Role/position
-role: Ph.D. student 
+role: PhD alum, 2026
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chicago
+- name: University of Science and Technology of China
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -48,7 +48,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Alumni
 ---
 
-
+Ziming earned a PhD in Statistics at the University of Chicago in 2026 and joined the University of Science and Technology of China as an assistant professor.

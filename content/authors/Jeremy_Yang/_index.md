@@ -6,7 +6,7 @@ title: Jeremy Yang
 superuser: false
 
 # Role/position
-role: Undergraduate student
+role: Master’s student
 
 # Organizations/Affiliations
 organizations:
@@ -48,7 +48,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master and Undergraduate Students
+- Master’s Students
 ---
 
-
+Jeremy joined the group as an undergraduate in 2025 and continued as a master’s student in 2026.

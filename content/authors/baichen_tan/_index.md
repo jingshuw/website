@@ -6,7 +6,7 @@ title: Baichen Tan
 superuser: false
 
 # Role/position
-role: Former undergraduate student (2024)
+role: Undergraduate alum, 2023–2024
 
 # Organizations/Affiliations
 organizations:

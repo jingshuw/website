@@ -27,7 +27,7 @@ education:
     institution: Stanford University
     year: 2016
   - course: BSc in Mathematics and Applied Mathematics
-    institution: Peking Univeristy
+    institution: Peking University
     year: 2011
 
 # Social/Academic Networking
@@ -51,7 +51,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: /files/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "jingshuw@uchicago.edu"

@@ -5,24 +5,38 @@ weight: 68
 title: "Alumni"
 ---
 
-**Master’s Students**
+### PhD students
 
-- Bowe Kang — Master’s student (2019–2020)
-- Jin-Hong Du — Master’s student (2019–2021)
-- Ming Gao — Master’s student (2019–2021)
-- Seung-Wan Jin — Master’s student (2020–2022)
-- Yi-Lin Liu — Master’s student (2020–2022)
-- Yingcheng Luo — Master’s student (2020–2022)
-- Taewan Kim — Master’s student (2021–2023)
-- Tianyu Chen — Master’s student (2021–2023)
-- Yao Rong — Master’s student (2021–2023)
-- KyongJu Lee - Master’s student (2023–2025)
-- Jiaming Liu - Master’s student (2023–2025)
-- Yilong Chen - Master’s student (2023–2025)
+- [Ziming Gan](/author/ziming-gan/) (2026) joined the University of Science and Technology of China as an assistant professor.
+- [Lin Gui](/author/lin-gui/) (2026) also earned a master’s degree at UChicago in 2020.
 
+### Master’s students
 
-**Undergraduate Students**
+| Student | Year(s) | Next PhD program |
+| --- | --- | --- |
+| Yilong Chen | 2023–2025 | Statistics, Northwestern University |
+| KyongJu Lee | 2023–2025 | Statistics, University of Pittsburgh |
+| Jiaming Liu | 2023–2025 | Computational Biology, University of Chicago |
+| Tianyu Chen | 2021–2023 | Statistics and Data Sciences, University of Texas at Austin |
+| Taewan Kim | 2021–2023 | — |
+| Liangzong Ma | 2023 | Quantitative Marketing, Harvard University |
+| Yao Rong | 2021–2023 | — |
+| Zixuan Wu | 2023 | Statistics, University of Chicago |
+| Seung-Wan Jin | 2020–2022 | Machine Learning, Georgia Tech |
+| Ethan Lewis | 2022 | — |
+| Yi-Lin Liu | 2020–2022 | — |
+| Yingcheng Luo | 2020–2022 | Statistics, Tsinghua University |
+| Jack Potrykus | 2022 | — |
+| Xinxin Chen | 2021 | Biostatistics, University of North Carolina |
+| Jin-Hong Du | 2019–2021 | Statistics, Carnegie Mellon University |
+| Ming Gao | 2019–2021 | Econometrics and Statistics, University of Chicago |
+| Lin Gui | 2020 | Statistics, University of Chicago |
+| Bowei Kang | 2019–2020 | Biostatistics, University of Chicago |
 
-- Shuhong Liu — Undergraduate student (2020)
-- Ethan Lewis — Undergraduate & Master’s student (2021–2022)
-- Baichen Tan - Undergraduate student (2024)
+### Undergraduate students
+
+- [Andrew Yang](/author/andrew-yang/) (2025–2026) entered the PhD program in Statistics at the University of Chicago.
+- [Jeremy Yang](/author/jeremy-yang/) (2025–2026) continued in the group as a master’s student.
+- Baichen Tan (2023–2024) entered the PhD program in Statistics at Columbia University.
+- Ethan Lewis (2021) continued in the group as a master’s student.
+- Shuhong Liu (2020)

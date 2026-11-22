@@ -1,9 +1,11 @@
 ---
 title: MR.RAPS
-summary: An R package for two-sample summary data Mendelian Randomization (MR) using the robust adjusted profile score. [Paper](https://jingshuw.org/publication/zhao-2020-aa/)
+summary: >-
+  Estimate causal effects from two-sample GWAS summary statistics with the robust adjusted profile score in R. [Paper](/publication/zhao-2020-aa/)
 
 tags:
 - Mendelian Randomization
+- Statistical Genetics
 
 date: "2018-11-01T00:00:00Z"
 

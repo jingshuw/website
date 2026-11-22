@@ -1,6 +1,7 @@
 ---
 title: SAVER-X
-summary: An R package for denoising scRNA-seq observed UMI counts by transfer learning from existing scRNA-seq datasets. We also provide an open-to-public [science Gateway](https://singlecellgateway.wharton.upenn.edu/) for online computation.  [Paper](https://jingshuw.org/publication/wang-2018-aa/)
+summary: >-
+  Denoise single-cell RNA-seq counts by transferring information from other datasets. Available as an R package and through the [SAVER-X gateway](https://singlecellgateway.wharton.upenn.edu/). [Paper](/publication/wang-2019-ab/)
 
 
 tags:

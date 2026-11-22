@@ -1,6 +1,7 @@
 ---
 title: CATE
-summary: An R package using a linear factor model to perform valid inference after adjust for hidden confounding factors [Paper](https://jingshuw.org/publication/wang-2017-aa/)
+summary: >-
+  Adjust for unobserved confounders in multiple testing using a linear factor model fitted in R. [Paper](/publication/wang-2017-aa/)
 
 tags:
 - Multiple Testing
@@ -10,11 +11,6 @@ date: "2017-01-01T00:00:00Z"
 
 
 # Optional external URL for project (replaces project detail page).
-links:
-- icon: paper
-  icon_pack: fab
-  name: newspaper
-  url: https://jingshuw.org/publication/du-2020-aa/
 
 external_link: https://cran.r-project.org/web/packages/cate/
 

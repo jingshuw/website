@@ -1,9 +1,11 @@
 ---
 title: GRAPPLE
-summary: An R package for Mendelian Randomization (MR), which features the detection of mutliple pleiotropic pathways, the direction of causation and multivariate MR. [Paper](https://jingshuw.org/publication/wang-2020-aa/)
+summary: >-
+  Use GWAS summary statistics to investigate pleiotropic pathways, assess the direction of causation, and fit multivariable Mendelian randomization models in R. [Paper](/publication/wang-2020-aa/)
 
 tags:
 - Mendelian Randomization
+- Statistical Genetics
 
 date: "2020-11-01T00:00:00Z"
 

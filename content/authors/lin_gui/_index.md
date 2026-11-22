@@ -6,7 +6,7 @@ title: Lin Gui
 superuser: false
 
 # Role/position
-role: Ph.D. student 
+role: PhD alum, 2026
 
 # Organizations/Affiliations
 organizations:
@@ -51,7 +51,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Alumni
 ---
-
-
