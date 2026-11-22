@@ -37,8 +37,8 @@ title: "Alumni"
 
 | Student | Year(s) | Next program |
 | --- | --- | --- |
-| [Andrew Yang](/author/andrew-yang/) | 2025–2026 | PhD in Statistics, University of Chicago |
-| [Jeremy Yang](/author/jeremy-yang/) | 2025–2026 | Continued in the group as a master’s student |
+| Andrew Yang | 2025–2026 | PhD in Statistics, University of Chicago |
+| Jeremy Yang | 2025–2026 | Continued in the group as a master’s student |
 | Baichen Tan | 2023–2024 | PhD in Statistics, Columbia University |
 | Ethan Lewis | 2021 | Continued in the group as a master’s student |
 | Shuhong Liu | 2020 | — |

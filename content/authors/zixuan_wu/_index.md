@@ -6,7 +6,7 @@ title: Zixuan Wu
 superuser: false
 
 # Role/position
-role: Ph.D. student 
+role: Ph.D. student (joint with Claire Donnat)
 
 # Organizations/Affiliations
 organizations:

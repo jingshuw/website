@@ -13,9 +13,11 @@ publication: "*Journal of the American Statistical Association*, accepted author
 links:
 # - name: ""
 #   url: ""
-- name: Journal article
+- name: Paper
   url: https://doi.org/10.1080/01621459.2026.2754151
 - name: Preprint
   url: https://arxiv.org/abs/2406.06980
+
+url_code: https://github.com/SoumyabrataKundu/TNDsen
 
 ---
