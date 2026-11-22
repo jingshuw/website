@@ -51,4 +51,4 @@ user_groups:
 - PhD Students
 ---
 
-Zixuan develops methods for Mendelian randomization and for improving the precision of family-based genome-wide association studies.
+Zixuan joined the group as a first-year master’s student and began his Ph.D. in Statistics at UChicago in 2023. His research focuses on Mendelian randomization, using genetic variation to study causal relationships between traits.

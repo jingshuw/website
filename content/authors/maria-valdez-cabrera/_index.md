@@ -11,6 +11,6 @@ user_groups:
   - Postdoctoral Scholars
 ---
 
-María joined the Wang and Stephens groups on November 1, 2026. She earned her PhD in Biostatistics at the University of Washington. Her research includes statistical methods for comparing phylogenetic trees.
+María joined the Wang and Stephens groups in November 2026. She earned her PhD in Biostatistics at the University of Washington. Her research includes statistical methods for comparing phylogenetic trees.
 
 [Personal website](https://mariaavc.github.io/)

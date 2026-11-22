@@ -51,4 +51,4 @@ user_groups:
 - PhD Students
 ---
 
-Qiyuan studies how gene expression changes after a genetic perturbation and how accurately models can predict those changes.
+Qiyuan joined the group as an undergraduate and began her Ph.D. in Statistics at UChicago in 2023. She develops statistical methods for analyzing single-cell perturbation data.

@@ -1,6 +1,8 @@
 ---
 # Display name
 title: Jingshu Wang
+slug: jingshu-wang
+layout: profile
 
 # Is this the primary user of the site?
 superuser: true
@@ -17,13 +19,14 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Statistical genetics
-- Multiple testing
-- Causal inference
+  - Single-cell genomics
+  - Statistical genetics
+  - Multiple testing
+  - Causal inference
 
 education:
   courses:
-  - course: PhD in statistics
+  - course: Ph.D. in Statistics
     institution: Stanford University
     year: 2016
   - course: BSc in Mathematics and Applied Mathematics
@@ -65,6 +68,8 @@ user_groups:
 - Principal Investigator
 ---
 
-I am currently an assistant professor at the Department of Statistics, the University of Chicago.
+I am an assistant professor in the Department of Statistics at the University of Chicago. My group develops statistical methods to study how cells respond to genetic perturbations and how genetic variation contributes to complex traits.
 
-I received my Ph.D. in statistics from Stanford in 2016 (adviser: Art B. Owen) and B.S. in Mathematics and Applied Mathematics from Peking University in 2011. I was a postdoc researcher with Nancy R. Zhang at Wharton Statistics Department from 2016-2019.
+I completed my Ph.D. at Stanford with Art B. Owen and was a postdoctoral researcher with Nancy R. Zhang at Wharton from 2016 to 2019.
+
+[Selected publications](/publication/) · [Curriculum vitae (PDF)](/files/CV.pdf)

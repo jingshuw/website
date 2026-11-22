@@ -1,0 +1,8 @@
+{{ define "main" }}
+  <section id="profile-page" class="pt-5">
+    <div class="container">
+      {{ $author := path.Base .File.Dir }}
+      {{ partial "widgets/about.html" (dict "root" . "page" . "author" $author) }}
+    </div>
+  </section>
+{{ end }}
