@@ -33,5 +33,5 @@ Week | Date | Topic | Slides | Extra materials | Due
 7| 2026-11-11 | Non-compliance and instrumental variables, part II |  {{% staticref "materials/stat246_2027/Lecture10.pdf" "newtab" %}}Lecture 10{{% /staticref %}} |{{% staticref "materials/stat246_2027/R_example5.html" "newtab" %}}R example on Job Search Intervention Study{{% /staticref %}}|---
 7| 2026-11-15 |---|---|---|HW3 due at 11:59pm
 8| 2026-11-18 | Unconfoundedness and propensity scores |  {{% staticref "materials/stat246_2027/Lecture11.pdf" "newtab" %}}Lecture 11{{% /staticref %}} |{{% staticref "materials/stat246_2027/R_example6.html" "newtab" %}}Stratification{{% /staticref %}}|---
-8| 2026-11-20 | Matching and inverse probability weighting |  {{% staticref "materials/stat246_2027/Lecture12.pdf" "newtab" %}}Lecture 12{{% /staticref %}} |{{% staticref "materials/stat246_2026/R_example7.html" "newtab" %}}Lalonde matching and IPW{{% /staticref %}}|---
+8| 2026-11-20 | Matching and inverse probability weighting |  {{% staticref "materials/stat246_2027/Lecture12.pdf" "newtab" %}}Lecture 12{{% /staticref %}} |{{% staticref "materials/stat246_2027/R_example7.html" "newtab" %}}Lalonde matching and IPW{{% /staticref %}}|---
 9| 2026-11-29 |---|---|---|HW4 due at 11:59pm
