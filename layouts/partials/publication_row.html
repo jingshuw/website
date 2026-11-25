@@ -1,6 +1,6 @@
 <article class="publication-row">
   <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-  <p class="publication-authors">{{ partial "page_metadata_authors" . }} ({{ .Date.Year }}).</p>
+  <p class="publication-authors">{{ partial "publication_byline" . }} ({{ .Date.Year }}).</p>
   {{ with .Params.publication_short | default .Params.publication }}
     <p class="publication-venue">{{ . | markdownify }}</p>
   {{ end }}

@@ -3,6 +3,10 @@
 {{- $ctx := . -}}
 {{- $page := $ctx.page | default $ctx -}}
 
+{{- if $page.Params.author_list_note -}}
+  <div class="publication-authors">{{ partial "publication_byline" $page }}</div>
+{{- end -}}
+
 {{- with $page.Date -}}
   <span class="article-date">
     {{- . | time.Format (site.Params.locale.date_format | default "Jan 2, 2006") -}}
